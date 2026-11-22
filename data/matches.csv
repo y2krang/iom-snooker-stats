@@ -1,0 +1,211 @@
+match_id,season,date,competition,home_team,away_team,venue,home_frames,away_frames
+1,2024-25,2024-10-07,League,Blue Ball Club,Yellow Jackets,Sample Hall,4,1
+2,2024-25,2024-10-07,League,Pink Pots,Brown Bears,Sample Club,2,3
+3,2024-25,2024-10-07,League,Green Baize,Rest and Spider,Sample Bar,3,2
+4,2024-25,2024-10-07,League,Cushion Kings,Black Ball,Sample Legion,3,2
+5,2024-25,2024-10-07,League,Long Pots,Safety First,Sample Inn,1,4
+6,2024-25,2024-10-14,League,Blue Ball Club,Brown Bears,Sample Hall,4,1
+7,2024-25,2024-10-14,League,Yellow Jackets,Rest and Spider,Sample Inn,3,2
+8,2024-25,2024-10-14,League,Pink Pots,Black Ball,Sample Club,2,3
+9,2024-25,2024-10-14,League,Green Baize,Safety First,Sample Bar,4,1
+10,2024-25,2024-10-14,League,Cushion Kings,Long Pots,Sample Legion,3,2
+11,2024-25,2024-10-21,League,Blue Ball Club,Rest and Spider,Sample Hall,3,2
+12,2024-25,2024-10-21,League,Brown Bears,Black Ball,Sample Legion,2,3
+13,2024-25,2024-10-21,League,Yellow Jackets,Safety First,Sample Inn,3,2
+14,2024-25,2024-10-21,League,Pink Pots,Long Pots,Sample Club,3,2
+15,2024-25,2024-10-21,League,Green Baize,Cushion Kings,Sample Bar,2,3
+16,2024-25,2024-10-28,League,Blue Ball Club,Black Ball,Sample Hall,4,1
+17,2024-25,2024-10-28,League,Rest and Spider,Safety First,Sample Bar,4,1
+18,2024-25,2024-10-28,League,Brown Bears,Long Pots,Sample Legion,1,4
+19,2024-25,2024-10-28,League,Yellow Jackets,Cushion Kings,Sample Inn,2,3
+20,2024-25,2024-10-28,League,Pink Pots,Green Baize,Sample Club,2,3
+21,2024-25,2024-11-04,League,Blue Ball Club,Safety First,Sample Hall,3,2
+22,2024-25,2024-11-04,League,Black Ball,Long Pots,Sample Club,2,3
+23,2024-25,2024-11-04,League,Rest and Spider,Cushion Kings,Sample Bar,2,3
+24,2024-25,2024-11-04,League,Brown Bears,Green Baize,Sample Legion,3,2
+25,2024-25,2024-11-04,League,Yellow Jackets,Pink Pots,Sample Inn,4,1
+26,2024-25,2024-11-11,League,Blue Ball Club,Long Pots,Sample Hall,1,4
+27,2024-25,2024-11-11,League,Safety First,Cushion Kings,Sample Hall,3,2
+28,2024-25,2024-11-11,League,Black Ball,Green Baize,Sample Club,5,0
+29,2024-25,2024-11-11,League,Rest and Spider,Pink Pots,Sample Bar,4,1
+30,2024-25,2024-11-11,League,Brown Bears,Yellow Jackets,Sample Legion,3,2
+31,2024-25,2024-11-18,League,Blue Ball Club,Cushion Kings,Sample Hall,4,1
+32,2024-25,2024-11-18,League,Long Pots,Green Baize,Sample Inn,1,4
+33,2024-25,2024-11-18,League,Safety First,Pink Pots,Sample Hall,2,3
+34,2024-25,2024-11-18,League,Black Ball,Yellow Jackets,Sample Club,5,0
+35,2024-25,2024-11-18,League,Rest and Spider,Brown Bears,Sample Bar,4,1
+36,2024-25,2024-11-25,League,Blue Ball Club,Green Baize,Sample Hall,5,0
+37,2024-25,2024-11-25,League,Cushion Kings,Pink Pots,Sample Legion,4,1
+38,2024-25,2024-11-25,League,Long Pots,Yellow Jackets,Sample Inn,3,2
+39,2024-25,2024-11-25,League,Safety First,Brown Bears,Sample Hall,3,2
+40,2024-25,2024-11-25,League,Black Ball,Rest and Spider,Sample Club,3,2
+41,2024-25,2024-12-02,League,Blue Ball Club,Pink Pots,Sample Hall,2,3
+42,2024-25,2024-12-02,League,Green Baize,Yellow Jackets,Sample Bar,1,4
+43,2024-25,2024-12-02,League,Cushion Kings,Brown Bears,Sample Legion,5,0
+44,2024-25,2024-12-02,League,Long Pots,Rest and Spider,Sample Inn,4,1
+45,2024-25,2024-12-02,League,Safety First,Black Ball,Sample Hall,3,2
+46,2024-25,2024-12-09,League,Yellow Jackets,Blue Ball Club,Sample Inn,5,0
+47,2024-25,2024-12-09,League,Brown Bears,Pink Pots,Sample Legion,2,3
+48,2024-25,2024-12-09,League,Rest and Spider,Green Baize,Sample Bar,1,4
+49,2024-25,2024-12-09,League,Black Ball,Cushion Kings,Sample Club,1,4
+50,2024-25,2024-12-09,League,Safety First,Long Pots,Sample Hall,3,2
+51,2024-25,2024-12-16,League,Brown Bears,Blue Ball Club,Sample Legion,2,3
+52,2024-25,2024-12-16,League,Rest and Spider,Yellow Jackets,Sample Bar,5,0
+53,2024-25,2024-12-16,League,Black Ball,Pink Pots,Sample Club,4,1
+54,2024-25,2024-12-16,League,Safety First,Green Baize,Sample Hall,3,2
+55,2024-25,2024-12-16,League,Long Pots,Cushion Kings,Sample Inn,3,2
+56,2024-25,2024-12-23,League,Rest and Spider,Blue Ball Club,Sample Bar,3,2
+57,2024-25,2024-12-23,League,Black Ball,Brown Bears,Sample Club,3,2
+58,2024-25,2024-12-23,League,Safety First,Yellow Jackets,Sample Hall,2,3
+59,2024-25,2024-12-23,League,Long Pots,Pink Pots,Sample Inn,3,2
+60,2024-25,2024-12-23,League,Cushion Kings,Green Baize,Sample Legion,4,1
+61,2024-25,2024-12-30,League,Black Ball,Blue Ball Club,Sample Club,2,3
+62,2024-25,2024-12-30,League,Safety First,Rest and Spider,Sample Hall,2,3
+63,2024-25,2024-12-30,League,Long Pots,Brown Bears,Sample Inn,3,2
+64,2024-25,2024-12-30,League,Cushion Kings,Yellow Jackets,Sample Legion,1,4
+65,2024-25,2024-12-30,League,Green Baize,Pink Pots,Sample Bar,2,3
+66,2024-25,2025-01-06,League,Safety First,Blue Ball Club,Sample Hall,3,2
+67,2024-25,2025-01-06,League,Long Pots,Black Ball,Sample Inn,2,3
+68,2024-25,2025-01-06,League,Cushion Kings,Rest and Spider,Sample Legion,4,1
+69,2024-25,2025-01-06,League,Green Baize,Brown Bears,Sample Bar,2,3
+70,2024-25,2025-01-06,League,Pink Pots,Yellow Jackets,Sample Club,4,1
+71,2024-25,2025-01-13,League,Long Pots,Blue Ball Club,Sample Inn,3,2
+72,2024-25,2025-01-13,League,Cushion Kings,Safety First,Sample Legion,4,1
+73,2024-25,2025-01-13,League,Green Baize,Black Ball,Sample Bar,3,2
+74,2024-25,2025-01-13,League,Pink Pots,Rest and Spider,Sample Club,2,3
+75,2024-25,2025-01-13,League,Yellow Jackets,Brown Bears,Sample Inn,4,1
+76,2024-25,2025-01-20,League,Cushion Kings,Blue Ball Club,Sample Legion,4,1
+77,2024-25,2025-01-20,League,Green Baize,Long Pots,Sample Bar,3,2
+78,2024-25,2025-01-20,League,Pink Pots,Safety First,Sample Club,3,2
+79,2024-25,2025-01-20,League,Yellow Jackets,Black Ball,Sample Inn,3,2
+80,2024-25,2025-01-20,League,Brown Bears,Rest and Spider,Sample Legion,2,3
+81,2024-25,2025-01-27,League,Green Baize,Blue Ball Club,Sample Bar,0,5
+82,2024-25,2025-01-27,League,Pink Pots,Cushion Kings,Sample Club,1,4
+83,2024-25,2025-01-27,League,Yellow Jackets,Long Pots,Sample Inn,1,4
+84,2024-25,2025-01-27,League,Brown Bears,Safety First,Sample Legion,3,2
+85,2024-25,2025-01-27,League,Rest and Spider,Black Ball,Sample Bar,1,4
+86,2024-25,2025-02-03,League,Pink Pots,Blue Ball Club,Sample Club,4,1
+87,2024-25,2025-02-03,League,Yellow Jackets,Green Baize,Sample Inn,3,2
+88,2024-25,2025-02-03,League,Brown Bears,Cushion Kings,Sample Legion,3,2
+89,2024-25,2025-02-03,League,Rest and Spider,Long Pots,Sample Bar,3,2
+90,2024-25,2025-02-03,League,Black Ball,Safety First,Sample Club,3,2
+91,2025-26,2025-10-07,League,Blue Ball Club,Yellow Jackets,Sample Hall,0,5
+92,2025-26,2025-10-07,League,Pink Pots,Brown Bears,Sample Club,1,4
+93,2025-26,2025-10-07,League,Green Baize,Rest and Spider,Sample Bar,2,3
+94,2025-26,2025-10-07,League,Cushion Kings,Black Ball,Sample Legion,2,3
+95,2025-26,2025-10-07,League,Long Pots,Safety First,Sample Inn,2,3
+96,2025-26,2025-10-14,League,Blue Ball Club,Brown Bears,Sample Hall,2,3
+97,2025-26,2025-10-14,League,Yellow Jackets,Rest and Spider,Sample Inn,3,2
+98,2025-26,2025-10-14,League,Pink Pots,Black Ball,Sample Club,2,3
+99,2025-26,2025-10-14,League,Green Baize,Safety First,Sample Bar,1,4
+100,2025-26,2025-10-14,League,Cushion Kings,Long Pots,Sample Legion,3,2
+101,2025-26,2025-10-21,League,Blue Ball Club,Rest and Spider,Sample Hall,0,5
+102,2025-26,2025-10-21,League,Brown Bears,Black Ball,Sample Legion,3,2
+103,2025-26,2025-10-21,League,Yellow Jackets,Safety First,Sample Inn,3,2
+104,2025-26,2025-10-21,League,Pink Pots,Long Pots,Sample Club,2,3
+105,2025-26,2025-10-21,League,Green Baize,Cushion Kings,Sample Bar,1,4
+106,2025-26,2025-10-28,League,Blue Ball Club,Black Ball,Sample Hall,4,1
+107,2025-26,2025-10-28,League,Rest and Spider,Safety First,Sample Bar,5,0
+108,2025-26,2025-10-28,League,Brown Bears,Long Pots,Sample Legion,2,3
+109,2025-26,2025-10-28,League,Yellow Jackets,Cushion Kings,Sample Inn,4,1
+110,2025-26,2025-10-28,League,Pink Pots,Green Baize,Sample Club,3,2
+111,2025-26,2025-11-04,League,Blue Ball Club,Safety First,Sample Hall,3,2
+112,2025-26,2025-11-04,League,Black Ball,Long Pots,Sample Club,3,2
+113,2025-26,2025-11-04,League,Rest and Spider,Cushion Kings,Sample Bar,2,3
+114,2025-26,2025-11-04,League,Brown Bears,Green Baize,Sample Legion,3,2
+115,2025-26,2025-11-04,League,Yellow Jackets,Pink Pots,Sample Inn,4,1
+116,2025-26,2025-11-11,League,Blue Ball Club,Long Pots,Sample Hall,3,2
+117,2025-26,2025-11-11,League,Safety First,Cushion Kings,Sample Hall,3,2
+118,2025-26,2025-11-11,League,Black Ball,Green Baize,Sample Club,3,2
+119,2025-26,2025-11-11,League,Rest and Spider,Pink Pots,Sample Bar,3,2
+120,2025-26,2025-11-11,League,Brown Bears,Yellow Jackets,Sample Legion,2,3
+121,2025-26,2025-11-18,League,Blue Ball Club,Cushion Kings,Sample Hall,3,2
+122,2025-26,2025-11-18,League,Long Pots,Green Baize,Sample Inn,3,2
+123,2025-26,2025-11-18,League,Safety First,Pink Pots,Sample Hall,2,3
+124,2025-26,2025-11-18,League,Black Ball,Yellow Jackets,Sample Club,4,1
+125,2025-26,2025-11-18,League,Rest and Spider,Brown Bears,Sample Bar,4,1
+126,2025-26,2025-11-25,League,Blue Ball Club,Green Baize,Sample Hall,4,1
+127,2025-26,2025-11-25,League,Cushion Kings,Pink Pots,Sample Legion,3,2
+128,2025-26,2025-11-25,League,Long Pots,Yellow Jackets,Sample Inn,3,2
+129,2025-26,2025-11-25,League,Safety First,Brown Bears,Sample Hall,4,1
+130,2025-26,2025-11-25,League,Black Ball,Rest and Spider,Sample Club,1,4
+131,2025-26,2025-12-02,League,Blue Ball Club,Pink Pots,Sample Hall,2,3
+132,2025-26,2025-12-02,League,Green Baize,Yellow Jackets,Sample Bar,4,1
+133,2025-26,2025-12-02,League,Cushion Kings,Brown Bears,Sample Legion,3,2
+134,2025-26,2025-12-02,League,Long Pots,Rest and Spider,Sample Inn,3,2
+135,2025-26,2025-12-02,League,Safety First,Black Ball,Sample Hall,1,4
+136,2025-26,2025-12-09,League,Yellow Jackets,Blue Ball Club,Sample Inn,5,0
+137,2025-26,2025-12-09,League,Brown Bears,Pink Pots,Sample Legion,3,2
+138,2025-26,2025-12-09,League,Rest and Spider,Green Baize,Sample Bar,3,2
+139,2025-26,2025-12-09,League,Black Ball,Cushion Kings,Sample Club,3,2
+140,2025-26,2025-12-09,League,Safety First,Long Pots,Sample Hall,1,4
+141,2025-26,2025-12-16,League,Brown Bears,Blue Ball Club,Sample Legion,5,0
+142,2025-26,2025-12-16,League,Rest and Spider,Yellow Jackets,Sample Bar,3,2
+143,2025-26,2025-12-16,League,Black Ball,Pink Pots,Sample Club,4,1
+144,2025-26,2025-12-16,League,Safety First,Green Baize,Sample Hall,1,4
+145,2025-26,2025-12-16,League,Long Pots,Cushion Kings,Sample Inn,2,3
+146,2025-26,2025-12-23,League,Rest and Spider,Blue Ball Club,Sample Bar,3,2
+147,2025-26,2025-12-23,League,Black Ball,Brown Bears,Sample Club,2,3
+148,2025-26,2025-12-23,League,Safety First,Yellow Jackets,Sample Hall,2,3
+149,2025-26,2025-12-23,League,Long Pots,Pink Pots,Sample Inn,3,2
+150,2025-26,2025-12-23,League,Cushion Kings,Green Baize,Sample Legion,4,1
+151,2025-26,2025-12-30,League,Black Ball,Blue Ball Club,Sample Club,2,3
+152,2025-26,2025-12-30,League,Safety First,Rest and Spider,Sample Hall,3,2
+153,2025-26,2025-12-30,League,Long Pots,Brown Bears,Sample Inn,2,3
+154,2025-26,2025-12-30,League,Cushion Kings,Yellow Jackets,Sample Legion,3,2
+155,2025-26,2025-12-30,League,Green Baize,Pink Pots,Sample Bar,3,2
+156,2025-26,2026-01-06,League,Safety First,Blue Ball Club,Sample Hall,3,2
+157,2025-26,2026-01-06,League,Long Pots,Black Ball,Sample Inn,2,3
+158,2025-26,2026-01-06,League,Cushion Kings,Rest and Spider,Sample Legion,1,4
+159,2025-26,2026-01-06,League,Green Baize,Brown Bears,Sample Bar,5,0
+160,2025-26,2026-01-06,League,Pink Pots,Yellow Jackets,Sample Club,2,3
+161,2025-26,2026-01-13,League,Long Pots,Blue Ball Club,Sample Inn,3,2
+162,2025-26,2026-01-13,League,Cushion Kings,Safety First,Sample Legion,3,2
+163,2025-26,2026-01-13,League,Green Baize,Black Ball,Sample Bar,4,1
+164,2025-26,2026-01-13,League,Pink Pots,Rest and Spider,Sample Club,3,2
+165,2025-26,2026-01-13,League,Yellow Jackets,Brown Bears,Sample Inn,3,2
+166,2025-26,2026-01-20,League,Cushion Kings,Blue Ball Club,Sample Legion,2,3
+167,2025-26,2026-01-20,League,Green Baize,Long Pots,Sample Bar,3,2
+168,2025-26,2026-01-20,League,Pink Pots,Safety First,Sample Club,2,3
+169,2025-26,2026-01-20,League,Yellow Jackets,Black Ball,Sample Inn,3,2
+170,2025-26,2026-01-20,League,Brown Bears,Rest and Spider,Sample Legion,2,3
+171,2025-26,2026-01-27,League,Green Baize,Blue Ball Club,Sample Bar,3,2
+172,2025-26,2026-01-27,League,Pink Pots,Cushion Kings,Sample Club,2,3
+173,2025-26,2026-01-27,League,Yellow Jackets,Long Pots,Sample Inn,4,1
+174,2025-26,2026-01-27,League,Brown Bears,Safety First,Sample Legion,4,1
+175,2025-26,2026-01-27,League,Rest and Spider,Black Ball,Sample Bar,3,2
+176,2025-26,2026-02-03,League,Pink Pots,Blue Ball Club,Sample Club,2,3
+177,2025-26,2026-02-03,League,Yellow Jackets,Green Baize,Sample Inn,3,2
+178,2025-26,2026-02-03,League,Brown Bears,Cushion Kings,Sample Legion,3,2
+179,2025-26,2026-02-03,League,Rest and Spider,Long Pots,Sample Bar,2,3
+180,2025-26,2026-02-03,League,Black Ball,Safety First,Sample Club,3,2
+181,2026-27,2026-10-07,League,Blue Ball Club,Yellow Jackets,Sample Hall,4,1
+182,2026-27,2026-10-07,League,Pink Pots,Brown Bears,Sample Club,2,3
+183,2026-27,2026-10-07,League,Green Baize,Rest and Spider,Sample Bar,3,2
+184,2026-27,2026-10-07,League,Cushion Kings,Black Ball,Sample Legion,3,2
+185,2026-27,2026-10-07,League,Long Pots,Safety First,Sample Inn,5,0
+186,2026-27,2026-10-14,League,Blue Ball Club,Brown Bears,Sample Hall,1,4
+187,2026-27,2026-10-14,League,Yellow Jackets,Rest and Spider,Sample Inn,1,4
+188,2026-27,2026-10-14,League,Pink Pots,Black Ball,Sample Club,3,2
+189,2026-27,2026-10-14,League,Green Baize,Safety First,Sample Bar,3,2
+190,2026-27,2026-10-14,League,Cushion Kings,Long Pots,Sample Legion,3,2
+191,2026-27,2026-10-21,League,Blue Ball Club,Rest and Spider,Sample Hall,2,3
+192,2026-27,2026-10-21,League,Brown Bears,Black Ball,Sample Legion,4,1
+193,2026-27,2026-10-21,League,Yellow Jackets,Safety First,Sample Inn,3,2
+194,2026-27,2026-10-21,League,Pink Pots,Long Pots,Sample Club,2,3
+195,2026-27,2026-10-21,League,Green Baize,Cushion Kings,Sample Bar,3,2
+196,2026-27,2026-10-28,League,Blue Ball Club,Black Ball,Sample Hall,3,2
+197,2026-27,2026-10-28,League,Rest and Spider,Safety First,Sample Bar,4,1
+198,2026-27,2026-10-28,League,Brown Bears,Long Pots,Sample Legion,4,1
+199,2026-27,2026-10-28,League,Yellow Jackets,Cushion Kings,Sample Inn,2,3
+200,2026-27,2026-10-28,League,Pink Pots,Green Baize,Sample Club,3,2
+201,2026-27,2026-11-04,League,Blue Ball Club,Safety First,Sample Hall,1,4
+202,2026-27,2026-11-04,League,Black Ball,Long Pots,Sample Club,2,3
+203,2026-27,2026-11-04,League,Rest and Spider,Cushion Kings,Sample Bar,5,0
+204,2026-27,2026-11-04,League,Brown Bears,Green Baize,Sample Legion,5,0
+205,2026-27,2026-11-04,League,Yellow Jackets,Pink Pots,Sample Inn,3,2
+206,2026-27,2026-11-11,League,Blue Ball Club,Long Pots,Sample Hall,2,3
+207,2026-27,2026-11-11,League,Safety First,Cushion Kings,Sample Hall,4,1
+208,2026-27,2026-11-11,League,Black Ball,Green Baize,Sample Club,5,0
+209,2026-27,2026-11-11,League,Rest and Spider,Pink Pots,Sample Bar,2,3
+210,2026-27,2026-11-11,League,Brown Bears,Yellow Jackets,Sample Legion,2,3

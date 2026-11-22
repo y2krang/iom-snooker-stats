@@ -1,0 +1,447 @@
+match_id,season,date,player,team,break
+2,2024-25,2024-10-07,Ben Inoff,Brown Bears,49
+3,2024-25,2024-10-07,Ed Screw,Rest and Spider,39
+3,2024-25,2024-10-07,Ed Ambers,Green Baize,62
+3,2024-25,2024-10-07,Ed Rester,Green Baize,21
+4,2024-25,2024-10-07,Jack Ambers,Cushion Kings,51
+4,2024-25,2024-10-07,Callum Swerve,Black Ball,21
+4,2024-25,2024-10-07,Dan Fluke,Black Ball,41
+4,2024-25,2024-10-07,Jack Kiss,Black Ball,20
+5,2024-25,2024-10-07,Gary Plant,Long Pots,40
+5,2024-25,2024-10-07,Ed Longpot,Long Pots,47
+5,2024-25,2024-10-07,Alex Swerve,Long Pots,25
+6,2024-25,2024-10-14,Rob Longpot,Blue Ball Club,29
+6,2024-25,2024-10-14,Rob Gully,Brown Bears,24
+7,2024-25,2024-10-14,Harry Swerve,Yellow Jackets,35
+7,2024-25,2024-10-14,Mark Hazard,Yellow Jackets,21
+8,2024-25,2024-10-14,Alex Endcush,Black Ball,57
+8,2024-25,2024-10-14,Nick Kiss,Pink Pots,22
+9,2024-25,2024-10-14,Gary Rester,Safety First,76
+10,2024-25,2024-10-14,Nick Ambers,Cushion Kings,87
+10,2024-25,2024-10-14,Will Rester,Long Pots,43
+11,2024-25,2024-10-21,Dan Baize,Blue Ball Club,22
+11,2024-25,2024-10-21,Kev Draw,Blue Ball Club,24
+11,2024-25,2024-10-21,Ed Screw,Rest and Spider,49
+11,2024-25,2024-10-21,Nick Draw,Rest and Spider,20
+12,2024-25,2024-10-21,Ben Inoff,Brown Bears,69
+12,2024-25,2024-10-21,Finn Longpot,Black Ball,64
+12,2024-25,2024-10-21,Owen Endcush,Brown Bears,38
+12,2024-25,2024-10-21,Liam Endcush,Brown Bears,27
+13,2024-25,2024-10-21,Jack Hazard,Yellow Jackets,39
+13,2024-25,2024-10-21,Tom Baize,Yellow Jackets,28
+13,2024-25,2024-10-21,Tom Screw,Safety First,20
+14,2024-25,2024-10-21,Rob Ambers,Pink Pots,29
+14,2024-25,2024-10-21,Paul Cueman,Long Pots,35
+14,2024-25,2024-10-21,Will Rester,Long Pots,20
+15,2024-25,2024-10-21,Mark Cueman,Green Baize,34
+16,2024-25,2024-10-28,Dan Fluke,Black Ball,36
+16,2024-25,2024-10-28,Finn Longpot,Black Ball,46
+16,2024-25,2024-10-28,Rob Cueman,Black Ball,40
+17,2024-25,2024-10-28,Alex Draw,Rest and Spider,47
+17,2024-25,2024-10-28,Ed Fluke,Safety First,38
+17,2024-25,2024-10-28,Gary Rester,Safety First,20
+17,2024-25,2024-10-28,Ian Baize,Safety First,62
+18,2024-25,2024-10-28,Callum Jaws,Long Pots,63
+18,2024-25,2024-10-28,Liam Endcush,Brown Bears,41
+18,2024-25,2024-10-28,Paul Cueman,Long Pots,30
+19,2024-25,2024-10-28,Paul Nap,Yellow Jackets,65
+19,2024-25,2024-10-28,Mark Ambers,Cushion Kings,27
+19,2024-25,2024-10-28,Dan Topspin,Yellow Jackets,36
+19,2024-25,2024-10-28,Ed Gully,Yellow Jackets,25
+20,2024-25,2024-10-28,Ian Plant,Green Baize,22
+20,2024-25,2024-10-28,Owen Cueman,Pink Pots,85
+22,2024-25,2024-11-04,Callum Jaws,Long Pots,21
+22,2024-25,2024-11-04,Ian Gully,Black Ball,45
+23,2024-25,2024-11-04,Nick Ambers,Cushion Kings,20
+23,2024-25,2024-11-04,Nick Draw,Rest and Spider,21
+23,2024-25,2024-11-04,Kev Inoff,Cushion Kings,38
+24,2024-25,2024-11-04,Rob Gully,Brown Bears,62
+24,2024-25,2024-11-04,Mark Kiss,Green Baize,25
+24,2024-25,2024-11-04,Finn Baize,Green Baize,26
+26,2024-25,2024-11-11,Owen Fluke,Long Pots,29
+27,2024-25,2024-11-11,Gary Topspin,Safety First,27
+27,2024-25,2024-11-11,Kev Inoff,Cushion Kings,20
+27,2024-25,2024-11-11,Jack Ambers,Cushion Kings,21
+27,2024-25,2024-11-11,Gary Rester,Safety First,93
+28,2024-25,2024-11-11,Ed Rester,Green Baize,24
+28,2024-25,2024-11-11,Ian Gully,Black Ball,102
+30,2024-25,2024-11-11,Owen Endcush,Brown Bears,36
+30,2024-25,2024-11-11,Dan Topspin,Yellow Jackets,27
+30,2024-25,2024-11-11,Liam Endcush,Brown Bears,28
+30,2024-25,2024-11-11,Rob Gully,Brown Bears,78
+31,2024-25,2024-11-18,Callum Inoff,Cushion Kings,72
+31,2024-25,2024-11-18,Kev Gully,Blue Ball Club,24
+31,2024-25,2024-11-18,Alex Ambers,Cushion Kings,46
+31,2024-25,2024-11-18,Rob Longpot,Blue Ball Club,21
+32,2024-25,2024-11-18,Finn Baize,Green Baize,20
+32,2024-25,2024-11-18,Callum Jaws,Long Pots,48
+32,2024-25,2024-11-18,Owen Fluke,Long Pots,20
+33,2024-25,2024-11-18,Tom Screw,Safety First,53
+33,2024-25,2024-11-18,Owen Cueman,Pink Pots,45
+33,2024-25,2024-11-18,Gary Rester,Safety First,36
+33,2024-25,2024-11-18,Nick Kiss,Pink Pots,24
+34,2024-25,2024-11-18,Jack Kiss,Black Ball,43
+34,2024-25,2024-11-18,Mark Hazard,Yellow Jackets,37
+35,2024-25,2024-11-18,Owen Inoff,Rest and Spider,70
+35,2024-25,2024-11-18,Will Swerve,Rest and Spider,24
+35,2024-25,2024-11-18,Sam Rester,Brown Bears,45
+35,2024-25,2024-11-18,Ian Cueman,Rest and Spider,27
+36,2024-25,2024-11-25,Owen Kiss,Blue Ball Club,21
+36,2024-25,2024-11-25,Finn Baize,Green Baize,24
+36,2024-25,2024-11-25,Dan Baize,Blue Ball Club,24
+37,2024-25,2024-11-25,Tom Longpot,Cushion Kings,20
+37,2024-25,2024-11-25,Rob Plant,Pink Pots,46
+38,2024-25,2024-11-25,Owen Fluke,Long Pots,29
+38,2024-25,2024-11-25,Will Nap,Long Pots,41
+38,2024-25,2024-11-25,Ed Longpot,Long Pots,20
+38,2024-25,2024-11-25,Finn Fluke,Yellow Jackets,20
+39,2024-25,2024-11-25,Owen Endcush,Brown Bears,40
+39,2024-25,2024-11-25,Rob Gully,Brown Bears,21
+39,2024-25,2024-11-25,Gary Topspin,Safety First,20
+40,2024-25,2024-11-25,Jack Kiss,Black Ball,20
+40,2024-25,2024-11-25,Will Swerve,Rest and Spider,40
+40,2024-25,2024-11-25,Alex Endcush,Black Ball,35
+41,2024-25,2024-12-02,Kev Draw,Blue Ball Club,59
+41,2024-25,2024-12-02,Alex Gully,Pink Pots,74
+41,2024-25,2024-12-02,Owen Kiss,Blue Ball Club,46
+42,2024-25,2024-12-02,Ed Gully,Yellow Jackets,29
+42,2024-25,2024-12-02,Jack Hazard,Yellow Jackets,24
+43,2024-25,2024-12-02,Nick Ambers,Cushion Kings,79
+43,2024-25,2024-12-02,Kev Plant,Brown Bears,49
+43,2024-25,2024-12-02,Jack Ambers,Cushion Kings,42
+43,2024-25,2024-12-02,Tom Jaws,Cushion Kings,32
+44,2024-25,2024-12-02,Gary Kiss,Rest and Spider,41
+45,2024-25,2024-12-02,Callum Cueman,Safety First,25
+45,2024-25,2024-12-02,Ed Fluke,Safety First,34
+45,2024-25,2024-12-02,Callum Swerve,Black Ball,31
+45,2024-25,2024-12-02,Gary Topspin,Safety First,24
+45,2024-25,2024-12-02,Ian Gully,Black Ball,26
+46,2024-25,2024-12-09,Finn Kiss,Blue Ball Club,35
+47,2024-25,2024-12-09,Alex Gully,Pink Pots,20
+47,2024-25,2024-12-09,Sam Rester,Brown Bears,29
+48,2024-25,2024-12-09,Ed Ambers,Green Baize,21
+48,2024-25,2024-12-09,Alex Draw,Rest and Spider,36
+49,2024-25,2024-12-09,Liam Hazard,Black Ball,78
+50,2024-25,2024-12-09,Ed Longpot,Long Pots,22
+50,2024-25,2024-12-09,Kev Masse,Safety First,30
+50,2024-25,2024-12-09,Alex Swerve,Long Pots,48
+51,2024-25,2024-12-16,Dan Baize,Blue Ball Club,21
+52,2024-25,2024-12-16,Tom Baize,Yellow Jackets,22
+52,2024-25,2024-12-16,Finn Fluke,Yellow Jackets,60
+52,2024-25,2024-12-16,Owen Inoff,Rest and Spider,25
+53,2024-25,2024-12-16,Liam Hazard,Black Ball,55
+53,2024-25,2024-12-16,Nick Kiss,Pink Pots,22
+53,2024-25,2024-12-16,Dan Fluke,Black Ball,20
+53,2024-25,2024-12-16,Rob Kiss,Pink Pots,29
+54,2024-25,2024-12-16,Finn Baize,Green Baize,43
+54,2024-25,2024-12-16,Ian Baize,Safety First,71
+55,2024-25,2024-12-16,Jack Ambers,Cushion Kings,72
+56,2024-25,2024-12-23,Alex Draw,Rest and Spider,92
+57,2024-25,2024-12-23,Finn Longpot,Black Ball,37
+57,2024-25,2024-12-23,Sam Rester,Brown Bears,20
+58,2024-25,2024-12-23,Finn Fluke,Yellow Jackets,48
+58,2024-25,2024-12-23,Paul Nap,Yellow Jackets,46
+59,2024-25,2024-12-23,Ed Longpot,Long Pots,70
+61,2024-25,2024-12-30,Alex Endcush,Black Ball,47
+61,2024-25,2024-12-30,Dan Baize,Blue Ball Club,21
+63,2024-25,2024-12-30,Owen Endcush,Brown Bears,36
+63,2024-25,2024-12-30,Rob Gully,Brown Bears,27
+63,2024-25,2024-12-30,Ed Longpot,Long Pots,47
+64,2024-25,2024-12-30,Mark Ambers,Cushion Kings,30
+64,2024-25,2024-12-30,Paul Nap,Yellow Jackets,60
+64,2024-25,2024-12-30,Finn Fluke,Yellow Jackets,41
+64,2024-25,2024-12-30,Tom Jaws,Cushion Kings,22
+65,2024-25,2024-12-30,Finn Baize,Green Baize,32
+65,2024-25,2024-12-30,Callum Ambers,Pink Pots,46
+66,2024-25,2025-01-06,Tom Screw,Safety First,26
+67,2024-25,2025-01-06,Jack Kiss,Black Ball,81
+68,2024-25,2025-01-06,Jack Ambers,Cushion Kings,22
+69,2024-25,2025-01-06,Rob Gully,Brown Bears,22
+69,2024-25,2025-01-06,Ed Ambers,Green Baize,65
+70,2024-25,2025-01-06,Finn Fluke,Yellow Jackets,20
+70,2024-25,2025-01-06,Rob Ambers,Pink Pots,72
+70,2024-25,2025-01-06,Paul Nap,Yellow Jackets,78
+71,2024-25,2025-01-13,Owen Fluke,Long Pots,20
+71,2024-25,2025-01-13,Owen Kiss,Blue Ball Club,28
+71,2024-25,2025-01-13,Kev Draw,Blue Ball Club,22
+71,2024-25,2025-01-13,Will Rester,Long Pots,40
+72,2024-25,2025-01-13,Callum Inoff,Cushion Kings,20
+72,2024-25,2025-01-13,Ian Baize,Safety First,31
+73,2024-25,2025-01-13,Alex Endcush,Black Ball,22
+73,2024-25,2025-01-13,Ian Plant,Green Baize,26
+74,2024-25,2025-01-13,Rob Plant,Pink Pots,38
+74,2024-25,2025-01-13,Alex Gully,Pink Pots,29
+74,2024-25,2025-01-13,Rob Kiss,Pink Pots,20
+75,2024-25,2025-01-13,Paul Nap,Yellow Jackets,58
+75,2024-25,2025-01-13,Dan Topspin,Yellow Jackets,56
+76,2024-25,2025-01-20,Kev Inoff,Cushion Kings,20
+76,2024-25,2025-01-20,Nick Ambers,Cushion Kings,47
+76,2024-25,2025-01-20,Paul Endcush,Blue Ball Club,33
+77,2024-25,2025-01-20,Will Rester,Long Pots,45
+77,2024-25,2025-01-20,Finn Baize,Green Baize,36
+77,2024-25,2025-01-20,Ed Longpot,Long Pots,46
+78,2024-25,2025-01-20,Ian Baize,Safety First,64
+78,2024-25,2025-01-20,Rob Plant,Pink Pots,37
+79,2024-25,2025-01-20,Alex Endcush,Black Ball,69
+79,2024-25,2025-01-20,Mark Hazard,Yellow Jackets,39
+79,2024-25,2025-01-20,Finn Longpot,Black Ball,30
+80,2024-25,2025-01-20,Sam Rester,Brown Bears,51
+81,2024-25,2025-01-27,Kev Draw,Blue Ball Club,51
+81,2024-25,2025-01-27,Dan Baize,Blue Ball Club,20
+81,2024-25,2025-01-27,Ben Jaws,Green Baize,26
+82,2024-25,2025-01-27,Alex Ambers,Cushion Kings,34
+83,2024-25,2025-01-27,Mark Hazard,Yellow Jackets,61
+84,2024-25,2025-01-27,Ben Inoff,Brown Bears,43
+84,2024-25,2025-01-27,Ed Fluke,Safety First,26
+85,2024-25,2025-01-27,Gary Kiss,Rest and Spider,42
+86,2024-25,2025-02-03,Dan Baize,Blue Ball Club,28
+86,2024-25,2025-02-03,Rob Kiss,Pink Pots,20
+87,2024-25,2025-02-03,Finn Fluke,Yellow Jackets,89
+87,2024-25,2025-02-03,Ed Rester,Green Baize,21
+88,2024-25,2025-02-03,Kev Inoff,Cushion Kings,20
+88,2024-25,2025-02-03,Callum Inoff,Cushion Kings,20
+89,2024-25,2025-02-03,Ian Cueman,Rest and Spider,63
+89,2024-25,2025-02-03,Rob Endcush,Rest and Spider,82
+89,2024-25,2025-02-03,Gary Plant,Long Pots,36
+90,2024-25,2025-02-03,Ian Gully,Black Ball,39
+90,2024-25,2025-02-03,Tom Screw,Safety First,20
+90,2024-25,2025-02-03,Gary Rester,Safety First,34
+91,2025-26,2025-10-07,Dan Baize,Blue Ball Club,26
+91,2025-26,2025-10-07,Jack Hazard,Yellow Jackets,23
+91,2025-26,2025-10-07,Kev Gully,Blue Ball Club,37
+91,2025-26,2025-10-07,Finn Fluke,Yellow Jackets,81
+92,2025-26,2025-10-07,Ben Inoff,Brown Bears,25
+93,2025-26,2025-10-07,Ed Ambers,Green Baize,50
+93,2025-26,2025-10-07,Nick Draw,Rest and Spider,34
+93,2025-26,2025-10-07,Mark Cueman,Green Baize,21
+94,2025-26,2025-10-07,Callum Inoff,Cushion Kings,50
+95,2025-26,2025-10-07,Ian Baize,Safety First,51
+96,2025-26,2025-10-14,Owen Endcush,Brown Bears,77
+96,2025-26,2025-10-14,Dan Baize,Blue Ball Club,24
+97,2025-26,2025-10-14,Will Swerve,Rest and Spider,35
+98,2025-26,2025-10-14,Owen Cueman,Pink Pots,24
+98,2025-26,2025-10-14,Rob Kiss,Pink Pots,20
+99,2025-26,2025-10-14,Gary Rester,Safety First,71
+100,2025-26,2025-10-14,Tom Jaws,Cushion Kings,27
+100,2025-26,2025-10-14,Will Nap,Long Pots,27
+101,2025-26,2025-10-21,Owen Kiss,Blue Ball Club,33
+101,2025-26,2025-10-21,Rob Endcush,Rest and Spider,98
+102,2025-26,2025-10-21,Finn Longpot,Black Ball,38
+103,2025-26,2025-10-21,Mark Hazard,Yellow Jackets,50
+103,2025-26,2025-10-21,Callum Cueman,Safety First,27
+103,2025-26,2025-10-21,Ian Baize,Safety First,57
+103,2025-26,2025-10-21,Finn Fluke,Yellow Jackets,20
+104,2025-26,2025-10-21,Rob Ambers,Pink Pots,22
+104,2025-26,2025-10-21,Paul Cueman,Long Pots,26
+104,2025-26,2025-10-21,Gary Plant,Long Pots,26
+106,2025-26,2025-10-28,Jack Kiss,Black Ball,35
+106,2025-26,2025-10-28,Liam Hazard,Black Ball,93
+107,2025-26,2025-10-28,Alex Draw,Rest and Spider,32
+109,2025-26,2025-10-28,Tom Longpot,Cushion Kings,20
+110,2025-26,2025-10-28,Ian Plant,Green Baize,77
+110,2025-26,2025-10-28,Paul Masse,Pink Pots,32
+110,2025-26,2025-10-28,Finn Baize,Green Baize,25
+111,2025-26,2025-11-04,Kev Draw,Blue Ball Club,44
+112,2025-26,2025-11-04,Ian Gully,Black Ball,83
+112,2025-26,2025-11-04,Will Rester,Long Pots,21
+114,2025-26,2025-11-04,Liam Endcush,Brown Bears,34
+114,2025-26,2025-11-04,Rob Gully,Brown Bears,28
+114,2025-26,2025-11-04,Paul Inoff,Green Baize,46
+115,2025-26,2025-11-04,Mark Hazard,Yellow Jackets,28
+115,2025-26,2025-11-04,Owen Cueman,Pink Pots,29
+116,2025-26,2025-11-11,Finn Kiss,Blue Ball Club,21
+116,2025-26,2025-11-11,Alex Swerve,Long Pots,22
+117,2025-26,2025-11-11,Alex Ambers,Cushion Kings,27
+117,2025-26,2025-11-11,Ed Fluke,Safety First,37
+118,2025-26,2025-11-11,Paul Inoff,Green Baize,26
+119,2025-26,2025-11-11,Nick Draw,Rest and Spider,33
+119,2025-26,2025-11-11,Gary Kiss,Rest and Spider,28
+119,2025-26,2025-11-11,Owen Cueman,Pink Pots,46
+120,2025-26,2025-11-11,Finn Fluke,Yellow Jackets,80
+121,2025-26,2025-11-18,Nick Ambers,Cushion Kings,29
+121,2025-26,2025-11-18,Mark Ambers,Cushion Kings,27
+121,2025-26,2025-11-18,Kev Draw,Blue Ball Club,33
+122,2025-26,2025-11-18,Mark Cueman,Green Baize,42
+123,2025-26,2025-11-18,Ian Baize,Safety First,77
+123,2025-26,2025-11-18,Gary Rester,Safety First,64
+124,2025-26,2025-11-18,Finn Longpot,Black Ball,20
+124,2025-26,2025-11-18,Dan Topspin,Yellow Jackets,49
+125,2025-26,2025-11-18,Ian Cueman,Rest and Spider,20
+126,2025-26,2025-11-25,Ben Jaws,Green Baize,21
+126,2025-26,2025-11-25,Ian Plant,Green Baize,27
+127,2025-26,2025-11-25,Nick Kiss,Pink Pots,20
+127,2025-26,2025-11-25,Callum Inoff,Cushion Kings,34
+127,2025-26,2025-11-25,Paul Masse,Pink Pots,23
+129,2025-26,2025-11-25,Rob Swerve,Safety First,26
+129,2025-26,2025-11-25,Tom Screw,Safety First,24
+129,2025-26,2025-11-25,Ben Inoff,Brown Bears,78
+130,2025-26,2025-11-25,Ian Gully,Black Ball,29
+131,2025-26,2025-12-02,Paul Endcush,Blue Ball Club,40
+132,2025-26,2025-12-02,Mark Hazard,Yellow Jackets,93
+132,2025-26,2025-12-02,Finn Baize,Green Baize,21
+132,2025-26,2025-12-02,Dan Topspin,Yellow Jackets,57
+133,2025-26,2025-12-02,Ben Inoff,Brown Bears,76
+134,2025-26,2025-12-02,Rob Endcush,Rest and Spider,38
+134,2025-26,2025-12-02,Gary Kiss,Rest and Spider,21
+134,2025-26,2025-12-02,Will Rester,Long Pots,21
+134,2025-26,2025-12-02,Nick Draw,Rest and Spider,20
+134,2025-26,2025-12-02,Alex Draw,Rest and Spider,85
+135,2025-26,2025-12-02,Tom Screw,Safety First,34
+135,2025-26,2025-12-02,Rob Swerve,Safety First,49
+135,2025-26,2025-12-02,Jack Kiss,Black Ball,59
+135,2025-26,2025-12-02,Gary Rester,Safety First,25
+136,2025-26,2025-12-09,Mark Hazard,Yellow Jackets,34
+136,2025-26,2025-12-09,Rob Longpot,Blue Ball Club,51
+136,2025-26,2025-12-09,Dan Baize,Blue Ball Club,32
+136,2025-26,2025-12-09,Harry Swerve,Yellow Jackets,51
+137,2025-26,2025-12-09,Rob Kiss,Pink Pots,30
+138,2025-26,2025-12-09,Finn Baize,Green Baize,75
+138,2025-26,2025-12-09,Paul Inoff,Green Baize,37
+138,2025-26,2025-12-09,Ed Screw,Rest and Spider,70
+140,2025-26,2025-12-09,Will Rester,Long Pots,63
+141,2025-26,2025-12-16,Sam Rester,Brown Bears,24
+141,2025-26,2025-12-16,Nick Cueman,Blue Ball Club,44
+141,2025-26,2025-12-16,Dan Baize,Blue Ball Club,68
+142,2025-26,2025-12-16,Dan Topspin,Yellow Jackets,54
+142,2025-26,2025-12-16,Ian Cueman,Rest and Spider,40
+142,2025-26,2025-12-16,Ed Screw,Rest and Spider,21
+143,2025-26,2025-12-16,Ian Gully,Black Ball,52
+145,2025-26,2025-12-16,Owen Fluke,Long Pots,72
+145,2025-26,2025-12-16,Tom Longpot,Cushion Kings,41
+145,2025-26,2025-12-16,Will Nap,Long Pots,41
+146,2025-26,2025-12-23,Ian Cueman,Rest and Spider,79
+146,2025-26,2025-12-23,Rob Endcush,Rest and Spider,43
+147,2025-26,2025-12-23,Owen Endcush,Brown Bears,30
+147,2025-26,2025-12-23,Alex Endcush,Black Ball,52
+149,2025-26,2025-12-23,Alex Swerve,Long Pots,91
+150,2025-26,2025-12-23,Callum Inoff,Cushion Kings,22
+150,2025-26,2025-12-23,Jack Ambers,Cushion Kings,42
+150,2025-26,2025-12-23,Mark Cueman,Green Baize,20
+150,2025-26,2025-12-23,Nick Ambers,Cushion Kings,82
+151,2025-26,2025-12-30,Owen Kiss,Blue Ball Club,21
+151,2025-26,2025-12-30,Nick Cueman,Blue Ball Club,20
+151,2025-26,2025-12-30,Alex Endcush,Black Ball,25
+152,2025-26,2025-12-30,Gary Topspin,Safety First,28
+152,2025-26,2025-12-30,Gary Kiss,Rest and Spider,34
+153,2025-26,2025-12-30,Alex Swerve,Long Pots,35
+153,2025-26,2025-12-30,Will Nap,Long Pots,24
+154,2025-26,2025-12-30,Nick Ambers,Cushion Kings,23
+154,2025-26,2025-12-30,Callum Inoff,Cushion Kings,42
+154,2025-26,2025-12-30,Dan Topspin,Yellow Jackets,33
+154,2025-26,2025-12-30,Jack Ambers,Cushion Kings,27
+154,2025-26,2025-12-30,Paul Nap,Yellow Jackets,33
+155,2025-26,2025-12-30,Ed Rester,Green Baize,53
+155,2025-26,2025-12-30,Finn Baize,Green Baize,61
+155,2025-26,2025-12-30,Ed Ambers,Green Baize,57
+157,2025-26,2026-01-06,Jack Kiss,Black Ball,24
+157,2025-26,2026-01-06,Paul Cueman,Long Pots,25
+157,2025-26,2026-01-06,Callum Jaws,Long Pots,20
+157,2025-26,2026-01-06,Finn Longpot,Black Ball,42
+158,2025-26,2026-01-06,Callum Inoff,Cushion Kings,20
+158,2025-26,2026-01-06,Nick Draw,Rest and Spider,33
+158,2025-26,2026-01-06,Gary Kiss,Rest and Spider,70
+159,2025-26,2026-01-06,Finn Baize,Green Baize,32
+159,2025-26,2026-01-06,Paul Inoff,Green Baize,53
+160,2025-26,2026-01-06,Nick Kiss,Pink Pots,20
+160,2025-26,2026-01-06,Alex Gully,Pink Pots,76
+161,2025-26,2026-01-13,Will Nap,Long Pots,23
+162,2025-26,2026-01-13,Gary Rester,Safety First,27
+162,2025-26,2026-01-13,Ian Baize,Safety First,27
+162,2025-26,2026-01-13,Callum Inoff,Cushion Kings,33
+163,2025-26,2026-01-13,Callum Swerve,Black Ball,20
+163,2025-26,2026-01-13,Ian Plant,Green Baize,67
+163,2025-26,2026-01-13,Ian Gully,Black Ball,28
+163,2025-26,2026-01-13,Finn Baize,Green Baize,49
+164,2025-26,2026-01-13,Alex Draw,Rest and Spider,33
+164,2025-26,2026-01-13,Paul Masse,Pink Pots,23
+164,2025-26,2026-01-13,Rob Ambers,Pink Pots,45
+165,2025-26,2026-01-13,Ed Gully,Yellow Jackets,26
+167,2025-26,2026-01-20,Ed Rester,Green Baize,30
+168,2025-26,2026-01-20,Nick Kiss,Pink Pots,40
+168,2025-26,2026-01-20,Owen Cueman,Pink Pots,30
+168,2025-26,2026-01-20,Kev Masse,Safety First,41
+169,2025-26,2026-01-20,Paul Nap,Yellow Jackets,20
+169,2025-26,2026-01-20,Dan Topspin,Yellow Jackets,38
+170,2025-26,2026-01-20,Alex Draw,Rest and Spider,26
+170,2025-26,2026-01-20,Rob Endcush,Rest and Spider,94
+170,2025-26,2026-01-20,Ed Screw,Rest and Spider,20
+171,2025-26,2026-01-27,Finn Baize,Green Baize,50
+172,2025-26,2026-01-27,Tom Longpot,Cushion Kings,41
+172,2025-26,2026-01-27,Jack Ambers,Cushion Kings,73
+172,2025-26,2026-01-27,Mark Ambers,Cushion Kings,51
+173,2025-26,2026-01-27,Paul Nap,Yellow Jackets,41
+174,2025-26,2026-01-27,Liam Endcush,Brown Bears,21
+174,2025-26,2026-01-27,Ian Baize,Safety First,25
+174,2025-26,2026-01-27,Ben Inoff,Brown Bears,41
+174,2025-26,2026-01-27,Gary Rester,Safety First,74
+175,2025-26,2026-01-27,Owen Inoff,Rest and Spider,48
+175,2025-26,2026-01-27,Rob Endcush,Rest and Spider,25
+175,2025-26,2026-01-27,Ian Gully,Black Ball,26
+176,2025-26,2026-02-03,Kev Draw,Blue Ball Club,59
+176,2025-26,2026-02-03,Paul Masse,Pink Pots,39
+177,2025-26,2026-02-03,Ian Plant,Green Baize,21
+177,2025-26,2026-02-03,Paul Inoff,Green Baize,45
+178,2025-26,2026-02-03,Callum Inoff,Cushion Kings,57
+178,2025-26,2026-02-03,Owen Endcush,Brown Bears,21
+179,2025-26,2026-02-03,Alex Swerve,Long Pots,33
+180,2025-26,2026-02-03,Rob Swerve,Safety First,20
+180,2025-26,2026-02-03,Jack Kiss,Black Ball,22
+180,2025-26,2026-02-03,Ian Gully,Black Ball,31
+181,2026-27,2026-10-07,Kev Draw,Blue Ball Club,48
+181,2026-27,2026-10-07,Tom Baize,Yellow Jackets,23
+182,2026-27,2026-10-07,Kev Plant,Brown Bears,22
+183,2026-27,2026-10-07,Alex Draw,Rest and Spider,20
+183,2026-27,2026-10-07,Finn Baize,Green Baize,80
+185,2026-27,2026-10-07,Owen Fluke,Long Pots,34
+186,2026-27,2026-10-14,Nick Cueman,Blue Ball Club,22
+186,2026-27,2026-10-14,Kev Draw,Blue Ball Club,21
+186,2026-27,2026-10-14,Rob Gully,Brown Bears,32
+187,2026-27,2026-10-14,Ian Cueman,Rest and Spider,22
+187,2026-27,2026-10-14,Dan Topspin,Yellow Jackets,37
+188,2026-27,2026-10-14,Rob Cueman,Black Ball,29
+189,2026-27,2026-10-14,Paul Inoff,Green Baize,22
+189,2026-27,2026-10-14,Gary Rester,Safety First,69
+189,2026-27,2026-10-14,Kev Masse,Safety First,66
+190,2026-27,2026-10-14,Jack Ambers,Cushion Kings,28
+190,2026-27,2026-10-14,Alex Ambers,Cushion Kings,20
+190,2026-27,2026-10-14,Tom Longpot,Cushion Kings,69
+190,2026-27,2026-10-14,Will Nap,Long Pots,20
+191,2026-27,2026-10-21,Kev Gully,Blue Ball Club,60
+192,2026-27,2026-10-21,Sam Rester,Brown Bears,20
+192,2026-27,2026-10-21,Liam Hazard,Black Ball,50
+193,2026-27,2026-10-21,Paul Nap,Yellow Jackets,61
+193,2026-27,2026-10-21,Rob Swerve,Safety First,30
+193,2026-27,2026-10-21,Mark Hazard,Yellow Jackets,35
+194,2026-27,2026-10-21,Will Nap,Long Pots,20
+195,2026-27,2026-10-21,Paul Inoff,Green Baize,52
+195,2026-27,2026-10-21,Nick Ambers,Cushion Kings,83
+196,2026-27,2026-10-28,Alex Endcush,Black Ball,24
+196,2026-27,2026-10-28,Finn Longpot,Black Ball,29
+196,2026-27,2026-10-28,Rob Cueman,Black Ball,21
+197,2026-27,2026-10-28,Nick Draw,Rest and Spider,49
+197,2026-27,2026-10-28,Kev Masse,Safety First,27
+197,2026-27,2026-10-28,Gary Rester,Safety First,24
+197,2026-27,2026-10-28,Alex Draw,Rest and Spider,42
+198,2026-27,2026-10-28,Alex Swerve,Long Pots,23
+199,2026-27,2026-10-28,Dan Topspin,Yellow Jackets,50
+199,2026-27,2026-10-28,Paul Nap,Yellow Jackets,39
+199,2026-27,2026-10-28,Jack Hazard,Yellow Jackets,23
+200,2026-27,2026-10-28,Paul Inoff,Green Baize,54
+201,2026-27,2026-11-04,Rob Longpot,Blue Ball Club,55
+202,2026-27,2026-11-04,Jack Kiss,Black Ball,21
+203,2026-27,2026-11-04,Tom Jaws,Cushion Kings,22
+204,2026-27,2026-11-04,Ed Ambers,Green Baize,44
+204,2026-27,2026-11-04,Sam Rester,Brown Bears,20
+204,2026-27,2026-11-04,Ed Rester,Green Baize,27
+206,2026-27,2026-11-11,Kev Gully,Blue Ball Club,22
+206,2026-27,2026-11-11,Paul Cueman,Long Pots,50
+207,2026-27,2026-11-11,Ed Fluke,Safety First,30
+207,2026-27,2026-11-11,Mark Ambers,Cushion Kings,31
+208,2026-27,2026-11-11,Finn Longpot,Black Ball,21
+208,2026-27,2026-11-11,Finn Baize,Green Baize,76
+209,2026-27,2026-11-11,Owen Cueman,Pink Pots,26
+210,2026-27,2026-11-11,Liam Endcush,Brown Bears,20
+210,2026-27,2026-11-11,Paul Nap,Yellow Jackets,65
+210,2026-27,2026-11-11,Ben Inoff,Brown Bears,83
+210,2026-27,2026-11-11,Finn Fluke,Yellow Jackets,20
+210,2026-27,2026-11-11,Jack Hazard,Yellow Jackets,21

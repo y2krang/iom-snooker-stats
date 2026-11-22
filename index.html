@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>IOM Snooker Stats</title>
+<link rel="stylesheet" href="style.css">
+<script>try{var t=localStorage.getItem('theme');if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+</head>
+<body>
+<header>
+  <a class="brand" href="#players">IOM Snooker Stats</a>
+  <nav>
+    <a href="#players" data-tab="players">Players</a>
+    <a href="#teams" data-tab="teams">Teams</a>
+    <a href="#table" data-tab="table">Table</a>
+    <a href="#seasons" data-tab="seasons">Seasons</a>
+    <a href="#breaks" data-tab="breaks">Breaks</a>
+    <a href="#leaders" data-tab="leaders">Leaderboards</a>
+    <a href="#records" data-tab="records">Records</a>
+  </nav>
+  <div class="tools">
+    <input id="search" list="names" placeholder="Search player or team" autocomplete="off" aria-label="Search player or team">
+    <datalist id="names"></datalist>
+    <select id="season" aria-label="Season"></select>
+    <button id="theme" title="Light or dark" aria-label="Switch light or dark">◐</button>
+  </div>
+</header>
+<div id="banner" class="banner" hidden></div>
+<main id="app"><p class="dim">Loading…</p></main>
+<footer><span id="updated"></span> · Results from the Isle of Man Snooker league.</footer>
+<script src="charts.js"></script>
+<script src="app.js"></script>
+<script src="graphs.js"></script>
+</body>
+</html>
