@@ -37,6 +37,7 @@ th[data-k]{cursor:pointer}th[data-k]:hover{color:var(--text)}
 :root{--s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#c98500;--s5:#d55181;--muted:#898781;--gridc:#2c2c2a;--axisc:#383835}
 :root[data-theme=light]{--s1:#2a78d6;--s2:#eb6834;--s3:#1baf7a;--s4:#eda100;--s5:#e87ba4;--muted:#898781;--gridc:#e1e0d9;--axisc:#c3c2b7}
 .charts{display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:16px;margin-top:16px}
+.note.warn{color:var(--gold);font-size:13px;margin:0 0 12px}
 .chart h2{margin-bottom:2px}.chart .note{color:var(--dim);font-size:12px;margin:0 0 8px}
 .chart svg{width:100%;height:auto;display:block;overflow:visible}
 .chart text{fill:var(--muted);font-size:15px;font-variant-numeric:tabular-nums}

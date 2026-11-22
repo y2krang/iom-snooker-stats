@@ -1,211 +1,1096 @@
-match_id,season,date,competition,home_team,away_team,venue,home_frames,away_frames
-1,2024-25,2024-10-07,League,Blue Ball Club,Yellow Jackets,Sample Hall,4,1
-2,2024-25,2024-10-07,League,Pink Pots,Brown Bears,Sample Club,2,3
-3,2024-25,2024-10-07,League,Green Baize,Rest and Spider,Sample Bar,3,2
-4,2024-25,2024-10-07,League,Cushion Kings,Black Ball,Sample Legion,3,2
-5,2024-25,2024-10-07,League,Long Pots,Safety First,Sample Inn,1,4
-6,2024-25,2024-10-14,League,Blue Ball Club,Brown Bears,Sample Hall,4,1
-7,2024-25,2024-10-14,League,Yellow Jackets,Rest and Spider,Sample Inn,3,2
-8,2024-25,2024-10-14,League,Pink Pots,Black Ball,Sample Club,2,3
-9,2024-25,2024-10-14,League,Green Baize,Safety First,Sample Bar,4,1
-10,2024-25,2024-10-14,League,Cushion Kings,Long Pots,Sample Legion,3,2
-11,2024-25,2024-10-21,League,Blue Ball Club,Rest and Spider,Sample Hall,3,2
-12,2024-25,2024-10-21,League,Brown Bears,Black Ball,Sample Legion,2,3
-13,2024-25,2024-10-21,League,Yellow Jackets,Safety First,Sample Inn,3,2
-14,2024-25,2024-10-21,League,Pink Pots,Long Pots,Sample Club,3,2
-15,2024-25,2024-10-21,League,Green Baize,Cushion Kings,Sample Bar,2,3
-16,2024-25,2024-10-28,League,Blue Ball Club,Black Ball,Sample Hall,4,1
-17,2024-25,2024-10-28,League,Rest and Spider,Safety First,Sample Bar,4,1
-18,2024-25,2024-10-28,League,Brown Bears,Long Pots,Sample Legion,1,4
-19,2024-25,2024-10-28,League,Yellow Jackets,Cushion Kings,Sample Inn,2,3
-20,2024-25,2024-10-28,League,Pink Pots,Green Baize,Sample Club,2,3
-21,2024-25,2024-11-04,League,Blue Ball Club,Safety First,Sample Hall,3,2
-22,2024-25,2024-11-04,League,Black Ball,Long Pots,Sample Club,2,3
-23,2024-25,2024-11-04,League,Rest and Spider,Cushion Kings,Sample Bar,2,3
-24,2024-25,2024-11-04,League,Brown Bears,Green Baize,Sample Legion,3,2
-25,2024-25,2024-11-04,League,Yellow Jackets,Pink Pots,Sample Inn,4,1
-26,2024-25,2024-11-11,League,Blue Ball Club,Long Pots,Sample Hall,1,4
-27,2024-25,2024-11-11,League,Safety First,Cushion Kings,Sample Hall,3,2
-28,2024-25,2024-11-11,League,Black Ball,Green Baize,Sample Club,5,0
-29,2024-25,2024-11-11,League,Rest and Spider,Pink Pots,Sample Bar,4,1
-30,2024-25,2024-11-11,League,Brown Bears,Yellow Jackets,Sample Legion,3,2
-31,2024-25,2024-11-18,League,Blue Ball Club,Cushion Kings,Sample Hall,4,1
-32,2024-25,2024-11-18,League,Long Pots,Green Baize,Sample Inn,1,4
-33,2024-25,2024-11-18,League,Safety First,Pink Pots,Sample Hall,2,3
-34,2024-25,2024-11-18,League,Black Ball,Yellow Jackets,Sample Club,5,0
-35,2024-25,2024-11-18,League,Rest and Spider,Brown Bears,Sample Bar,4,1
-36,2024-25,2024-11-25,League,Blue Ball Club,Green Baize,Sample Hall,5,0
-37,2024-25,2024-11-25,League,Cushion Kings,Pink Pots,Sample Legion,4,1
-38,2024-25,2024-11-25,League,Long Pots,Yellow Jackets,Sample Inn,3,2
-39,2024-25,2024-11-25,League,Safety First,Brown Bears,Sample Hall,3,2
-40,2024-25,2024-11-25,League,Black Ball,Rest and Spider,Sample Club,3,2
-41,2024-25,2024-12-02,League,Blue Ball Club,Pink Pots,Sample Hall,2,3
-42,2024-25,2024-12-02,League,Green Baize,Yellow Jackets,Sample Bar,1,4
-43,2024-25,2024-12-02,League,Cushion Kings,Brown Bears,Sample Legion,5,0
-44,2024-25,2024-12-02,League,Long Pots,Rest and Spider,Sample Inn,4,1
-45,2024-25,2024-12-02,League,Safety First,Black Ball,Sample Hall,3,2
-46,2024-25,2024-12-09,League,Yellow Jackets,Blue Ball Club,Sample Inn,5,0
-47,2024-25,2024-12-09,League,Brown Bears,Pink Pots,Sample Legion,2,3
-48,2024-25,2024-12-09,League,Rest and Spider,Green Baize,Sample Bar,1,4
-49,2024-25,2024-12-09,League,Black Ball,Cushion Kings,Sample Club,1,4
-50,2024-25,2024-12-09,League,Safety First,Long Pots,Sample Hall,3,2
-51,2024-25,2024-12-16,League,Brown Bears,Blue Ball Club,Sample Legion,2,3
-52,2024-25,2024-12-16,League,Rest and Spider,Yellow Jackets,Sample Bar,5,0
-53,2024-25,2024-12-16,League,Black Ball,Pink Pots,Sample Club,4,1
-54,2024-25,2024-12-16,League,Safety First,Green Baize,Sample Hall,3,2
-55,2024-25,2024-12-16,League,Long Pots,Cushion Kings,Sample Inn,3,2
-56,2024-25,2024-12-23,League,Rest and Spider,Blue Ball Club,Sample Bar,3,2
-57,2024-25,2024-12-23,League,Black Ball,Brown Bears,Sample Club,3,2
-58,2024-25,2024-12-23,League,Safety First,Yellow Jackets,Sample Hall,2,3
-59,2024-25,2024-12-23,League,Long Pots,Pink Pots,Sample Inn,3,2
-60,2024-25,2024-12-23,League,Cushion Kings,Green Baize,Sample Legion,4,1
-61,2024-25,2024-12-30,League,Black Ball,Blue Ball Club,Sample Club,2,3
-62,2024-25,2024-12-30,League,Safety First,Rest and Spider,Sample Hall,2,3
-63,2024-25,2024-12-30,League,Long Pots,Brown Bears,Sample Inn,3,2
-64,2024-25,2024-12-30,League,Cushion Kings,Yellow Jackets,Sample Legion,1,4
-65,2024-25,2024-12-30,League,Green Baize,Pink Pots,Sample Bar,2,3
-66,2024-25,2025-01-06,League,Safety First,Blue Ball Club,Sample Hall,3,2
-67,2024-25,2025-01-06,League,Long Pots,Black Ball,Sample Inn,2,3
-68,2024-25,2025-01-06,League,Cushion Kings,Rest and Spider,Sample Legion,4,1
-69,2024-25,2025-01-06,League,Green Baize,Brown Bears,Sample Bar,2,3
-70,2024-25,2025-01-06,League,Pink Pots,Yellow Jackets,Sample Club,4,1
-71,2024-25,2025-01-13,League,Long Pots,Blue Ball Club,Sample Inn,3,2
-72,2024-25,2025-01-13,League,Cushion Kings,Safety First,Sample Legion,4,1
-73,2024-25,2025-01-13,League,Green Baize,Black Ball,Sample Bar,3,2
-74,2024-25,2025-01-13,League,Pink Pots,Rest and Spider,Sample Club,2,3
-75,2024-25,2025-01-13,League,Yellow Jackets,Brown Bears,Sample Inn,4,1
-76,2024-25,2025-01-20,League,Cushion Kings,Blue Ball Club,Sample Legion,4,1
-77,2024-25,2025-01-20,League,Green Baize,Long Pots,Sample Bar,3,2
-78,2024-25,2025-01-20,League,Pink Pots,Safety First,Sample Club,3,2
-79,2024-25,2025-01-20,League,Yellow Jackets,Black Ball,Sample Inn,3,2
-80,2024-25,2025-01-20,League,Brown Bears,Rest and Spider,Sample Legion,2,3
-81,2024-25,2025-01-27,League,Green Baize,Blue Ball Club,Sample Bar,0,5
-82,2024-25,2025-01-27,League,Pink Pots,Cushion Kings,Sample Club,1,4
-83,2024-25,2025-01-27,League,Yellow Jackets,Long Pots,Sample Inn,1,4
-84,2024-25,2025-01-27,League,Brown Bears,Safety First,Sample Legion,3,2
-85,2024-25,2025-01-27,League,Rest and Spider,Black Ball,Sample Bar,1,4
-86,2024-25,2025-02-03,League,Pink Pots,Blue Ball Club,Sample Club,4,1
-87,2024-25,2025-02-03,League,Yellow Jackets,Green Baize,Sample Inn,3,2
-88,2024-25,2025-02-03,League,Brown Bears,Cushion Kings,Sample Legion,3,2
-89,2024-25,2025-02-03,League,Rest and Spider,Long Pots,Sample Bar,3,2
-90,2024-25,2025-02-03,League,Black Ball,Safety First,Sample Club,3,2
-91,2025-26,2025-10-07,League,Blue Ball Club,Yellow Jackets,Sample Hall,0,5
-92,2025-26,2025-10-07,League,Pink Pots,Brown Bears,Sample Club,1,4
-93,2025-26,2025-10-07,League,Green Baize,Rest and Spider,Sample Bar,2,3
-94,2025-26,2025-10-07,League,Cushion Kings,Black Ball,Sample Legion,2,3
-95,2025-26,2025-10-07,League,Long Pots,Safety First,Sample Inn,2,3
-96,2025-26,2025-10-14,League,Blue Ball Club,Brown Bears,Sample Hall,2,3
-97,2025-26,2025-10-14,League,Yellow Jackets,Rest and Spider,Sample Inn,3,2
-98,2025-26,2025-10-14,League,Pink Pots,Black Ball,Sample Club,2,3
-99,2025-26,2025-10-14,League,Green Baize,Safety First,Sample Bar,1,4
-100,2025-26,2025-10-14,League,Cushion Kings,Long Pots,Sample Legion,3,2
-101,2025-26,2025-10-21,League,Blue Ball Club,Rest and Spider,Sample Hall,0,5
-102,2025-26,2025-10-21,League,Brown Bears,Black Ball,Sample Legion,3,2
-103,2025-26,2025-10-21,League,Yellow Jackets,Safety First,Sample Inn,3,2
-104,2025-26,2025-10-21,League,Pink Pots,Long Pots,Sample Club,2,3
-105,2025-26,2025-10-21,League,Green Baize,Cushion Kings,Sample Bar,1,4
-106,2025-26,2025-10-28,League,Blue Ball Club,Black Ball,Sample Hall,4,1
-107,2025-26,2025-10-28,League,Rest and Spider,Safety First,Sample Bar,5,0
-108,2025-26,2025-10-28,League,Brown Bears,Long Pots,Sample Legion,2,3
-109,2025-26,2025-10-28,League,Yellow Jackets,Cushion Kings,Sample Inn,4,1
-110,2025-26,2025-10-28,League,Pink Pots,Green Baize,Sample Club,3,2
-111,2025-26,2025-11-04,League,Blue Ball Club,Safety First,Sample Hall,3,2
-112,2025-26,2025-11-04,League,Black Ball,Long Pots,Sample Club,3,2
-113,2025-26,2025-11-04,League,Rest and Spider,Cushion Kings,Sample Bar,2,3
-114,2025-26,2025-11-04,League,Brown Bears,Green Baize,Sample Legion,3,2
-115,2025-26,2025-11-04,League,Yellow Jackets,Pink Pots,Sample Inn,4,1
-116,2025-26,2025-11-11,League,Blue Ball Club,Long Pots,Sample Hall,3,2
-117,2025-26,2025-11-11,League,Safety First,Cushion Kings,Sample Hall,3,2
-118,2025-26,2025-11-11,League,Black Ball,Green Baize,Sample Club,3,2
-119,2025-26,2025-11-11,League,Rest and Spider,Pink Pots,Sample Bar,3,2
-120,2025-26,2025-11-11,League,Brown Bears,Yellow Jackets,Sample Legion,2,3
-121,2025-26,2025-11-18,League,Blue Ball Club,Cushion Kings,Sample Hall,3,2
-122,2025-26,2025-11-18,League,Long Pots,Green Baize,Sample Inn,3,2
-123,2025-26,2025-11-18,League,Safety First,Pink Pots,Sample Hall,2,3
-124,2025-26,2025-11-18,League,Black Ball,Yellow Jackets,Sample Club,4,1
-125,2025-26,2025-11-18,League,Rest and Spider,Brown Bears,Sample Bar,4,1
-126,2025-26,2025-11-25,League,Blue Ball Club,Green Baize,Sample Hall,4,1
-127,2025-26,2025-11-25,League,Cushion Kings,Pink Pots,Sample Legion,3,2
-128,2025-26,2025-11-25,League,Long Pots,Yellow Jackets,Sample Inn,3,2
-129,2025-26,2025-11-25,League,Safety First,Brown Bears,Sample Hall,4,1
-130,2025-26,2025-11-25,League,Black Ball,Rest and Spider,Sample Club,1,4
-131,2025-26,2025-12-02,League,Blue Ball Club,Pink Pots,Sample Hall,2,3
-132,2025-26,2025-12-02,League,Green Baize,Yellow Jackets,Sample Bar,4,1
-133,2025-26,2025-12-02,League,Cushion Kings,Brown Bears,Sample Legion,3,2
-134,2025-26,2025-12-02,League,Long Pots,Rest and Spider,Sample Inn,3,2
-135,2025-26,2025-12-02,League,Safety First,Black Ball,Sample Hall,1,4
-136,2025-26,2025-12-09,League,Yellow Jackets,Blue Ball Club,Sample Inn,5,0
-137,2025-26,2025-12-09,League,Brown Bears,Pink Pots,Sample Legion,3,2
-138,2025-26,2025-12-09,League,Rest and Spider,Green Baize,Sample Bar,3,2
-139,2025-26,2025-12-09,League,Black Ball,Cushion Kings,Sample Club,3,2
-140,2025-26,2025-12-09,League,Safety First,Long Pots,Sample Hall,1,4
-141,2025-26,2025-12-16,League,Brown Bears,Blue Ball Club,Sample Legion,5,0
-142,2025-26,2025-12-16,League,Rest and Spider,Yellow Jackets,Sample Bar,3,2
-143,2025-26,2025-12-16,League,Black Ball,Pink Pots,Sample Club,4,1
-144,2025-26,2025-12-16,League,Safety First,Green Baize,Sample Hall,1,4
-145,2025-26,2025-12-16,League,Long Pots,Cushion Kings,Sample Inn,2,3
-146,2025-26,2025-12-23,League,Rest and Spider,Blue Ball Club,Sample Bar,3,2
-147,2025-26,2025-12-23,League,Black Ball,Brown Bears,Sample Club,2,3
-148,2025-26,2025-12-23,League,Safety First,Yellow Jackets,Sample Hall,2,3
-149,2025-26,2025-12-23,League,Long Pots,Pink Pots,Sample Inn,3,2
-150,2025-26,2025-12-23,League,Cushion Kings,Green Baize,Sample Legion,4,1
-151,2025-26,2025-12-30,League,Black Ball,Blue Ball Club,Sample Club,2,3
-152,2025-26,2025-12-30,League,Safety First,Rest and Spider,Sample Hall,3,2
-153,2025-26,2025-12-30,League,Long Pots,Brown Bears,Sample Inn,2,3
-154,2025-26,2025-12-30,League,Cushion Kings,Yellow Jackets,Sample Legion,3,2
-155,2025-26,2025-12-30,League,Green Baize,Pink Pots,Sample Bar,3,2
-156,2025-26,2026-01-06,League,Safety First,Blue Ball Club,Sample Hall,3,2
-157,2025-26,2026-01-06,League,Long Pots,Black Ball,Sample Inn,2,3
-158,2025-26,2026-01-06,League,Cushion Kings,Rest and Spider,Sample Legion,1,4
-159,2025-26,2026-01-06,League,Green Baize,Brown Bears,Sample Bar,5,0
-160,2025-26,2026-01-06,League,Pink Pots,Yellow Jackets,Sample Club,2,3
-161,2025-26,2026-01-13,League,Long Pots,Blue Ball Club,Sample Inn,3,2
-162,2025-26,2026-01-13,League,Cushion Kings,Safety First,Sample Legion,3,2
-163,2025-26,2026-01-13,League,Green Baize,Black Ball,Sample Bar,4,1
-164,2025-26,2026-01-13,League,Pink Pots,Rest and Spider,Sample Club,3,2
-165,2025-26,2026-01-13,League,Yellow Jackets,Brown Bears,Sample Inn,3,2
-166,2025-26,2026-01-20,League,Cushion Kings,Blue Ball Club,Sample Legion,2,3
-167,2025-26,2026-01-20,League,Green Baize,Long Pots,Sample Bar,3,2
-168,2025-26,2026-01-20,League,Pink Pots,Safety First,Sample Club,2,3
-169,2025-26,2026-01-20,League,Yellow Jackets,Black Ball,Sample Inn,3,2
-170,2025-26,2026-01-20,League,Brown Bears,Rest and Spider,Sample Legion,2,3
-171,2025-26,2026-01-27,League,Green Baize,Blue Ball Club,Sample Bar,3,2
-172,2025-26,2026-01-27,League,Pink Pots,Cushion Kings,Sample Club,2,3
-173,2025-26,2026-01-27,League,Yellow Jackets,Long Pots,Sample Inn,4,1
-174,2025-26,2026-01-27,League,Brown Bears,Safety First,Sample Legion,4,1
-175,2025-26,2026-01-27,League,Rest and Spider,Black Ball,Sample Bar,3,2
-176,2025-26,2026-02-03,League,Pink Pots,Blue Ball Club,Sample Club,2,3
-177,2025-26,2026-02-03,League,Yellow Jackets,Green Baize,Sample Inn,3,2
-178,2025-26,2026-02-03,League,Brown Bears,Cushion Kings,Sample Legion,3,2
-179,2025-26,2026-02-03,League,Rest and Spider,Long Pots,Sample Bar,2,3
-180,2025-26,2026-02-03,League,Black Ball,Safety First,Sample Club,3,2
-181,2026-27,2026-10-07,League,Blue Ball Club,Yellow Jackets,Sample Hall,4,1
-182,2026-27,2026-10-07,League,Pink Pots,Brown Bears,Sample Club,2,3
-183,2026-27,2026-10-07,League,Green Baize,Rest and Spider,Sample Bar,3,2
-184,2026-27,2026-10-07,League,Cushion Kings,Black Ball,Sample Legion,3,2
-185,2026-27,2026-10-07,League,Long Pots,Safety First,Sample Inn,5,0
-186,2026-27,2026-10-14,League,Blue Ball Club,Brown Bears,Sample Hall,1,4
-187,2026-27,2026-10-14,League,Yellow Jackets,Rest and Spider,Sample Inn,1,4
-188,2026-27,2026-10-14,League,Pink Pots,Black Ball,Sample Club,3,2
-189,2026-27,2026-10-14,League,Green Baize,Safety First,Sample Bar,3,2
-190,2026-27,2026-10-14,League,Cushion Kings,Long Pots,Sample Legion,3,2
-191,2026-27,2026-10-21,League,Blue Ball Club,Rest and Spider,Sample Hall,2,3
-192,2026-27,2026-10-21,League,Brown Bears,Black Ball,Sample Legion,4,1
-193,2026-27,2026-10-21,League,Yellow Jackets,Safety First,Sample Inn,3,2
-194,2026-27,2026-10-21,League,Pink Pots,Long Pots,Sample Club,2,3
-195,2026-27,2026-10-21,League,Green Baize,Cushion Kings,Sample Bar,3,2
-196,2026-27,2026-10-28,League,Blue Ball Club,Black Ball,Sample Hall,3,2
-197,2026-27,2026-10-28,League,Rest and Spider,Safety First,Sample Bar,4,1
-198,2026-27,2026-10-28,League,Brown Bears,Long Pots,Sample Legion,4,1
-199,2026-27,2026-10-28,League,Yellow Jackets,Cushion Kings,Sample Inn,2,3
-200,2026-27,2026-10-28,League,Pink Pots,Green Baize,Sample Club,3,2
-201,2026-27,2026-11-04,League,Blue Ball Club,Safety First,Sample Hall,1,4
-202,2026-27,2026-11-04,League,Black Ball,Long Pots,Sample Club,2,3
-203,2026-27,2026-11-04,League,Rest and Spider,Cushion Kings,Sample Bar,5,0
-204,2026-27,2026-11-04,League,Brown Bears,Green Baize,Sample Legion,5,0
-205,2026-27,2026-11-04,League,Yellow Jackets,Pink Pots,Sample Inn,3,2
-206,2026-27,2026-11-11,League,Blue Ball Club,Long Pots,Sample Hall,2,3
-207,2026-27,2026-11-11,League,Safety First,Cushion Kings,Sample Hall,4,1
-208,2026-27,2026-11-11,League,Black Ball,Green Baize,Sample Club,5,0
-209,2026-27,2026-11-11,League,Rest and Spider,Pink Pots,Sample Bar,2,3
-210,2026-27,2026-11-11,League,Brown Bears,Yellow Jackets,Sample Legion,2,3
+match_id,season,date,competition,home_team,away_team,home_frames,away_frames,note,date_from_report
+20501468,2016-17,2016-12-14,Macs Snooker League,Finch Hill Rockets,St Olaves Old Skool,1,4,,0
+20501469,2016-17,2016-12-14,Macs Snooker League,Port St Mary Legion,Malew 1,2,3,,0
+20501470,2016-17,2016-12-14,Macs Snooker League,The Wannabes,Peel Legion,3,2,,0
+20501471,2016-17,2016-12-14,Macs Snooker League,Finch Hill Musicians A,DSC Bandits,4,1,,0
+20501472,2016-17,2016-12-14,Macs Snooker League,Malew,The Hurricanes,2,3,,0
+20501473,2016-17,2016-12-14,Macs Snooker League,St Olaves,Finch Hill Mob,3,2,,0
+20501474,2016-17,2017-01-04,Macs Snooker League,St Olaves Old Skool,Finch Hill Rockets,2,3,,0
+20501475,2016-17,2017-01-04,Macs Snooker League,Malew 1,Port St Mary Legion,2,3,,0
+20501476,2016-17,2017-01-04,Macs Snooker League,Peel Legion,The Wannabes,2,3,,0
+20501477,2016-17,2017-01-04,Macs Snooker League,DSC Bandits,Finch Hill Musicians A,5,0,,0
+20501478,2016-17,2017-01-04,Macs Snooker League,The Hurricanes,Malew,2,3,,0
+20501479,2016-17,2017-01-04,Macs Snooker League,Finch Hill Mob,St Olaves,4,1,,0
+20501487,2016-17,2017-01-11,Macs Snooker League,St Olaves Old Skool,Malew 1,4,1,,0
+20501488,2016-17,2017-01-11,Macs Snooker League,Port St Mary Legion,Peel Legion,4,1,,0
+20501489,2016-17,2017-01-11,Macs Snooker League,The Wannabes,DSC Bandits,4,1,,0
+20501490,2016-17,2017-01-11,Macs Snooker League,Finch Hill Musicians A,The Hurricanes,4,1,,0
+20501491,2016-17,2017-01-11,Macs Snooker League,Malew,Finch Hill Mob,1,4,,0
+20501492,2016-17,2017-01-11,Macs Snooker League,Finch Hill Rockets,St Olaves,4,1,,0
+20501493,2016-17,2017-01-18,Macs Snooker League,Peel Legion,St Olaves Old Skool,3,2,,0
+20501494,2016-17,2017-01-18,Macs Snooker League,Malew 1,Finch Hill Rockets,2,3,,0
+20501495,2016-17,2017-01-18,Macs Snooker League,DSC Bandits,Port St Mary Legion,1,4,,0
+20501496,2016-17,2017-01-18,Macs Snooker League,The Hurricanes,The Wannabes,3,2,,0
+20501497,2016-17,2017-01-18,Macs Snooker League,Finch Hill Mob,Finch Hill Musicians A,3,2,,0
+20501498,2016-17,2017-01-18,Macs Snooker League,St Olaves,Malew,2,3,,0
+20501499,2016-17,2017-01-25,Macs Snooker League,St Olaves Old Skool,DSC Bandits,4,1,,0
+20501500,2016-17,2017-01-25,Macs Snooker League,Malew 1,Peel Legion,2,3,,0
+20501501,2016-17,2017-01-25,Macs Snooker League,Port St Mary Legion,The Hurricanes,3,2,,0
+20501502,2016-17,2017-01-25,Macs Snooker League,The Wannabes,Finch Hill Mob,2,3,,0
+20501503,2016-17,2017-01-25,Macs Snooker League,Finch Hill Musicians A,St Olaves,2,3,,0
+20501504,2016-17,2017-01-25,Macs Snooker League,Finch Hill Rockets,Malew,2,3,,0
+20501505,2016-17,2017-02-01,Macs Snooker League,The Hurricanes,St Olaves Old Skool,3,2,,0
+20501506,2016-17,2017-02-01,Macs Snooker League,DSC Bandits,Malew 1,3,2,,0
+20501507,2016-17,2017-02-01,Macs Snooker League,Peel Legion,Finch Hill Rockets,1,4,,0
+20501508,2016-17,2017-02-01,Macs Snooker League,Finch Hill Mob,Port St Mary Legion,3,2,,0
+20501509,2016-17,2017-02-01,Macs Snooker League,St Olaves,The Wannabes,5,0,,0
+20501510,2016-17,2017-02-01,Macs Snooker League,Malew,Finch Hill Musicians A,4,1,,0
+20501518,2016-17,2017-02-08,Macs Snooker League,St Olaves Old Skool,Finch Hill Mob,2,3,,0
+20501519,2016-17,2017-02-08,Macs Snooker League,Malew 1,The Hurricanes,0,5,,0
+20501520,2016-17,2017-02-08,Macs Snooker League,Peel Legion,DSC Bandits,4,1,,0
+20501521,2016-17,2017-02-08,Macs Snooker League,Port St Mary Legion,St Olaves,2,3,,0
+20501522,2016-17,2017-02-08,Macs Snooker League,The Wannabes,Malew,3,2,,0
+20501523,2016-17,2017-02-08,Macs Snooker League,Finch Hill Rockets,Finch Hill Musicians A,3,2,,0
+20501524,2016-17,2017-02-15,Macs Snooker League,St Olaves,St Olaves Old Skool,2,3,,0
+20501525,2016-17,2017-02-15,Macs Snooker League,Finch Hill Mob,Malew 1,5,0,,0
+20501526,2016-17,2017-02-15,Macs Snooker League,The Hurricanes,Peel Legion,3,2,,0
+20501527,2016-17,2017-02-15,Macs Snooker League,DSC Bandits,Finch Hill Rockets,3,2,,0
+20501528,2016-17,2017-02-15,Macs Snooker League,Malew,Port St Mary Legion,4,1,,0
+20501529,2016-17,2017-02-15,Macs Snooker League,Finch Hill Musicians A,The Wannabes,5,0,,0
+20501763,2016-17,2017-02-22,Macs Snooker League,St Olaves Old Skool,Malew,3,2,,0
+20501764,2016-17,2017-02-22,Macs Snooker League,Malew 1,St Olaves,5,0,,0
+20501765,2016-17,2017-02-22,Macs Snooker League,Peel Legion,Finch Hill Mob,3,2,,0
+20501766,2016-17,2017-02-22,Macs Snooker League,DSC Bandits,The Hurricanes,0,5,,0
+20501767,2016-17,2017-02-22,Macs Snooker League,Port St Mary Legion,Finch Hill Musicians A,3,2,,0
+20501768,2016-17,2017-02-22,Macs Snooker League,Finch Hill Rockets,The Wannabes,2,3,,0
+20501769,2016-17,2017-03-01,Macs Snooker League,Finch Hill Musicians A,St Olaves Old Skool,5,0,,0
+20501770,2016-17,2017-03-01,Macs Snooker League,Malew,Malew 1,2,3,,0
+20501771,2016-17,2017-03-01,Macs Snooker League,St Olaves,Peel Legion,5,0,,0
+20501772,2016-17,2017-03-01,Macs Snooker League,Finch Hill Mob,DSC Bandits,4,1,,0
+20501773,2016-17,2017-03-01,Macs Snooker League,The Hurricanes,Finch Hill Rockets,2,3,,0
+20501774,2016-17,2017-03-01,Macs Snooker League,The Wannabes,Port St Mary Legion,0,5,,0
+20501782,2016-17,2017-03-08,Macs Snooker League,St Olaves Old Skool,The Wannabes,4,1,,0
+20501783,2016-17,2017-03-08,Macs Snooker League,Malew 1,Finch Hill Musicians A,3,2,,0
+20501784,2016-17,2017-03-08,Macs Snooker League,Peel Legion,Malew,3,2,,0
+20501785,2016-17,2017-03-08,Macs Snooker League,DSC Bandits,St Olaves,2,3,,0
+20501786,2016-17,2017-03-08,Macs Snooker League,The Hurricanes,Finch Hill Mob,3,2,,0
+20501787,2016-17,2017-03-08,Macs Snooker League,Finch Hill Rockets,Port St Mary Legion,2,3,,0
+20501795,2016-17,2017-03-15,Macs Snooker League,Port St Mary Legion,St Olaves Old Skool,1,4,,0
+20501796,2016-17,2017-03-15,Macs Snooker League,The Wannabes,Malew 1,1,4,,0
+20501797,2016-17,2017-03-15,Macs Snooker League,Finch Hill Musicians A,Peel Legion,2,3,,0
+20501798,2016-17,2017-03-15,Macs Snooker League,Malew,DSC Bandits,4,1,,0
+20501799,2016-17,2017-03-15,Macs Snooker League,St Olaves,The Hurricanes,3,2,,0
+20501800,2016-17,2017-03-15,Macs Snooker League,Finch Hill Mob,Finch Hill Rockets,2,3,,0
+22855978,2017-18,2017-12-20,Macs Snooker League,Finch Hill Rockets,St Olaves Old Skool,1,4,,0
+22855979,2017-18,2017-12-20,Macs Snooker League,Port St Mary Legion,Malew 1,5,0,,0
+22855980,2017-18,2017-12-20,Macs Snooker League,The Wannabes,Peel Legion,2,3,,0
+22855981,2017-18,2017-12-20,Macs Snooker League,Finch Hill Musicians A,DSC Bandits,3,2,,0
+22855982,2017-18,2017-12-20,Macs Snooker League,Malew,The Hurricanes,3,2,,0
+22855983,2017-18,2017-12-20,Macs Snooker League,St Olaves,Finch Hill Mob,4,1,,0
+22855990,2017-18,2018-01-03,Macs Snooker League,St Olaves Old Skool,Finch Hill Rockets,4,1,,0
+22855991,2017-18,2018-01-03,Macs Snooker League,Malew 1,Port St Mary Legion,1,4,,0
+22855992,2017-18,2018-01-03,Macs Snooker League,Peel Legion,The Wannabes,2,3,,0
+22855993,2017-18,2018-01-03,Macs Snooker League,DSC Bandits,Finch Hill Musicians A,2,3,,0
+22855994,2017-18,2018-01-03,Macs Snooker League,The Hurricanes,Malew,3,2,,0
+22855995,2017-18,2018-01-03,Macs Snooker League,Finch Hill Mob,St Olaves,4,1,,0
+22856019,2017-18,2018-01-10,Macs Snooker League,St Olaves Old Skool,Malew 1,2,3,,0
+22856020,2017-18,2018-01-10,Macs Snooker League,Port St Mary Legion,Peel Legion,3,2,,0
+22856021,2017-18,2018-01-10,Macs Snooker League,The Wannabes,DSC Bandits,1,4,,0
+22856022,2017-18,2018-01-10,Macs Snooker League,Finch Hill Musicians A,The Hurricanes,3,2,,0
+22856023,2017-18,2018-01-10,Macs Snooker League,Malew,Finch Hill Mob,1,4,,0
+22856024,2017-18,2018-01-10,Macs Snooker League,Finch Hill Rockets,St Olaves,4,1,,0
+22856037,2017-18,2018-01-17,Macs Snooker League,Peel Legion,St Olaves Old Skool,3,2,,0
+22856038,2017-18,2018-01-17,Macs Snooker League,Malew 1,Finch Hill Rockets,3,2,,0
+22856039,2017-18,2018-01-17,Macs Snooker League,DSC Bandits,Port St Mary Legion,4,1,,0
+22856040,2017-18,2018-01-17,Macs Snooker League,The Hurricanes,The Wannabes,2,3,,0
+22856041,2017-18,2018-01-17,Macs Snooker League,Finch Hill Mob,Finch Hill Musicians A,2,3,,0
+22856042,2017-18,2018-01-17,Macs Snooker League,St Olaves,Malew,2,3,,0
+22856054,2017-18,2018-01-24,Macs Snooker League,St Olaves Old Skool,DSC Bandits,3,2,,0
+22856055,2017-18,2018-01-24,Macs Snooker League,Malew 1,Peel Legion,4,1,,0
+22856056,2017-18,2018-01-24,Macs Snooker League,Port St Mary Legion,The Hurricanes,2,3,,0
+22856057,2017-18,2018-01-24,Macs Snooker League,The Wannabes,Finch Hill Mob,3,2,,0
+22856058,2017-18,2018-01-24,Macs Snooker League,Finch Hill Musicians A,St Olaves,4,1,,0
+22856059,2017-18,2018-01-24,Macs Snooker League,Finch Hill Rockets,Malew,3,2,,0
+22856060,2017-18,2018-01-31,Macs Snooker League,The Hurricanes,St Olaves Old Skool,3,2,,0
+22856061,2017-18,2018-01-31,Macs Snooker League,DSC Bandits,Malew 1,4,1,,0
+22856062,2017-18,2018-01-31,Macs Snooker League,Peel Legion,Finch Hill Rockets,2,3,,0
+22856063,2017-18,2018-01-31,Macs Snooker League,Finch Hill Mob,Port St Mary Legion,3,2,,0
+22856064,2017-18,2018-01-31,Macs Snooker League,St Olaves,The Wannabes,4,1,,0
+22856065,2017-18,2018-01-31,Macs Snooker League,Malew,Finch Hill Musicians A,2,3,,0
+22856336,2017-18,2018-02-07,Macs Snooker League,St Olaves Old Skool,Finch Hill Mob,4,1,,0
+22856337,2017-18,2018-02-07,Macs Snooker League,Malew 1,The Hurricanes,1,4,,0
+22856338,2017-18,2018-02-07,Macs Snooker League,Peel Legion,DSC Bandits,3,2,,0
+22856339,2017-18,2018-02-07,Macs Snooker League,Port St Mary Legion,St Olaves,3,2,,0
+22856340,2017-18,2018-02-07,Macs Snooker League,The Wannabes,Malew,4,1,,0
+22856341,2017-18,2018-02-07,Macs Snooker League,Finch Hill Rockets,Finch Hill Musicians A,2,3,,0
+22856342,2017-18,2018-02-14,Macs Snooker League,St Olaves,St Olaves Old Skool,1,4,,0
+22856343,2017-18,2018-02-14,Macs Snooker League,Finch Hill Mob,Malew 1,3,2,,0
+22856344,2017-18,2018-02-14,Macs Snooker League,The Hurricanes,Peel Legion,3,2,,0
+22856345,2017-18,2018-02-14,Macs Snooker League,DSC Bandits,Finch Hill Rockets,3,2,,0
+22856346,2017-18,2018-02-14,Macs Snooker League,Malew,Port St Mary Legion,5,0,,0
+22856347,2017-18,2018-02-14,Macs Snooker League,Finch Hill Musicians A,The Wannabes,3,2,,0
+22856357,2017-18,2018-02-21,Macs Snooker League,St Olaves Old Skool,Malew,5,0,,0
+22856358,2017-18,2018-02-21,Macs Snooker League,Malew 1,St Olaves,4,1,,0
+22856359,2017-18,2018-02-21,Macs Snooker League,Peel Legion,Finch Hill Mob,1,4,,0
+22856360,2017-18,2018-02-21,Macs Snooker League,DSC Bandits,The Hurricanes,3,2,,0
+22856361,2017-18,2018-02-21,Macs Snooker League,Port St Mary Legion,Finch Hill Musicians A,2,3,,0
+22856362,2017-18,2018-02-21,Macs Snooker League,Finch Hill Rockets,The Wannabes,4,1,,0
+22856368,2017-18,2018-02-28,Macs Snooker League,Finch Hill Musicians A,St Olaves Old Skool,3,2,,0
+22856369,2017-18,2018-02-28,Macs Snooker League,Malew,Malew 1,2,3,,0
+22856370,2017-18,2018-02-28,Macs Snooker League,St Olaves,Peel Legion,2,3,,0
+22856371,2017-18,2018-02-28,Macs Snooker League,Finch Hill Mob,DSC Bandits,5,0,,0
+22856372,2017-18,2018-02-28,Macs Snooker League,The Hurricanes,Finch Hill Rockets,1,4,,0
+22856373,2017-18,2018-02-28,Macs Snooker League,The Wannabes,Port St Mary Legion,2,3,,0
+22856391,2017-18,2018-03-07,Macs Snooker League,St Olaves Old Skool,The Wannabes,5,0,,0
+22856392,2017-18,2018-03-07,Macs Snooker League,Malew 1,Finch Hill Musicians A,2,3,,0
+22856393,2017-18,2018-03-07,Macs Snooker League,Peel Legion,Malew,3,2,,0
+22856394,2017-18,2018-03-07,Macs Snooker League,DSC Bandits,St Olaves,3,2,,0
+22856395,2017-18,2018-03-07,Macs Snooker League,The Hurricanes,Finch Hill Mob,3,2,,0
+22856396,2017-18,2018-03-07,Macs Snooker League,Finch Hill Rockets,Port St Mary Legion,4,1,,0
+22856410,2017-18,2018-03-14,Macs Snooker League,Port St Mary Legion,St Olaves Old Skool,1,4,,0
+22856411,2017-18,2018-03-14,Macs Snooker League,The Wannabes,Malew 1,3,2,,0
+22856412,2017-18,2018-03-14,Macs Snooker League,Finch Hill Musicians A,Peel Legion,3,2,,0
+22856413,2017-18,2018-03-14,Macs Snooker League,Malew,DSC Bandits,3,2,,0
+22856414,2017-18,2018-03-14,Macs Snooker League,St Olaves,The Hurricanes,2,3,,0
+22856415,2017-18,2018-03-14,Macs Snooker League,Finch Hill Mob,Finch Hill Rockets,4,1,,0
+25220293,2018-19,2019-01-09,Macs Snooker League,The Wannabes,Finch Hill Reprobates,1,4,,0
+25220294,2018-19,2019-01-09,Macs Snooker League,Finch Hill Musicians A,Peel Legion,4,1,,0
+25220295,2018-19,2019-01-09,Macs Snooker League,Finch Hill Rockets,Newbys DSB,2,3,,0
+25220296,2018-19,2019-01-09,Macs Snooker League,Malew,The Hurricanes,3,2,,0
+25220297,2018-19,2019-01-09,Macs Snooker League,Port St Mary Legion,Malew 1,4,1,,0
+25220298,2018-19,2019-01-09,Macs Snooker League,St Olaves,Finch Hill Mob,4,1,,0
+25220300,2018-19,2019-01-16,Macs Snooker League,The Hurricanes,Malew,3,2,,0
+25220301,2018-19,2019-01-16,Macs Snooker League,Newbys DSB,Finch Hill Rockets,3,2,,0
+25220302,2018-19,2019-01-16,Macs Snooker League,Finch Hill Mob,St Olaves,4,1,,0
+25220303,2018-19,2019-01-16,Macs Snooker League,Finch Hill Reprobates,The Wannabes,2,3,,0
+25220304,2018-19,2019-01-16,Macs Snooker League,Malew 1,Port St Mary Legion,3,2,,0
+25220305,2018-19,2019-01-16,Macs Snooker League,Peel Legion,Finch Hill Musicians A,2,3,,0
+25220306,2018-19,2019-01-23,Macs Snooker League,Newbys DSB,Malew 1,0,5,,0
+25220307,2018-19,2019-01-23,Macs Snooker League,The Wannabes,Peel Legion,3,2,,0
+25220308,2018-19,2019-01-23,Macs Snooker League,Finch Hill Musicians A,The Hurricanes,2,3,,0
+25220309,2018-19,2019-01-23,Macs Snooker League,Finch Hill Rockets,St Olaves,2,3,,0
+25220310,2018-19,2019-01-23,Macs Snooker League,Malew,Finch Hill Mob,2,3,,0
+25220311,2018-19,2019-01-23,Macs Snooker League,Port St Mary Legion,Finch Hill Reprobates,1,4,,0
+25220313,2018-19,2019-01-30,Macs Snooker League,The Hurricanes,The Wannabes,3,2,,0
+25220314,2018-19,2019-01-30,Macs Snooker League,Finch Hill Mob,Finch Hill Musicians A,2,3,,0
+25220315,2018-19,2019-01-30,Macs Snooker League,Finch Hill Reprobates,Newbys DSB,4,1,,0
+25220316,2018-19,2019-01-30,Macs Snooker League,Malew 1,Finch Hill Rockets,3,2,,0
+25220317,2018-19,2019-01-30,Macs Snooker League,Peel Legion,Port St Mary Legion,2,3,,0
+25220318,2018-19,2019-01-30,Macs Snooker League,St Olaves,Malew,3,2,,0
+25220320,2018-19,2019-02-06,Macs Snooker League,Newbys DSB,Peel Legion,2,3,,0
+25220321,2018-19,2019-02-06,Macs Snooker League,The Wannabes,Finch Hill Mob,0,5,,0
+25220322,2018-19,2019-02-06,Macs Snooker League,Finch Hill Musicians A,St Olaves,4,1,,0
+25220323,2018-19,2019-02-06,Macs Snooker League,Finch Hill Rockets,Malew,4,1,,0
+25220324,2018-19,2019-02-06,Macs Snooker League,Malew 1,Finch Hill Reprobates,0,5,,0
+25220325,2018-19,2019-02-06,Macs Snooker League,Port St Mary Legion,The Hurricanes,3,2,,0
+25220384,2018-19,2019-02-13,Macs Snooker League,The Hurricanes,Newbys DSB,4,1,,0
+25220385,2018-19,2019-02-13,Macs Snooker League,Finch Hill Mob,Port St Mary Legion,4,1,,0
+25220386,2018-19,2019-02-13,Macs Snooker League,Finch Hill Reprobates,Finch Hill Rockets,2,3,,0
+25220387,2018-19,2019-02-13,Macs Snooker League,Malew,Finch Hill Musicians A,2,3,,0
+25220388,2018-19,2019-02-13,Macs Snooker League,Peel Legion,Malew 1,3,2,,0
+25220389,2018-19,2019-02-13,Macs Snooker League,St Olaves,The Wannabes,5,0,,0
+25220392,2018-19,2019-02-27,Macs Snooker League,Newbys DSB,Finch Hill Mob,2,3,,0
+25220393,2018-19,2019-02-27,Macs Snooker League,The Wannabes,Malew,2,3,,0
+25220394,2018-19,2019-02-27,Macs Snooker League,Finch Hill Rockets,Finch Hill Musicians A,2,3,,0
+25220395,2018-19,2019-02-27,Macs Snooker League,Finch Hill Reprobates,Peel Legion,3,2,,0
+25220396,2018-19,2019-02-27,Macs Snooker League,Malew 1,The Hurricanes,2,3,,0
+25220397,2018-19,2019-02-27,Macs Snooker League,Port St Mary Legion,St Olaves,3,2,,0
+25220401,2018-19,2019-03-06,Macs Snooker League,The Hurricanes,Finch Hill Reprobates,3,2,,0
+25220402,2018-19,2019-03-06,Macs Snooker League,Finch Hill Mob,Malew 1,2,3,,0
+25220403,2018-19,2019-03-06,Macs Snooker League,Finch Hill Musicians A,The Wannabes,3,2,,0
+25220404,2018-19,2019-03-06,Macs Snooker League,Malew,Port St Mary Legion,2,3,,0
+25220405,2018-19,2019-03-06,Macs Snooker League,Peel Legion,Finch Hill Rockets,3,2,,0
+25220406,2018-19,2019-03-06,Macs Snooker League,St Olaves,Newbys DSB,5,0,,0
+25220410,2018-19,2019-03-13,Macs Snooker League,Newbys DSB,Malew,3,2,,0
+25220411,2018-19,2019-03-13,Macs Snooker League,Finch Hill Rockets,The Wannabes,2,3,,0
+25220412,2018-19,2019-03-13,Macs Snooker League,Finch Hill Reprobates,Finch Hill Mob,2,3,,0
+25220413,2018-19,2019-03-13,Macs Snooker League,Malew 1,St Olaves,2,3,,0
+25220414,2018-19,2019-03-13,Macs Snooker League,Peel Legion,The Hurricanes,2,3,,0
+25220415,2018-19,2019-03-13,Macs Snooker League,Port St Mary Legion,Finch Hill Musicians A,3,2,,0
+25220416,2018-19,2019-03-20,Macs Snooker League,The Hurricanes,Finch Hill Rockets,1,4,,0
+25220417,2018-19,2019-03-20,Macs Snooker League,The Wannabes,Port St Mary Legion,2,3,,0
+25220418,2018-19,2019-03-20,Macs Snooker League,Finch Hill Mob,Peel Legion,2,3,,0
+25220419,2018-19,2019-03-20,Macs Snooker League,Finch Hill Musicians A,Newbys DSB,2,3,,0
+25220420,2018-19,2019-03-20,Macs Snooker League,Malew,Malew 1,1,4,,0
+25220421,2018-19,2019-03-20,Macs Snooker League,St Olaves,Finch Hill Reprobates,3,2,,0
+25220562,2018-19,2019-03-27,Macs Snooker League,The Hurricanes,Finch Hill Mob,1,4,,0
+25220563,2018-19,2019-03-27,Macs Snooker League,Newbys DSB,The Wannabes,3,2,,0
+25220564,2018-19,2019-03-27,Macs Snooker League,Finch Hill Rockets,Port St Mary Legion,5,0,,0
+25220565,2018-19,2019-03-27,Macs Snooker League,Finch Hill Reprobates,Malew,4,1,,0
+25220566,2018-19,2019-03-27,Macs Snooker League,Malew 1,Finch Hill Musicians A,1,4,,0
+25220567,2018-19,2019-03-27,Macs Snooker League,Peel Legion,St Olaves,0,5,,0
+25220583,2018-19,2019-04-03,Macs Snooker League,The Wannabes,Malew 1,3,2,,0
+25220584,2018-19,2019-04-03,Macs Snooker League,Finch Hill Mob,Finch Hill Rockets,3,2,,0
+25220585,2018-19,2019-04-03,Macs Snooker League,Finch Hill Musicians A,Finch Hill Reprobates,4,1,,0
+25220586,2018-19,2019-04-03,Macs Snooker League,Malew,Peel Legion,2,3,,0
+25220587,2018-19,2019-04-03,Macs Snooker League,Port St Mary Legion,Newbys DSB,3,2,,0
+25220588,2018-19,2019-04-03,Macs Snooker League,St Olaves,The Hurricanes,4,1,,0
+27394312,2019-20,2020-01-08,Macs Snooker League,The Hurricanes,Finch Hill Musicians A,3,2,,0
+27394313,2019-20,2020-01-08,Macs Snooker League,Finch Hill Mob,Malew,2,3,,0
+27394314,2019-20,2020-01-08,Macs Snooker League,Finch Hill Reprobates,Port St Mary Legion,3,2,,0
+27394315,2019-20,2020-01-08,Macs Snooker League,Malew 1,Newbys DSB,2,3,,0
+27394316,2019-20,2020-01-08,Macs Snooker League,Peel Legion,The Wannabes,3,2,,0
+27394317,2019-20,2020-01-08,Macs Snooker League,St Olaves,Finch Hill Rockets,2,3,,0
+27394325,2019-20,2020-01-15,Macs Snooker League,The Wannabes,Peel Legion,1,4,,0
+27394326,2019-20,2020-01-15,Macs Snooker League,Finch Hill Musicians A,The Hurricanes,2,3,,0
+27394327,2019-20,2020-01-15,Macs Snooker League,Finch Hill Rockets,St Olaves,3,2,,0
+27394328,2019-20,2020-01-15,Macs Snooker League,Malew,Finch Hill Mob,2,3,,0
+27394329,2019-20,2020-01-15,Macs Snooker League,Newbys DSB,Malew 1,4,1,,0
+27394330,2019-20,2020-01-15,Macs Snooker League,Port St Mary Legion,Finch Hill Reprobates,4,1,,0
+27394331,2019-20,2020-01-22,Macs Snooker League,The Hurricanes,Malew,3,2,,0
+27394332,2019-20,2020-01-22,Macs Snooker League,Finch Hill Mob,St Olaves,3,2,,0
+27394333,2019-20,2020-01-22,Macs Snooker League,Finch Hill Reprobates,The Wannabes,4,1,,0
+27394334,2019-20,2020-01-22,Macs Snooker League,Malew 1,Port St Mary Legion,4,1,,0
+27394335,2019-20,2020-01-22,Macs Snooker League,Newbys DSB,Finch Hill Rockets,2,3,,0
+27394336,2019-20,2020-01-22,Macs Snooker League,Peel Legion,Finch Hill Musicians A,3,2,,0
+27394342,2019-20,2020-02-05,Macs Snooker League,The Wannabes,Malew 1,3,2,,0
+27394343,2019-20,2020-02-05,Macs Snooker League,Finch Hill Mob,Finch Hill Rockets,3,2,,0
+27394344,2019-20,2020-02-05,Macs Snooker League,Finch Hill Musicians A,Finch Hill Reprobates,4,1,,0
+27394345,2019-20,2020-02-05,Macs Snooker League,Malew,Peel Legion,2,3,,0
+27394346,2019-20,2020-02-05,Macs Snooker League,Port St Mary Legion,Newbys DSB,4,1,,0
+27394347,2019-20,2020-02-05,Macs Snooker League,St Olaves,The Hurricanes,1,4,,0
+27394348,2019-20,2020-02-12,Macs Snooker League,The Hurricanes,Finch Hill Mob,3,2,,0
+27394349,2019-20,2020-02-12,Macs Snooker League,Finch Hill Rockets,Port St Mary Legion,4,1,,0
+27394350,2019-20,2020-02-12,Macs Snooker League,Finch Hill Reprobates,Malew,3,2,,0
+27394351,2019-20,2020-02-12,Macs Snooker League,Malew 1,Finch Hill Musicians A,1,4,,0
+27394352,2019-20,2020-02-12,Macs Snooker League,Newbys DSB,The Wannabes,3,2,,0
+27394353,2019-20,2020-02-12,Macs Snooker League,Peel Legion,St Olaves,3,2,,0
+27394359,2019-20,2020-02-19,Macs Snooker League,The Hurricanes,Finch Hill Rockets,3,2,,0
+27394360,2019-20,2020-02-19,Macs Snooker League,The Wannabes,Port St Mary Legion,5,0,,0
+27394361,2019-20,2020-02-19,Macs Snooker League,Finch Hill Mob,Peel Legion,2,3,,0
+27394362,2019-20,2020-02-19,Macs Snooker League,Finch Hill Musicians A,Newbys DSB,2,3,,0
+27394363,2019-20,2020-02-19,Macs Snooker League,Malew,Malew 1,4,1,,0
+27394364,2019-20,2020-02-19,Macs Snooker League,St Olaves,Finch Hill Reprobates,4,1,,0
+27394371,2019-20,2020-02-26,Macs Snooker League,Finch Hill Rockets,The Wannabes,4,1,,0
+27394372,2019-20,2020-02-26,Macs Snooker League,Finch Hill Reprobates,Finch Hill Mob,4,1,,0
+27394373,2019-20,2020-02-26,Macs Snooker League,Malew 1,St Olaves,2,3,,0
+27394374,2019-20,2020-02-26,Macs Snooker League,Newbys DSB,Malew,4,1,,0
+27394375,2019-20,2020-02-26,Macs Snooker League,Peel Legion,The Hurricanes,4,1,,0
+27394376,2019-20,2020-02-26,Macs Snooker League,Port St Mary Legion,Finch Hill Musicians A,2,3,,0
+27394377,2019-20,2020-03-04,Macs Snooker League,The Hurricanes,Finch Hill Reprobates,3,2,,0
+27394378,2019-20,2020-03-04,Macs Snooker League,Finch Hill Mob,Malew 1,3,2,,0
+27394379,2019-20,2020-03-04,Macs Snooker League,Finch Hill Musicians A,The Wannabes,4,1,,0
+27394380,2019-20,2020-03-04,Macs Snooker League,Malew,Port St Mary Legion,2,3,,0
+27394381,2019-20,2020-03-04,Macs Snooker League,Peel Legion,Finch Hill Rockets,3,2,,0
+27394382,2019-20,2020-03-04,Macs Snooker League,St Olaves,Newbys DSB,2,3,,0
+27394388,2019-20,2020-07-08,Macs Snooker League,The Wannabes,Malew,2,3,,0
+27394389,2019-20,2020-07-08,Macs Snooker League,Finch Hill Rockets,Finch Hill Musicians A,3,2,,0
+27394390,2019-20,2020-07-08,Macs Snooker League,Finch Hill Reprobates,Peel Legion,2,3,,0
+27394391,2019-20,2020-07-08,Macs Snooker League,Malew 1,The Hurricanes,0,5,,0
+27394392,2019-20,2020-07-08,Macs Snooker League,Newbys DSB,Finch Hill Mob,3,2,,0
+27394393,2019-20,2020-07-08,Macs Snooker League,Port St Mary Legion,St Olaves,2,3,,0
+27394394,2019-20,2020-07-15,Macs Snooker League,The Hurricanes,Newbys DSB,2,3,,0
+27394395,2019-20,2020-07-15,Macs Snooker League,Finch Hill Mob,Port St Mary Legion,3,2,,0
+27394396,2019-20,2020-07-15,Macs Snooker League,Finch Hill Reprobates,Finch Hill Rockets,3,2,,0
+27394397,2019-20,2020-07-15,Macs Snooker League,Malew,Finch Hill Musicians A,1,4,,0
+27394398,2019-20,2020-07-15,Macs Snooker League,Peel Legion,Malew 1,1,4,,0
+27394399,2019-20,2020-07-15,Macs Snooker League,St Olaves,The Wannabes,4,1,,0
+27394405,2019-20,2020-07-22,Macs Snooker League,The Wannabes,Finch Hill Mob,3,2,,0
+27394406,2019-20,2020-07-22,Macs Snooker League,Finch Hill Musicians A,St Olaves,3,2,,0
+27394407,2019-20,2020-07-22,Macs Snooker League,Finch Hill Rockets,Malew,1,4,,0
+27394408,2019-20,2020-07-22,Macs Snooker League,Malew 1,Finch Hill Reprobates,4,1,,0
+27394409,2019-20,2020-07-22,Macs Snooker League,Newbys DSB,Peel Legion,4,1,,0
+27394410,2019-20,2020-07-22,Macs Snooker League,Port St Mary Legion,The Hurricanes,1,4,,0
+27394416,2019-20,2020-07-29,Macs Snooker League,The Hurricanes,The Wannabes,4,1,,0
+27394417,2019-20,2020-07-29,Macs Snooker League,Finch Hill Mob,Finch Hill Musicians A,2,3,,0
+27394418,2019-20,2020-07-29,Macs Snooker League,Finch Hill Reprobates,Newbys DSB,1,4,,0
+27394419,2019-20,2020-07-29,Macs Snooker League,Malew 1,Finch Hill Rockets,1,4,,0
+27394420,2019-20,2020-07-29,Macs Snooker League,Peel Legion,Port St Mary Legion,5,0,,0
+27394421,2019-20,2020-07-29,Macs Snooker League,St Olaves,Malew,3,2,,0
+29359914,2020-21,2021-02-24,IOMBSA Mac's Builders Snooker League,Malew,Port St Mary Legion,0,5,,0
+29359915,2020-21,2021-02-24,IOMBSA Mac's Builders Snooker League,Peel Legion,The Wannabes,4,1,,0
+29359916,2020-21,2021-02-24,IOMBSA Mac's Builders Snooker League,Finch Hill Musicians A,The Cue Ballers,3,2,,0
+29359918,2020-21,2021-04-28,IOMBSA Mac's Builders Snooker League,Cue Zone Blinders,Malew,3,2,,0
+29359919,2020-21,2021-04-28,IOMBSA Mac's Builders Snooker League,The Wannabes,Finch Hill Reprobates,3,2,,0
+29359920,2020-21,2021-04-28,IOMBSA Mac's Builders Snooker League,Finch Hill Rockets,Finch Hill Mob,3,2,,0
+29359921,2020-21,2021-04-28,IOMBSA Mac's Builders Snooker League,The Cue Ballers,The Hurricanes,3,2,,0
+29359922,2020-21,2021-04-28,IOMBSA Mac's Builders Snooker League,Peel Legion,Newbys DSB,4,1,,0
+29359923,2020-21,2021-04-28,IOMBSA Mac's Builders Snooker League,St Olaves,Finch Hill Musicians A,2,3,,0
+29359930,2020-21,2021-05-05,IOMBSA Mac's Builders Snooker League,Finch Hill Mob,The Wannabes,2,3,,0
+29359931,2020-21,2021-05-05,IOMBSA Mac's Builders Snooker League,Finch Hill Reprobates,Newbys DSB,2,3,,0
+29359932,2020-21,2021-05-05,IOMBSA Mac's Builders Snooker League,Malew,The Cue Ballers,3,2,,0
+29359933,2020-21,2021-05-05,IOMBSA Mac's Builders Snooker League,Port St Mary Legion,Cue Zone Blinders,1,4,,0
+29359934,2020-21,2021-05-05,IOMBSA Mac's Builders Snooker League,Finch Hill Musicians A,Finch Hill Rockets,4,1,,0
+29359935,2020-21,2021-05-05,IOMBSA Mac's Builders Snooker League,The Hurricanes,St Olaves,3,2,,0
+29359936,2020-21,2021-05-12,IOMBSA Mac's Builders Snooker League,The Wannabes,Finch Hill Musicians A,2,3,,0
+29359937,2020-21,2021-05-12,IOMBSA Mac's Builders Snooker League,Finch Hill Rockets,The Hurricanes,3,2,,0
+29359938,2020-21,2021-05-12,IOMBSA Mac's Builders Snooker League,The Cue Ballers,Port St Mary Legion,2,3,,0
+29359939,2020-21,2021-05-12,IOMBSA Mac's Builders Snooker League,Newbys DSB,Finch Hill Mob,4,1,,0
+29359940,2020-21,2021-05-12,IOMBSA Mac's Builders Snooker League,Peel Legion,Finch Hill Reprobates,4,1,,0
+29359941,2020-21,2021-05-12,IOMBSA Mac's Builders Snooker League,St Olaves,Malew,5,0,,0
+29359942,2020-21,2021-05-19,IOMBSA Mac's Builders Snooker League,Cue Zone Blinders,The Cue Ballers,2,3,,0
+29359943,2020-21,2021-05-19,IOMBSA Mac's Builders Snooker League,Finch Hill Mob,Peel Legion,4,1,,0
+29359944,2020-21,2021-05-19,IOMBSA Mac's Builders Snooker League,Malew,Finch Hill Rockets,3,2,,0
+29359945,2020-21,2021-05-19,IOMBSA Mac's Builders Snooker League,Port St Mary Legion,St Olaves,3,2,,0
+29359946,2020-21,2021-05-19,IOMBSA Mac's Builders Snooker League,Finch Hill Musicians A,Newbys DSB,2,3,,0
+29359947,2020-21,2021-05-19,IOMBSA Mac's Builders Snooker League,The Hurricanes,The Wannabes,4,1,,0
+29359948,2020-21,2021-05-26,IOMBSA Mac's Builders Snooker League,Finch Hill Reprobates,Finch Hill Mob,1,4,,0
+29359949,2020-21,2021-05-26,IOMBSA Mac's Builders Snooker League,The Wannabes,Malew,2,3,,0
+29359950,2020-21,2021-05-26,IOMBSA Mac's Builders Snooker League,Finch Hill Rockets,Port St Mary Legion,4,1,,0
+29359951,2020-21,2021-05-26,IOMBSA Mac's Builders Snooker League,Newbys DSB,The Hurricanes,2,3,,0
+29359952,2020-21,2021-05-26,IOMBSA Mac's Builders Snooker League,Peel Legion,Finch Hill Musicians A,2,3,,0
+29359953,2020-21,2021-05-26,IOMBSA Mac's Builders Snooker League,St Olaves,Cue Zone Blinders,3,2,,0
+29359963,2020-21,2021-06-02,IOMBSA Mac's Builders Snooker League,Cue Zone Blinders,Finch Hill Rockets,1,4,,0
+29359964,2020-21,2021-06-02,IOMBSA Mac's Builders Snooker League,The Cue Ballers,St Olaves,3,2,,0
+29359965,2020-21,2021-06-02,IOMBSA Mac's Builders Snooker League,Malew,Newbys DSB,2,3,,0
+29359966,2020-21,2021-06-02,IOMBSA Mac's Builders Snooker League,Port St Mary Legion,The Wannabes,3,2,,0
+29359967,2020-21,2021-06-02,IOMBSA Mac's Builders Snooker League,Finch Hill Musicians A,Finch Hill Reprobates,1,4,,0
+29359968,2020-21,2021-06-02,IOMBSA Mac's Builders Snooker League,The Hurricanes,Peel Legion,3,2,,0
+29359969,2020-21,2021-06-09,IOMBSA Mac's Builders Snooker League,Finch Hill Mob,Finch Hill Musicians A,3,2,,0
+29359970,2020-21,2021-06-09,IOMBSA Mac's Builders Snooker League,Finch Hill Reprobates,The Hurricanes,3,2,,0
+29359971,2020-21,2021-06-09,IOMBSA Mac's Builders Snooker League,The Wannabes,Cue Zone Blinders,0,5,,0
+29359972,2020-21,2021-06-09,IOMBSA Mac's Builders Snooker League,Finch Hill Rockets,The Cue Ballers,4,1,,0
+29359973,2020-21,2021-06-09,IOMBSA Mac's Builders Snooker League,Newbys DSB,Port St Mary Legion,2,3,,0
+29359974,2020-21,2021-06-09,IOMBSA Mac's Builders Snooker League,Peel Legion,Malew,4,1,,0
+29359982,2020-21,2021-06-16,IOMBSA Mac's Builders Snooker League,Cue Zone Blinders,Newbys DSB,2,3,,0
+29359983,2020-21,2021-06-16,IOMBSA Mac's Builders Snooker League,The Cue Ballers,The Wannabes,4,1,,0
+29359984,2020-21,2021-06-16,IOMBSA Mac's Builders Snooker League,Malew,Finch Hill Reprobates,2,3,,0
+29359985,2020-21,2021-06-16,IOMBSA Mac's Builders Snooker League,Port St Mary Legion,Peel Legion,4,1,,0
+29359986,2020-21,2021-06-16,IOMBSA Mac's Builders Snooker League,St Olaves,Finch Hill Rockets,2,3,,0
+29359987,2020-21,2021-06-16,IOMBSA Mac's Builders Snooker League,The Hurricanes,Finch Hill Mob,1,4,,0
+29359988,2020-21,2021-06-23,IOMBSA Mac's Builders Snooker League,Finch Hill Mob,Malew,3,2,,0
+29359989,2020-21,2021-06-23,IOMBSA Mac's Builders Snooker League,Finch Hill Reprobates,Port St Mary Legion,3,2,,0
+29359990,2020-21,2021-06-23,IOMBSA Mac's Builders Snooker League,The Wannabes,St Olaves,2,3,,0
+29359991,2020-21,2021-06-23,IOMBSA Mac's Builders Snooker League,Newbys DSB,The Cue Ballers,1,4,,0
+29359992,2020-21,2021-06-23,IOMBSA Mac's Builders Snooker League,Peel Legion,Cue Zone Blinders,3,2,,0
+29359993,2020-21,2021-06-23,IOMBSA Mac's Builders Snooker League,Finch Hill Musicians A,The Hurricanes,3,2,,0
+29359994,2020-21,2021-06-30,IOMBSA Mac's Builders Snooker League,Cue Zone Blinders,Finch Hill Reprobates,1,4,,0
+29359995,2020-21,2021-06-30,IOMBSA Mac's Builders Snooker League,Finch Hill Rockets,The Wannabes,3,2,,0
+29359996,2020-21,2021-06-30,IOMBSA Mac's Builders Snooker League,The Cue Ballers,Peel Legion,3,2,,0
+29359997,2020-21,2021-06-30,IOMBSA Mac's Builders Snooker League,Malew,Finch Hill Musicians A,2,3,,0
+29359998,2020-21,2021-06-30,IOMBSA Mac's Builders Snooker League,Port St Mary Legion,Finch Hill Mob,2,3,,0
+29359999,2020-21,2021-06-30,IOMBSA Mac's Builders Snooker League,St Olaves,Newbys DSB,4,1,,0
+29360007,2020-21,2021-07-07,IOMBSA Mac's Builders Snooker League,Finch Hill Mob,Cue Zone Blinders,1,4,,0
+29360008,2020-21,2021-07-07,IOMBSA Mac's Builders Snooker League,Finch Hill Reprobates,The Cue Ballers,2,3,,0
+29360009,2020-21,2021-07-07,IOMBSA Mac's Builders Snooker League,Newbys DSB,Finch Hill Rockets,2,3,,0
+29360010,2020-21,2021-07-07,IOMBSA Mac's Builders Snooker League,Peel Legion,St Olaves,2,3,,0
+29360011,2020-21,2021-07-07,IOMBSA Mac's Builders Snooker League,Finch Hill Musicians A,Port St Mary Legion,5,0,,0
+29360012,2020-21,2021-07-07,IOMBSA Mac's Builders Snooker League,The Hurricanes,Malew,4,1,,0
+29360013,2020-21,2021-07-14,IOMBSA Mac's Builders Snooker League,Cue Zone Blinders,Finch Hill Musicians A,3,2,,0
+29360014,2020-21,2021-07-14,IOMBSA Mac's Builders Snooker League,The Wannabes,Newbys DSB,2,3,,0
+29360015,2020-21,2021-07-14,IOMBSA Mac's Builders Snooker League,Finch Hill Rockets,Peel Legion,3,2,,0
+29360016,2020-21,2021-07-14,IOMBSA Mac's Builders Snooker League,The Cue Ballers,Finch Hill Mob,3,2,,0
+29360017,2020-21,2021-07-14,IOMBSA Mac's Builders Snooker League,Port St Mary Legion,The Hurricanes,3,2,,0
+29360018,2020-21,2021-07-14,IOMBSA Mac's Builders Snooker League,St Olaves,Finch Hill Reprobates,2,3,,0
+31305205,2021-22,2022-01-19,Mac's Builders Snooker League 2021-22,The Wannabes,Newbys DSB,2,3,,0
+31305206,2021-22,2022-01-19,Mac's Builders Snooker League 2021-22,Finch Hill Reprobates,Finch Hill Mob,4,1,,0
+31305208,2021-22,2022-01-19,Mac's Builders Snooker League 2021-22,The Cue Ballers,Finch Hill Musicians A,5,0,,0
+31305211,2021-22,2022-01-26,Mac's Builders Snooker League 2021-22,Cue Zone Blinders,Finch Hill Reprobates,3,2,,0
+31305212,2021-22,2022-01-26,Mac's Builders Snooker League 2021-22,Finch Hill Mob,The Cue Ballers,3,2,,0
+31305214,2021-22,2022-01-26,Mac's Builders Snooker League 2021-22,Newbys DSB,Finch Hill Rockets,2,3,,0
+31305215,2021-22,2022-01-26,Mac's Builders Snooker League 2021-22,Peel Legion,St Olaves,2,3,,0
+31305216,2021-22,2022-01-26,Mac's Builders Snooker League 2021-22,The Hurricanes,Malew,4,1,,0
+31305225,2021-22,2022-02-02,Mac's Builders Snooker League 2021-22,Finch Hill Reprobates,Peel Legion,2,3,,0
+31305226,2021-22,2022-02-02,Mac's Builders Snooker League 2021-22,Finch Hill Rockets,The Wannabes,3,2,,0
+31305227,2021-22,2022-02-02,Mac's Builders Snooker League 2021-22,The Cue Ballers,Cue Zone Blinders,4,1,,0
+31305228,2021-22,2022-02-02,Mac's Builders Snooker League 2021-22,Malew,Finch Hill Musicians A,1,4,,0
+31305229,2021-22,2022-02-02,Mac's Builders Snooker League 2021-22,Port St Mary Legion,Finch Hill Mob,2,3,,0
+31305230,2021-22,2022-02-02,Mac's Builders Snooker League 2021-22,St Olaves,Newbys DSB,2,3,,0
+31305234,2021-22,2022-02-09,Mac's Builders Snooker League 2021-22,Cue Zone Blinders,Port St Mary Legion,4,1,,0
+31305235,2021-22,2022-02-09,Mac's Builders Snooker League 2021-22,The Wannabes,St Olaves,4,1,,0
+31305236,2021-22,2022-02-09,Mac's Builders Snooker League 2021-22,Finch Hill Mob,Malew,3,2,,0
+31305237,2021-22,2022-02-09,Mac's Builders Snooker League 2021-22,Finch Hill Musicians A,The Hurricanes,4,1,,0
+31305238,2021-22,2022-02-09,Mac's Builders Snooker League 2021-22,Newbys DSB,Finch Hill Reprobates,1,4,,0
+31305239,2021-22,2022-02-09,Mac's Builders Snooker League 2021-22,Peel Legion,The Cue Ballers,2,3,,0
+31305240,2021-22,2022-02-16,Mac's Builders Snooker League 2021-22,Finch Hill Reprobates,The Wannabes,3,2,,0
+31305241,2021-22,2022-02-16,Mac's Builders Snooker League 2021-22,The Cue Ballers,Newbys DSB,3,2,,0
+31305242,2021-22,2022-02-16,Mac's Builders Snooker League 2021-22,Malew,Cue Zone Blinders,4,1,,0
+31305243,2021-22,2022-02-16,Mac's Builders Snooker League 2021-22,Port St Mary Legion,Peel Legion,2,3,,0
+31305244,2021-22,2022-02-16,Mac's Builders Snooker League 2021-22,St Olaves,Finch Hill Rockets,3,2,,0
+31305245,2021-22,2022-02-16,Mac's Builders Snooker League 2021-22,The Hurricanes,Finch Hill Mob,2,3,,0
+31305257,2021-22,2022-02-23,Mac's Builders Snooker League 2021-22,Cue Zone Blinders,The Hurricanes,2,3,,0
+31305258,2021-22,2022-02-23,Mac's Builders Snooker League 2021-22,The Wannabes,The Cue Ballers,2,3,,0
+31305259,2021-22,2022-02-23,Mac's Builders Snooker League 2021-22,Finch Hill Mob,Finch Hill Musicians A,4,1,,0
+31305260,2021-22,2022-02-23,Mac's Builders Snooker League 2021-22,Finch Hill Rockets,Finch Hill Reprobates,2,3,,0
+31305261,2021-22,2022-02-23,Mac's Builders Snooker League 2021-22,Newbys DSB,Port St Mary Legion,1,4,,0
+31305262,2021-22,2022-02-23,Mac's Builders Snooker League 2021-22,Peel Legion,Malew,3,2,,0
+31307550,2021-22,2022-03-02,Mac's Builders Snooker League 2021-22,Finch Hill Musicians A,Cue Zone Blinders,4,1,,0
+31307551,2021-22,2022-03-02,Mac's Builders Snooker League 2021-22,Finch Hill Reprobates,St Olaves,2,3,,0
+31307552,2021-22,2022-03-02,Mac's Builders Snooker League 2021-22,The Cue Ballers,Finch Hill Rockets,1,4,,0
+31307553,2021-22,2022-03-02,Mac's Builders Snooker League 2021-22,Malew,Newbys DSB,3,2,,0
+31307554,2021-22,2022-03-02,Mac's Builders Snooker League 2021-22,Port St Mary Legion,The Wannabes,3,2,,0
+31307555,2021-22,2022-03-02,Mac's Builders Snooker League 2021-22,The Hurricanes,Peel Legion,3,2,,0
+31307556,2021-22,2022-03-09,Mac's Builders Snooker League 2021-22,Cue Zone Blinders,Finch Hill Mob,5,0,,0
+31307557,2021-22,2022-03-09,Mac's Builders Snooker League 2021-22,The Wannabes,Malew,2,3,,0
+31307558,2021-22,2022-03-09,Mac's Builders Snooker League 2021-22,Finch Hill Rockets,Port St Mary Legion,2,3,,0
+31307559,2021-22,2022-03-09,Mac's Builders Snooker League 2021-22,Newbys DSB,The Hurricanes,2,3,,0
+31307560,2021-22,2022-03-09,Mac's Builders Snooker League 2021-22,Peel Legion,Finch Hill Musicians A,2,3,,0
+31307561,2021-22,2022-03-09,Mac's Builders Snooker League 2021-22,St Olaves,The Cue Ballers,1,4,,0
+31307563,2021-22,2022-03-16,Mac's Builders Snooker League 2021-22,Finch Hill Mob,Peel Legion,4,1,,0
+31307564,2021-22,2022-03-16,Mac's Builders Snooker League 2021-22,Finch Hill Musicians A,Newbys DSB,3,2,,0
+31307565,2021-22,2022-03-16,Mac's Builders Snooker League 2021-22,The Cue Ballers,Finch Hill Reprobates,2,3,,0
+31307566,2021-22,2022-03-16,Mac's Builders Snooker League 2021-22,Malew,Finch Hill Rockets,3,2,,0
+31307567,2021-22,2022-03-16,Mac's Builders Snooker League 2021-22,Port St Mary Legion,St Olaves,3,2,,0
+31307568,2021-22,2022-03-16,Mac's Builders Snooker League 2021-22,The Hurricanes,The Wannabes,0,5,,0
+31307573,2021-22,2022-03-23,Mac's Builders Snooker League 2021-22,The Wannabes,Finch Hill Musicians A,2,3,,0
+31307574,2021-22,2022-03-23,Mac's Builders Snooker League 2021-22,Finch Hill Reprobates,Port St Mary Legion,4,1,,0
+31307575,2021-22,2022-03-23,Mac's Builders Snooker League 2021-22,Finch Hill Rockets,The Hurricanes,2,3,,0
+31307576,2021-22,2022-03-23,Mac's Builders Snooker League 2021-22,Newbys DSB,Finch Hill Mob,1,4,,0
+31307577,2021-22,2022-03-23,Mac's Builders Snooker League 2021-22,Peel Legion,Cue Zone Blinders,4,1,,0
+31307578,2021-22,2022-03-23,Mac's Builders Snooker League 2021-22,St Olaves,Malew,5,0,,0
+31307579,2021-22,2022-03-30,Mac's Builders Snooker League 2021-22,Cue Zone Blinders,Newbys DSB,2,3,,0
+31307580,2021-22,2022-03-30,Mac's Builders Snooker League 2021-22,Finch Hill Mob,The Wannabes,4,1,,0
+31307581,2021-22,2022-03-30,Mac's Builders Snooker League 2021-22,Finch Hill Musicians A,Finch Hill Rockets,4,1,,0
+31307582,2021-22,2022-03-30,Mac's Builders Snooker League 2021-22,Malew,Finch Hill Reprobates,2,3,,0
+31307583,2021-22,2022-03-30,Mac's Builders Snooker League 2021-22,Port St Mary Legion,The Cue Ballers,2,3,,0
+31307584,2021-22,2022-03-30,Mac's Builders Snooker League 2021-22,The Hurricanes,St Olaves,3,2,,0
+31307585,2021-22,2022-04-06,Mac's Builders Snooker League 2021-22,The Wannabes,Cue Zone Blinders,2,3,,0
+31307586,2021-22,2022-04-06,Mac's Builders Snooker League 2021-22,Finch Hill Reprobates,The Hurricanes,3,2,,0
+31307587,2021-22,2022-04-06,Mac's Builders Snooker League 2021-22,Finch Hill Rockets,Finch Hill Mob,3,2,,0
+31307588,2021-22,2022-04-06,Mac's Builders Snooker League 2021-22,The Cue Ballers,Malew,3,2,,0
+31307589,2021-22,2022-04-06,Mac's Builders Snooker League 2021-22,Newbys DSB,Peel Legion,3,2,,0
+31307590,2021-22,2022-04-06,Mac's Builders Snooker League 2021-22,St Olaves,Finch Hill Musicians A,2,3,,0
+31307591,2021-22,2022-04-13,Mac's Builders Snooker League 2021-22,Cue Zone Blinders,Finch Hill Rockets,0,5,,0
+31307592,2021-22,2022-04-13,Mac's Builders Snooker League 2021-22,Finch Hill Mob,St Olaves,2,3,,0
+31307593,2021-22,2022-04-13,Mac's Builders Snooker League 2021-22,Finch Hill Musicians A,Finch Hill Reprobates,2,3,,0
+31307594,2021-22,2022-04-13,Mac's Builders Snooker League 2021-22,Malew,Port St Mary Legion,3,2,,0
+31307595,2021-22,2022-04-13,Mac's Builders Snooker League 2021-22,The Hurricanes,The Cue Ballers,4,1,,0
+31307596,2021-22,2022-04-13,Mac's Builders Snooker League 2021-22,Peel Legion,The Wannabes,4,1,,0
+rep69,2022-23,2022-10-23,Mac's Builders Snooker League 2022-23,The Cue Ballers,Finch Hill Rockets,5,0,,1
+rep70,2022-23,2022-10-23,Mac's Builders Snooker League 2022-23,Cue Zone Blinders,St Olaves,2,3,,1
+rep71,2022-23,2022-10-23,Mac's Builders Snooker League 2022-23,The Wannabes,The Hurricanes,3,2,,1
+rep72,2022-23,2022-10-23,Mac's Builders Snooker League 2022-23,Finch Hill Mob,Port St Mary Legion,2,3,,1
+rep73,2022-23,2022-10-23,Mac's Builders Snooker League 2022-23,Finch Hill Musicians A,Malew,2,3,,1
+rep74,2022-23,2022-10-23,Mac's Builders Snooker League 2022-23,Peel Legion,Finch Hill Reprobates,2,3,,1
+rep81,2022-23,2022-10-28,Mac's Builders Snooker League 2022-23,Malew,Finch Hill Mob,2,3,,1
+rep82,2022-23,2022-10-28,Mac's Builders Snooker League 2022-23,Port St Mary Legion,The Wannabes,4,1,,1
+rep83,2022-23,2022-10-28,Mac's Builders Snooker League 2022-23,St Olaves,The Cue Ballers,3,2,,1
+rep84,2022-23,2022-10-28,Mac's Builders Snooker League 2022-23,Finch Hill Reprobates,Cue Zone Blinders,3,2,,1
+rep85,2022-23,2022-10-28,Mac's Builders Snooker League 2022-23,The Hurricanes,Peel Legion,3,2,,1
+rep86,2022-23,2022-10-28,Mac's Builders Snooker League 2022-23,Cue Zone Masters,Finch Hill Musicians A,4,1,,1
+rep93,2022-23,2022-11-07,Mac's Builders Snooker League 2022-23,Finch Hill Rockets,St Olaves,3,2,,1
+rep94,2022-23,2022-11-07,Mac's Builders Snooker League 2022-23,Finch Hill Mob,Cue Zone Masters,3,2,,1
+rep95,2022-23,2022-11-07,Mac's Builders Snooker League 2022-23,The Cue Ballers,Finch Hill Reprobates,1,4,,1
+rep96,2022-23,2022-11-07,Mac's Builders Snooker League 2022-23,Cue Zone Blinders,The Hurricanes,1,4,,1
+rep97,2022-23,2022-11-07,Mac's Builders Snooker League 2022-23,Peel Legion,Port St Mary Legion,2,3,,1
+rep98,2022-23,2022-11-07,Mac's Builders Snooker League 2022-23,The Wannabes,Malew,1,4,,1
+rep105,2022-23,2022-11-14,Mac's Builders Snooker League 2022-23,The Hurricanes,The Cue Ballers,1,4,,1
+rep106,2022-23,2022-11-14,Mac's Builders Snooker League 2022-23,Finch Hill Reprobates,Finch Hill Rockets,1,4,,1
+rep107,2022-23,2022-11-14,Mac's Builders Snooker League 2022-23,Finch Hill Musicians A,Finch Hill Mob,3,2,,1
+rep108,2022-23,2022-11-14,Mac's Builders Snooker League 2022-23,Malew,Peel Legion,3,2,,1
+rep109,2022-23,2022-11-14,Mac's Builders Snooker League 2022-23,Port St Mary Legion,Cue Zone Blinders,3,2,,1
+rep110,2022-23,2022-11-14,Mac's Builders Snooker League 2022-23,Cue Zone Masters,The Wannabes,4,1,,1
+rep117,2022-23,2022-11-19,Mac's Builders Snooker League 2022-23,Peel Legion,Cue Zone Masters,2,3,,1
+rep118,2022-23,2022-11-19,Mac's Builders Snooker League 2022-23,The Cue Ballers,Port St Mary Legion,3,2,,1
+rep119,2022-23,2022-11-19,Mac's Builders Snooker League 2022-23,Finch Hill Rockets,The Hurricanes,4,1,,1
+rep120,2022-23,2022-11-19,Mac's Builders Snooker League 2022-23,St Olaves,Finch Hill Reprobates,3,2,,1
+rep121,2022-23,2022-11-19,Mac's Builders Snooker League 2022-23,Cue Zone Blinders,Malew,4,1,,1
+rep122,2022-23,2022-11-19,Mac's Builders Snooker League 2022-23,The Wannabes,Finch Hill Musicians A,1,4,,1
+rep129,2022-23,2022-11-27,Mac's Builders Snooker League 2022-23,Cue Zone Masters,Cue Zone Blinders,2,3,,1
+rep130,2022-23,2022-11-27,Mac's Builders Snooker League 2022-23,Malew,The Cue Ballers,4,1,,1
+rep131,2022-23,2022-11-27,Mac's Builders Snooker League 2022-23,Port St Mary Legion,Finch Hill Rockets,3,2,,1
+rep132,2022-23,2022-11-27,Mac's Builders Snooker League 2022-23,The Hurricanes,St Olaves,4,1,,1
+rep133,2022-23,2022-11-27,Mac's Builders Snooker League 2022-23,Finch Hill Mob,The Wannabes,5,0,,1
+rep134,2022-23,2022-11-27,Mac's Builders Snooker League 2022-23,Finch Hill Musicians A,Peel Legion,3,2,,1
+rep141,2022-23,2022-12-04,Mac's Builders Snooker League 2022-23,The Cue Ballers,Cue Zone Masters,3,2,,1
+rep142,2022-23,2022-12-04,Mac's Builders Snooker League 2022-23,Cue Zone Blinders,Finch Hill Musicians A,2,3,,1
+rep143,2022-23,2022-12-04,Mac's Builders Snooker League 2022-23,St Olaves,Port St Mary Legion,3,2,,1
+rep144,2022-23,2022-12-04,Mac's Builders Snooker League 2022-23,Finch Hill Reprobates,The Hurricanes,3,2,,1
+rep145,2022-23,2022-12-04,Mac's Builders Snooker League 2022-23,Peel Legion,Finch Hill Mob,2,3,,1
+rep146,2022-23,2022-12-04,Mac's Builders Snooker League 2022-23,Finch Hill Rockets,Malew,4,1,,1
+rep1,2022-23,2022-12-12,Mac's Builders Snooker League 2022-23,Cue Zone Masters,Finch Hill Rockets,2,3,,1
+rep2,2022-23,2022-12-12,Mac's Builders Snooker League 2022-23,Finch Hill Mob,Cue Zone Blinders,2,3,,1
+rep3,2022-23,2022-12-12,Mac's Builders Snooker League 2022-23,Port St Mary Legion,Finch Hill Reprobates,2,3,,1
+rep4,2022-23,2022-12-12,Mac's Builders Snooker League 2022-23,Finch Hill Musicians A,The Cue Ballers,2,3,,1
+rep5,2022-23,2022-12-12,Mac's Builders Snooker League 2022-23,Malew,St Olaves,0,5,,1
+rep6,2022-23,2022-12-12,Mac's Builders Snooker League 2022-23,The Wannabes,Peel Legion,4,1,,1
+rep13,2022-23,2022-12-19,Mac's Builders Snooker League 2022-23,St Olaves,Cue Zone Masters,3,2,,1
+rep14,2022-23,2022-12-19,Mac's Builders Snooker League 2022-23,Cue Zone Blinders,The Wannabes,4,1,,1
+rep15,2022-23,2022-12-19,Mac's Builders Snooker League 2022-23,The Hurricanes,Port St Mary Legion,4,1,,1
+rep16,2022-23,2022-12-19,Mac's Builders Snooker League 2022-23,The Cue Ballers,Finch Hill Mob,4,1,,1
+rep17,2022-23,2022-12-19,Mac's Builders Snooker League 2022-23,Finch Hill Reprobates,Malew,4,1,,1
+rep18,2022-23,2022-12-19,Mac's Builders Snooker League 2022-23,Finch Hill Rockets,Finch Hill Musicians A,3,2,,1
+rep25,2022-23,2022-12-23,Mac's Builders Snooker League 2022-23,Peel Legion,Cue Zone Blinders,2,3,,1
+rep26,2022-23,2022-12-23,Mac's Builders Snooker League 2022-23,The Wannabes,The Cue Ballers,1,4,,1
+rep27,2022-23,2022-12-23,Mac's Builders Snooker League 2022-23,Finch Hill Musicians A,St Olaves,4,1,,1
+rep28,2022-23,2022-12-23,Mac's Builders Snooker League 2022-23,Cue Zone Masters,Finch Hill Reprobates,2,3,,1
+rep29,2022-23,2022-12-23,Mac's Builders Snooker League 2022-23,Malew,The Hurricanes,2,3,,1
+rep30,2022-23,2022-12-23,Mac's Builders Snooker League 2022-23,Finch Hill Mob,Finch Hill Rockets,5,0,,1
+rep37,2022-23,2023-01-10,Mac's Builders Snooker League 2022-23,The Cue Ballers,Peel Legion,5,0,,1
+rep38,2022-23,2023-01-10,Mac's Builders Snooker League 2022-23,St Olaves,Finch Hill Mob,3,2,,1
+rep39,2022-23,2023-01-10,Mac's Builders Snooker League 2022-23,The Hurricanes,Cue Zone Masters,3,2,,1
+rep40,2022-23,2023-01-10,Mac's Builders Snooker League 2022-23,Finch Hill Reprobates,Finch Hill Musicians A,4,1,,1
+rep41,2022-23,2023-01-10,Mac's Builders Snooker League 2022-23,Port St Mary Legion,Malew,3,2,,1
+rep42,2022-23,2023-01-10,Mac's Builders Snooker League 2022-23,Finch Hill Rockets,The Wannabes,2,3,,1
+33356710,2022-23,2023-01-11,Mac's Builders Snooker League 2022-23,The Cue Ballers,Cue Zone Blinders,0,5,,0
+rep49,2022-23,2023-01-15,Mac's Builders Snooker League 2022-23,Finch Hill Reprobates,Finch Hill Mob,2,3,,1
+rep50,2022-23,2023-01-15,Mac's Builders Snooker League 2022-23,St Olaves,The Wannabes,4,1,,1
+rep51,2022-23,2023-01-15,Mac's Builders Snooker League 2022-23,The Hurricanes,Finch Hill Musicians A,4,1,,1
+rep52,2022-23,2023-01-15,Mac's Builders Snooker League 2022-23,Port St Mary Legion,Cue Zone Masters,3,2,,1
+rep53,2022-23,2023-01-15,Mac's Builders Snooker League 2022-23,Finch Hill Rockets,Peel Legion,2,3,,1
+33356737,2022-23,2023-01-18,Mac's Builders Snooker League 2022-23,Cue Zone Masters,Malew,2,3,,0
+33356738,2022-23,2023-01-18,Mac's Builders Snooker League 2022-23,The Wannabes,Finch Hill Reprobates,3,2,,0
+33356739,2022-23,2023-01-18,Mac's Builders Snooker League 2022-23,Finch Hill Mob,The Hurricanes,2,3,,0
+33356740,2022-23,2023-01-18,Mac's Builders Snooker League 2022-23,Finch Hill Musicians A,Port St Mary Legion,4,1,,0
+33356741,2022-23,2023-01-18,Mac's Builders Snooker League 2022-23,Peel Legion,St Olaves,4,1,,0
+rep55,2022-23,2023-01-22,Mac's Builders Snooker League 2022-23,Cue Zone Blinders,Finch Hill Rockets,4,1,,1
+33356763,2022-23,2023-01-25,Mac's Builders Snooker League 2022-23,Finch Hill Reprobates,Peel Legion,4,1,,0
+33356764,2022-23,2023-01-25,Mac's Builders Snooker League 2022-23,Finch Hill Rockets,The Cue Ballers,2,3,,0
+33356765,2022-23,2023-01-25,Mac's Builders Snooker League 2022-23,Malew,Finch Hill Musicians A,4,1,,0
+33356766,2022-23,2023-01-25,Mac's Builders Snooker League 2022-23,Port St Mary Legion,Finch Hill Mob,3,2,,0
+33356767,2022-23,2023-01-25,Mac's Builders Snooker League 2022-23,St Olaves,Cue Zone Blinders,1,4,,0
+33356768,2022-23,2023-01-25,Mac's Builders Snooker League 2022-23,The Hurricanes,The Wannabes,2,3,,0
+33356769,2022-23,2023-02-01,Mac's Builders Snooker League 2022-23,Cue Zone Blinders,Finch Hill Reprobates,3,2,,0
+33356770,2022-23,2023-02-01,Mac's Builders Snooker League 2022-23,The Wannabes,Port St Mary Legion,3,2,,0
+33356771,2022-23,2023-02-01,Mac's Builders Snooker League 2022-23,Finch Hill Mob,Malew,3,2,,0
+33356772,2022-23,2023-02-01,Mac's Builders Snooker League 2022-23,Finch Hill Musicians A,Cue Zone Masters,3,2,,0
+33356773,2022-23,2023-02-01,Mac's Builders Snooker League 2022-23,The Cue Ballers,St Olaves,5,0,,0
+33356774,2022-23,2023-02-01,Mac's Builders Snooker League 2022-23,Peel Legion,The Hurricanes,3,2,,0
+33356782,2022-23,2023-02-08,Mac's Builders Snooker League 2022-23,Cue Zone Masters,Finch Hill Mob,0,5,,0
+33356783,2022-23,2023-02-08,Mac's Builders Snooker League 2022-23,Finch Hill Reprobates,The Cue Ballers,3,2,,0
+33356784,2022-23,2023-02-08,Mac's Builders Snooker League 2022-23,Malew,The Wannabes,3,2,,0
+33356785,2022-23,2023-02-08,Mac's Builders Snooker League 2022-23,Port St Mary Legion,Peel Legion,2,3,,0
+33356786,2022-23,2023-02-08,Mac's Builders Snooker League 2022-23,St Olaves,Finch Hill Rockets,2,3,,0
+33356787,2022-23,2023-02-08,Mac's Builders Snooker League 2022-23,The Hurricanes,Cue Zone Blinders,3,2,,0
+33356889,2022-23,2023-02-15,Mac's Builders Snooker League 2022-23,Cue Zone Blinders,Port St Mary Legion,4,1,,0
+33356890,2022-23,2023-02-15,Mac's Builders Snooker League 2022-23,The Wannabes,Cue Zone Masters,4,1,,0
+33356891,2022-23,2023-02-15,Mac's Builders Snooker League 2022-23,Finch Hill Mob,Finch Hill Musicians A,2,3,,0
+33356892,2022-23,2023-02-15,Mac's Builders Snooker League 2022-23,Finch Hill Rockets,Finch Hill Reprobates,4,1,,0
+33356893,2022-23,2023-02-15,Mac's Builders Snooker League 2022-23,The Cue Ballers,The Hurricanes,2,3,,0
+33356894,2022-23,2023-02-15,Mac's Builders Snooker League 2022-23,Peel Legion,Malew,2,3,,0
+33356901,2022-23,2023-02-22,Mac's Builders Snooker League 2022-23,Cue Zone Masters,Peel Legion,1,4,,0
+33356902,2022-23,2023-02-22,Mac's Builders Snooker League 2022-23,Finch Hill Musicians A,The Wannabes,3,2,,0
+33356903,2022-23,2023-02-22,Mac's Builders Snooker League 2022-23,Finch Hill Reprobates,St Olaves,2,3,,0
+33356904,2022-23,2023-02-22,Mac's Builders Snooker League 2022-23,Malew,Cue Zone Blinders,3,2,,0
+33356905,2022-23,2023-02-22,Mac's Builders Snooker League 2022-23,Port St Mary Legion,The Cue Ballers,2,3,,0
+33356906,2022-23,2023-02-22,Mac's Builders Snooker League 2022-23,The Hurricanes,Finch Hill Rockets,2,3,,0
+33356929,2022-23,2023-03-01,Mac's Builders Snooker League 2022-23,Cue Zone Blinders,Cue Zone Masters,1,4,,0
+33356930,2022-23,2023-03-01,Mac's Builders Snooker League 2022-23,The Wannabes,Finch Hill Mob,2,3,,0
+33356931,2022-23,2023-03-01,Mac's Builders Snooker League 2022-23,Finch Hill Rockets,Port St Mary Legion,3,2,,0
+33356932,2022-23,2023-03-01,Mac's Builders Snooker League 2022-23,The Cue Ballers,Malew,1,4,,0
+33356933,2022-23,2023-03-01,Mac's Builders Snooker League 2022-23,Peel Legion,Finch Hill Musicians A,2,3,,0
+33356934,2022-23,2023-03-01,Mac's Builders Snooker League 2022-23,St Olaves,The Hurricanes,0,5,,0
+33356979,2022-23,2023-03-08,Mac's Builders Snooker League 2022-23,Cue Zone Masters,The Cue Ballers,3,2,,0
+33356980,2022-23,2023-03-08,Mac's Builders Snooker League 2022-23,Finch Hill Mob,Peel Legion,2,3,,0
+33356981,2022-23,2023-03-08,Mac's Builders Snooker League 2022-23,Finch Hill Musicians A,Cue Zone Blinders,3,2,,0
+33356982,2022-23,2023-03-08,Mac's Builders Snooker League 2022-23,Malew,Finch Hill Rockets,3,2,,0
+33356983,2022-23,2023-03-08,Mac's Builders Snooker League 2022-23,Port St Mary Legion,St Olaves,4,1,,0
+33356984,2022-23,2023-03-08,Mac's Builders Snooker League 2022-23,The Hurricanes,Finch Hill Reprobates,1,4,,0
+33357029,2022-23,2023-03-15,Mac's Builders Snooker League 2022-23,Cue Zone Blinders,Finch Hill Mob,3,2,,0
+33357030,2022-23,2023-03-15,Mac's Builders Snooker League 2022-23,Finch Hill Reprobates,Port St Mary Legion,3,2,,0
+33357031,2022-23,2023-03-15,Mac's Builders Snooker League 2022-23,Finch Hill Rockets,Cue Zone Masters,4,1,,0
+33357032,2022-23,2023-03-15,Mac's Builders Snooker League 2022-23,The Cue Ballers,Finch Hill Musicians A,4,1,,0
+33357033,2022-23,2023-03-15,Mac's Builders Snooker League 2022-23,Peel Legion,The Wannabes,1,4,,0
+33357034,2022-23,2023-03-15,Mac's Builders Snooker League 2022-23,St Olaves,Malew,3,2,,0
+33357039,2022-23,2023-03-22,Mac's Builders Snooker League 2022-23,Cue Zone Masters,St Olaves,2,3,,0
+33357040,2022-23,2023-03-22,Mac's Builders Snooker League 2022-23,The Wannabes,Cue Zone Blinders,1,4,,0
+33357041,2022-23,2023-03-22,Mac's Builders Snooker League 2022-23,Finch Hill Mob,The Cue Ballers,3,2,,0
+33357042,2022-23,2023-03-22,Mac's Builders Snooker League 2022-23,Finch Hill Musicians A,Finch Hill Rockets,2,3,,0
+33357043,2022-23,2023-03-22,Mac's Builders Snooker League 2022-23,Malew,Finch Hill Reprobates,3,2,,0
+33357044,2022-23,2023-03-22,Mac's Builders Snooker League 2022-23,Port St Mary Legion,The Hurricanes,0,5,,0
+33357055,2022-23,2023-03-29,Mac's Builders Snooker League 2022-23,Cue Zone Blinders,Peel Legion,4,1,,0
+33357056,2022-23,2023-03-29,Mac's Builders Snooker League 2022-23,Finch Hill Reprobates,Cue Zone Masters,2,3,,0
+33357057,2022-23,2023-03-29,Mac's Builders Snooker League 2022-23,Finch Hill Rockets,Finch Hill Mob,1,4,,0
+33357058,2022-23,2023-03-29,Mac's Builders Snooker League 2022-23,The Cue Ballers,The Wannabes,2,3,,0
+33357059,2022-23,2023-03-29,Mac's Builders Snooker League 2022-23,St Olaves,Finch Hill Musicians A,2,3,,0
+33357060,2022-23,2023-03-29,Mac's Builders Snooker League 2022-23,The Hurricanes,Malew,3,2,,0
+33357065,2022-23,2023-04-05,Mac's Builders Snooker League 2022-23,Cue Zone Masters,The Hurricanes,3,2,,0
+33357066,2022-23,2023-04-05,Mac's Builders Snooker League 2022-23,The Wannabes,Finch Hill Rockets,3,2,,0
+33357067,2022-23,2023-04-05,Mac's Builders Snooker League 2022-23,Finch Hill Mob,St Olaves,4,1,,0
+33357068,2022-23,2023-04-05,Mac's Builders Snooker League 2022-23,Finch Hill Musicians A,Finch Hill Reprobates,3,2,,0
+33357069,2022-23,2023-04-05,Mac's Builders Snooker League 2022-23,Malew,Port St Mary Legion,2,3,,0
+33357070,2022-23,2023-04-05,Mac's Builders Snooker League 2022-23,Peel Legion,The Cue Ballers,5,0,,0
+rep57,2023-24,2023-10-15,Mac's Builders Snooker League 2023-24,Cue Zone Blinders,Finch Hill Rockets,2,3,,1
+rep58,2023-24,2023-10-15,Mac's Builders Snooker League 2023-24,The Wannabes,St Olaves,3,2,,1
+rep59,2023-24,2023-10-15,Mac's Builders Snooker League 2023-24,Finch Hill Mob,Cue Zone Masters,3,2,,1
+rep60,2023-24,2023-10-15,Mac's Builders Snooker League 2023-24,Finch Hill Musicians A,Malew,4,1,,1
+rep61,2023-24,2023-10-15,Mac's Builders Snooker League 2023-24,The Cue Ballers,Port St Mary Legion,5,0,,1
+rep62,2023-24,2023-10-15,Mac's Builders Snooker League 2023-24,Peel Legion,The Hurricanes,3,2,,1
+rep63,2023-24,2023-10-22,Mac's Builders Snooker League 2023-24,St Olaves,The Cue Ballers,2,3,,1
+rep64,2023-24,2023-10-22,Mac's Builders Snooker League 2023-24,Finch Hill Rockets,Finch Hill Musicians,1,4,,1
+rep65,2023-24,2023-10-22,Mac's Builders Snooker League 2023-24,Cue Zone Masters,Finch Hill Musicians A,3,2,,1
+rep66,2023-24,2023-10-22,Mac's Builders Snooker League 2023-24,The Hurricanes,Cue Zone Blinders,2,3,,1
+rep67,2023-24,2023-10-22,Mac's Builders Snooker League 2023-24,Malew,The Wannabes,3,2,,1
+rep68,2023-24,2023-10-22,Mac's Builders Snooker League 2023-24,Port St Mary Legion,Peel Legion,3,2,,1
+rep75,2023-24,2023-10-29,Mac's Builders Snooker League 2023-24,The Cue Ballers,Malew,4,1,,1
+rep76,2023-24,2023-10-29,Mac's Builders Snooker League 2023-24,Peel Legion,St Olaves,1,4,,1
+rep77,2023-24,2023-10-29,Mac's Builders Snooker League 2023-24,The Wannabes,Cue Zone Masters,3,2,,1
+rep78,2023-24,2023-10-29,Mac's Builders Snooker League 2023-24,Finch Hill Musicians A,Finch Hill Mob,1,4,,1
+rep79,2023-24,2023-10-29,Mac's Builders Snooker League 2023-24,Finch Hill Musicians,The Hurricanes,3,2,,1
+rep80,2023-24,2023-10-29,Mac's Builders Snooker League 2023-24,Cue Zone Blinders,Port St Mary Legion,5,0,,1
+rep87,2023-24,2023-11-05,Mac's Builders Snooker League 2023-24,Cue Zone Masters,The Cue Ballers,3,2,,1
+rep88,2023-24,2023-11-05,Mac's Builders Snooker League 2023-24,St Olaves,Cue Zone Blinders,1,4,,1
+rep89,2023-24,2023-11-05,Mac's Builders Snooker League 2023-24,Finch Hill Mob,The Wannabes,2,3,,1
+rep90,2023-24,2023-11-05,Mac's Builders Snooker League 2023-24,Port St Mary Legion,Finch Hill Musicians,5,0,,1
+rep91,2023-24,2023-11-05,Mac's Builders Snooker League 2023-24,The Hurricanes,Finch Hill Rockets,1,4,,1
+rep92,2023-24,2023-11-05,Mac's Builders Snooker League 2023-24,Malew,Peel Legion,2,3,,1
+rep100,2023-24,2023-11-13,Mac's Builders Snooker League 2023-24,Cue Zone Blinders,Malew,3,2,,1
+rep101,2023-24,2023-11-13,Mac's Builders Snooker League 2023-24,The Wannabes,Finch Hill Musicians A,2,3,,1
+rep102,2023-24,2023-11-13,Mac's Builders Snooker League 2023-24,Peel Legion,Cue Zone Masters,2,3,,1
+rep103,2023-24,2023-11-13,Mac's Builders Snooker League 2023-24,Finch Hill Rockets,Port St Mary Legion,3,2,,1
+rep104,2023-24,2023-11-13,Mac's Builders Snooker League 2023-24,Finch Hill Musicians,St Olaves,3,2,,1
+rep99,2023-24,2023-11-13,Mac's Builders Snooker League 2023-24,The Cue Ballers,Finch Hill Mob,1,4,,1
+rep111,2023-24,2023-11-18,Mac's Builders Snooker League 2023-24,Cue Zone Masters,Cue Zone Blinders,2,3,,1
+rep112,2023-24,2023-11-18,Mac's Builders Snooker League 2023-24,Finch Hill Mob,Peel Legion,4,1,,1
+rep113,2023-24,2023-11-18,League,Finch Hill Musicians A,The Cue Ballers,2,3,,1
+rep114,2023-24,2023-11-18,Mac's Builders Snooker League 2023-24,St Olaves,Finch Hill Rockets,3,2,,1
+rep115,2023-24,2023-11-18,Mac's Builders Snooker League 2023-24,Malew,Finch Hill Musicians,1,4,,1
+rep116,2023-24,2023-11-18,Mac's Builders Snooker League 2023-24,Port St Mary Legion,The Hurricanes,2,3,,1
+rep123,2023-24,2023-11-27,Mac's Builders Snooker League 2023-24,Cue Zone Blinders,Finch Hill Mob,4,1,,1
+rep124,2023-24,2023-11-27,Mac's Builders Snooker League 2023-24,The Cue Ballers,The Wannabes,3,2,,1
+rep125,2023-24,2023-11-27,Mac's Builders Snooker League 2023-24,Finch Hill Musicians,Cue Zone Masters,5,0,,1
+rep126,2023-24,2023-11-27,Mac's Builders Snooker League 2023-24,Finch Hill Rockets,Malew,4,1,,1
+rep127,2023-24,2023-11-27,Mac's Builders Snooker League 2023-24,The Hurricanes,St Olaves,2,3,,1
+rep128,2023-24,2023-11-27,Mac's Builders Snooker League 2023-24,Peel Legion,Finch Hill Musicians A,4,1,,1
+rep135,2023-24,2023-12-04,Mac's Builders Snooker League 2023-24,Finch Hill Musicians A,Cue Zone Blinders,4,1,,1
+rep136,2023-24,2023-12-04,Mac's Builders Snooker League 2023-24,Finch Hill Mob,Finch Hill Musicians,2,3,,1
+rep137,2023-24,2023-12-04,Mac's Builders Snooker League 2023-24,Cue Zone Masters,Finch Hill Rockets,3,2,,1
+rep138,2023-24,2023-12-04,Mac's Builders Snooker League 2023-24,St Olaves,Port St Mary Legion,2,3,,1
+rep139,2023-24,2023-12-04,Mac's Builders Snooker League 2023-24,The Wannabes,Peel Legion,2,3,,1
+rep140,2023-24,2023-12-04,Mac's Builders Snooker League 2023-24,Malew,The Hurricanes,3,2,,1
+rep147,2023-24,2023-12-10,Mac's Builders Snooker League 2023-24,Cue Zone Blinders,The Wannabes,4,1,,1
+rep148,2023-24,2023-12-10,League,Finch Hill Musicians,Finch Hill Musicians A,2,3,,1
+rep149,2023-24,2023-12-10,Mac's Builders Snooker League 2023-24,Finch Hill Rockets,Finch Hill Mob,4,1,,1
+rep150,2023-24,2023-12-10,Mac's Builders Snooker League 2023-24,Peel Legion,The Cue Ballers,4,1,,1
+rep151,2023-24,2023-12-10,Mac's Builders Snooker League 2023-24,The Hurricanes,Cue Zone Masters,0,5,,1
+rep152,2023-24,2023-12-10,Mac's Builders Snooker League 2023-24,Port St Mary Legion,Malew,3,2,,1
+rep10,2023-24,2023-12-17,Mac's Builders Snooker League 2023-24,Cue Zone Masters,Port St Mary Legion,3,2,,1
+rep11,2023-24,2023-12-17,Mac's Builders Snooker League 2023-24,Finch Hill Mob,The Hurricanes,0,5,,1
+rep12,2023-24,2023-12-17,Mac's Builders Snooker League 2023-24,Malew,St Olaves,0,5,,1
+rep7,2023-24,2023-12-17,Mac's Builders Snooker League 2023-24,The Cue Ballers,Cue Zone Blinders,4,1,,1
+rep8,2023-24,2023-12-17,Mac's Builders Snooker League 2023-24,The Wannabes,Finch Hill Musicians,2,3,,1
+rep9,2023-24,2023-12-17,Mac's Builders Snooker League 2023-24,Finch Hill Musicians A,Finch Hill Rockets,1,4,,1
+rep19,2023-24,2023-12-24,Mac's Builders Snooker League 2023-24,Cue Zone Blinders,Peel Legion,1,4,,1
+rep20,2023-24,2023-12-24,League,Finch Hill Musicians,The Cue Ballers,3,2,,1
+rep21,2023-24,2023-12-24,Mac's Builders Snooker League 2023-24,Finch Hill Rockets,The Wannabes,4,1,,1
+rep22,2023-24,2023-12-24,Mac's Builders Snooker League 2023-24,St Olaves,Cue Zone Masters,3,2,,1
+rep23,2023-24,2023-12-24,Mac's Builders Snooker League 2023-24,Port St Mary Legion,Finch Hill Mob,3,2,,1
+rep24,2023-24,2023-12-24,Mac's Builders Snooker League 2023-24,The Hurricanes,Finch Hill Musicians A,3,2,,1
+rep31,2023-24,2024-01-07,Mac's Builders Snooker League 2023-24,The Cue Ballers,Finch Hill Rockets,3,2,,1
+rep32,2023-24,2024-01-07,Mac's Builders Snooker League 2023-24,Peel Legion,Finch Hill Musicians,2,3,,1
+rep33,2023-24,2024-01-07,Mac's Builders Snooker League 2023-24,Cue Zone Masters,Malew,2,3,,1
+rep34,2023-24,2024-01-07,Mac's Builders Snooker League 2023-24,Finch Hill Mob,St Olaves,3,2,,1
+rep35,2023-24,2024-01-07,Mac's Builders Snooker League 2023-24,Finch Hill Musicians A,Port St Mary Legion,4,1,,1
+rep36,2023-24,2024-01-07,Mac's Builders Snooker League 2023-24,The Wannabes,The Hurricanes,1,4,,1
+rep43,2023-24,2024-01-14,Mac's Builders Snooker League 2023-24,Finch Hill Musicians,Cue Zone Blinders,0,5,,1
+rep44,2023-24,2024-01-14,Mac's Builders Snooker League 2023-24,Finch Hill Rockets,Peel Legion,3,2,,1
+rep45,2023-24,2024-01-14,Mac's Builders Snooker League 2023-24,The Hurricanes,The Cue Ballers,3,2,,1
+rep46,2023-24,2024-01-14,Mac's Builders Snooker League 2023-24,St Olaves,Finch Hill Musicians A,3,2,,1
+rep47,2023-24,2024-01-14,Mac's Builders Snooker League 2023-24,Malew,Finch Hill Mob,2,3,,1
+rep48,2023-24,2024-01-14,Mac's Builders Snooker League 2023-24,Port St Mary Legion,The Wannabes,5,0,,1
+35864231,2023-24,2024-01-17,Mac's Builders Snooker League 2023-24,Cue Zone Masters,Finch Hill Mob,3,2,,0
+35864233,2023-24,2024-01-17,Mac's Builders Snooker League 2023-24,The Hurricanes,Peel Legion,2,3,,0
+35864234,2023-24,2024-01-17,Mac's Builders Snooker League 2023-24,Port St Mary Legion,The Cue Ballers,0,5,,0
+35864235,2023-24,2024-01-17,Mac's Builders Snooker League 2023-24,St Olaves,The Wannabes,4,1,,0
+35864236,2023-24,2024-01-17,Mac's Builders Snooker League 2023-24,Malew,Finch Hill Musicians A,3,2,,0
+rep54,2023-24,2024-01-23,Mac's Builders Snooker League 2023-24,Finch Hill Rockets,Cue Zone Blinders,3,2,,1
+35864237,2023-24,2024-01-24,Mac's Builders Snooker League 2023-24,Finch Hill Musicians A,Cue Zone Masters,3,2,,0
+35864238,2023-24,2024-01-24,Mac's Builders Snooker League 2023-24,The Wannabes,Malew,1,4,,0
+35864239,2023-24,2024-01-24,Mac's Builders Snooker League 2023-24,The Cue Ballers,St Olaves,2,3,,0
+35864240,2023-24,2024-01-24,Mac's Builders Snooker League 2023-24,Peel Legion,Port St Mary Legion,3,2,,0
+35864241,2023-24,2024-01-24,Mac's Builders Snooker League 2023-24,Cue Zone Blinders,The Hurricanes,4,1,,0
+rep56,2023-24,2024-01-28,Mac's Builders Snooker League 2023-24,Finch Hill Musicians,Finch Hill Rockets,1,4,,1
+35864243,2023-24,2024-01-31,Mac's Builders Snooker League 2023-24,Cue Zone Masters,The Wannabes,1,4,,0
+35864244,2023-24,2024-01-31,Mac's Builders Snooker League 2023-24,Finch Hill Mob,Finch Hill Musicians A,2,3,,0
+35864245,2023-24,2024-01-31,Mac's Builders Snooker League 2023-24,The Hurricanes,Finch Hill Musicians,2,3,,0
+35864246,2023-24,2024-01-31,Mac's Builders Snooker League 2023-24,Port St Mary Legion,Cue Zone Blinders,5,0,,0
+35864247,2023-24,2024-01-31,Mac's Builders Snooker League 2023-24,St Olaves,Peel Legion,2,3,,0
+35864248,2023-24,2024-01-31,Mac's Builders Snooker League 2023-24,Malew,The Cue Ballers,4,1,,0
+35864249,2023-24,2024-02-07,Mac's Builders Snooker League 2023-24,The Wannabes,Finch Hill Mob,2,3,,0
+35864250,2023-24,2024-02-07,Mac's Builders Snooker League 2023-24,The Cue Ballers,Cue Zone Masters,2,3,,0
+35864251,2023-24,2024-02-07,Mac's Builders Snooker League 2023-24,Peel Legion,Malew,3,2,,0
+35864252,2023-24,2024-02-07,Mac's Builders Snooker League 2023-24,Cue Zone Blinders,St Olaves,4,1,,0
+35864253,2023-24,2024-02-07,Mac's Builders Snooker League 2023-24,Finch Hill Musicians,Port St Mary Legion,1,4,,0
+35864254,2023-24,2024-02-07,Mac's Builders Snooker League 2023-24,Finch Hill Rockets,The Hurricanes,3,2,,0
+35864255,2023-24,2024-02-14,Mac's Builders Snooker League 2023-24,Cue Zone Masters,Peel Legion,1,4,,0
+35864256,2023-24,2024-02-14,Mac's Builders Snooker League 2023-24,Finch Hill Mob,The Cue Ballers,1,4,,0
+35864257,2023-24,2024-02-14,Mac's Builders Snooker League 2023-24,Finch Hill Musicians A,The Wannabes,4,1,,0
+35864258,2023-24,2024-02-14,Mac's Builders Snooker League 2023-24,Port St Mary Legion,Finch Hill Rockets,3,2,,0
+35864259,2023-24,2024-02-14,Mac's Builders Snooker League 2023-24,St Olaves,Finch Hill Musicians,3,2,,0
+35864260,2023-24,2024-02-14,Mac's Builders Snooker League 2023-24,Malew,Cue Zone Blinders,3,2,,0
+35864261,2023-24,2024-02-21,Mac's Builders Snooker League 2023-24,The Cue Ballers,Finch Hill Musicians A,3,2,,0
+35864262,2023-24,2024-02-21,Mac's Builders Snooker League 2023-24,Peel Legion,Finch Hill Mob,3,2,,0
+35864263,2023-24,2024-02-21,Mac's Builders Snooker League 2023-24,Cue Zone Blinders,Cue Zone Masters,2,3,,0
+35864264,2023-24,2024-02-21,Mac's Builders Snooker League 2023-24,Finch Hill Musicians,Malew,3,2,,0
+35864265,2023-24,2024-02-21,Mac's Builders Snooker League 2023-24,Finch Hill Rockets,St Olaves,0,5,,0
+35864266,2023-24,2024-02-21,Mac's Builders Snooker League 2023-24,The Hurricanes,Port St Mary Legion,3,2,,0
+35864267,2023-24,2024-02-28,Mac's Builders Snooker League 2023-24,Cue Zone Masters,Finch Hill Musicians,3,2,,0
+35864268,2023-24,2024-02-28,Mac's Builders Snooker League 2023-24,Finch Hill Mob,Cue Zone Blinders,3,2,,0
+35864269,2023-24,2024-02-28,Mac's Builders Snooker League 2023-24,Finch Hill Musicians A,Peel Legion,2,3,,0
+35864270,2023-24,2024-02-28,Mac's Builders Snooker League 2023-24,The Wannabes,The Cue Ballers,2,3,,0
+35864271,2023-24,2024-02-28,Mac's Builders Snooker League 2023-24,St Olaves,The Hurricanes,3,2,,0
+35864272,2023-24,2024-02-28,Mac's Builders Snooker League 2023-24,Malew,Finch Hill Rockets,1,4,,0
+35864273,2023-24,2024-03-06,Mac's Builders Snooker League 2023-24,Peel Legion,The Wannabes,4,1,,0
+35864274,2023-24,2024-03-06,Mac's Builders Snooker League 2023-24,Cue Zone Blinders,Finch Hill Musicians A,4,1,,0
+35864275,2023-24,2024-03-06,Mac's Builders Snooker League 2023-24,Finch Hill Musicians,Finch Hill Mob,3,2,,0
+35864276,2023-24,2024-03-06,Mac's Builders Snooker League 2023-24,Finch Hill Rockets,Cue Zone Masters,4,1,,0
+35864277,2023-24,2024-03-06,Mac's Builders Snooker League 2023-24,The Hurricanes,Malew,4,1,,0
+35864278,2023-24,2024-03-06,Mac's Builders Snooker League 2023-24,Port St Mary Legion,St Olaves,4,1,,0
+35864279,2023-24,2024-03-13,Mac's Builders Snooker League 2023-24,Cue Zone Masters,The Hurricanes,3,2,,0
+35864280,2023-24,2024-03-13,Mac's Builders Snooker League 2023-24,Finch Hill Mob,Finch Hill Rockets,3,2,,0
+35864281,2023-24,2024-03-13,Mac's Builders Snooker League 2023-24,Finch Hill Musicians A,Finch Hill Musicians,1,4,,0
+35864282,2023-24,2024-03-13,Mac's Builders Snooker League 2023-24,The Wannabes,Cue Zone Blinders,1,4,,0
+35864283,2023-24,2024-03-13,Mac's Builders Snooker League 2023-24,The Cue Ballers,Peel Legion,4,1,,0
+35864284,2023-24,2024-03-13,Mac's Builders Snooker League 2023-24,Malew,Port St Mary Legion,2,3,,0
+35864285,2023-24,2024-03-20,Mac's Builders Snooker League 2023-24,Cue Zone Blinders,The Cue Ballers,3,2,,0
+35864286,2023-24,2024-03-20,Mac's Builders Snooker League 2023-24,Finch Hill Musicians,The Wannabes,3,2,,0
+35864287,2023-24,2024-03-20,Mac's Builders Snooker League 2023-24,Finch Hill Rockets,Finch Hill Musicians A,1,4,,0
+35864288,2023-24,2024-03-20,Mac's Builders Snooker League 2023-24,The Hurricanes,Finch Hill Mob,2,3,,0
+35864289,2023-24,2024-03-20,Mac's Builders Snooker League 2023-24,Port St Mary Legion,Cue Zone Masters,3,2,,0
+35864290,2023-24,2024-03-20,Mac's Builders Snooker League 2023-24,St Olaves,Malew,5,0,,0
+35864291,2023-24,2024-03-27,Mac's Builders Snooker League 2023-24,Cue Zone Masters,St Olaves,2,3,,0
+35864292,2023-24,2024-03-27,Mac's Builders Snooker League 2023-24,Finch Hill Mob,Port St Mary Legion,3,2,,0
+35864293,2023-24,2024-03-27,Mac's Builders Snooker League 2023-24,Finch Hill Musicians A,The Hurricanes,2,3,,0
+35864294,2023-24,2024-03-27,Mac's Builders Snooker League 2023-24,The Wannabes,Finch Hill Rockets,2,3,,0
+35864295,2023-24,2024-03-27,Mac's Builders Snooker League 2023-24,The Cue Ballers,Finch Hill Musicians,4,1,,0
+35864296,2023-24,2024-03-27,Mac's Builders Snooker League 2023-24,Peel Legion,Cue Zone Blinders,1,4,,0
+35864297,2023-24,2024-04-03,Mac's Builders Snooker League 2023-24,Finch Hill Musicians,Peel Legion,3,2,,0
+35864298,2023-24,2024-04-03,Mac's Builders Snooker League 2023-24,Finch Hill Rockets,The Cue Ballers,4,1,,0
+35864299,2023-24,2024-04-03,Mac's Builders Snooker League 2023-24,The Hurricanes,The Wannabes,4,1,,0
+35864300,2023-24,2024-04-03,Mac's Builders Snooker League 2023-24,Port St Mary Legion,Finch Hill Musicians A,4,1,,0
+35864301,2023-24,2024-04-03,Mac's Builders Snooker League 2023-24,St Olaves,Finch Hill Mob,3,2,,0
+35864302,2023-24,2024-04-03,Mac's Builders Snooker League 2023-24,Malew,Cue Zone Masters,3,2,,0
+35864303,2023-24,2024-04-10,Mac's Builders Snooker League 2023-24,Finch Hill Mob,Malew,1,4,,0
+35864304,2023-24,2024-04-10,Mac's Builders Snooker League 2023-24,Finch Hill Musicians A,St Olaves,1,4,,0
+35864305,2023-24,2024-04-10,Mac's Builders Snooker League 2023-24,The Wannabes,Port St Mary Legion,3,2,,0
+35864306,2023-24,2024-04-10,Mac's Builders Snooker League 2023-24,The Cue Ballers,The Hurricanes,2,3,,0
+35864307,2023-24,2024-04-10,Mac's Builders Snooker League 2023-24,Peel Legion,Finch Hill Rockets,3,2,,0
+35864308,2023-24,2024-04-10,Mac's Builders Snooker League 2023-24,Cue Zone Blinders,Finch Hill Musicians,4,1,,0
+rep280,2024-25,2024-10-21,Manx Car Store Snooker League 2024-25,Cue Zone Masters,Malew,2,3,,1
+rep281,2024-25,2024-10-21,Manx Car Store Snooker League 2024-25,The Wannabes,The Hurricanes,2,3,,1
+rep282,2024-25,2024-10-21,Manx Car Store Snooker League 2024-25,Finch Hill Mob,St Olaves,4,1,,1
+rep283,2024-25,2024-10-21,Manx Car Store Snooker League 2024-25,Finch Hill Musicians,Port St Mary Legion,4,1,,1
+rep284,2024-25,2024-10-21,League,Finch Hill Flyers,Finch Hill Musicians A,4,1,,1
+rep285,2024-25,2024-10-21,Manx Car Store Snooker League 2024-25,The Miscues,Finch Hill Rockets,4,1,,1
+rep286,2024-25,2024-10-26,Manx Car Store Snooker League 2024-25,Cue Zone Blinders,Finch Hill Flyers,5,0,,1
+rep287,2024-25,2024-10-26,Manx Car Store Snooker League 2024-25,Finch Hill Rockets,The Wannabes,4,1,,1
+rep288,2024-25,2024-10-26,Manx Car Store Snooker League 2024-25,Port St Mary Legion,Finch Hill Mob,5,0,,1
+rep289,2024-25,2024-10-26,Manx Car Store Snooker League 2024-25,St Olaves,Cue Zone Masters,2,3,,1
+rep290,2024-25,2024-10-26,Manx Car Store Snooker League 2024-25,The Hurricanes,Finch Hill Musicians,0,5,,1
+rep291,2024-25,2024-11-04,Manx Car Store Snooker League 2024-25,Cue Zone Masters,Port St Mary Legion,2,3,,1
+rep292,2024-25,2024-11-04,Manx Car Store Snooker League 2024-25,The Wannabes,Finch Hill Musicians A,3,2,,1
+rep293,2024-25,2024-11-04,Manx Car Store Snooker League 2024-25,Finch Hill Mob,The Hurricanes,2,3,,1
+rep294,2024-25,2024-11-04,Manx Car Store Snooker League 2024-25,Finch Hill Musicians,Finch Hill Rockets,3,2,,1
+rep295,2024-25,2024-11-04,Manx Car Store Snooker League 2024-25,Malew,St Olaves,2,3,,1
+rep296,2024-25,2024-11-04,Manx Car Store Snooker League 2024-25,The Miscues,Cue Zone Blinders,1,4,,1
+rep297,2024-25,2024-11-04,Manx Car Store Snooker League 2024-25,Finch Hill Musicians A,The Miscues,3,2,,1
+rep298,2024-25,2024-11-11,League,Finch Hill Musicians A,Finch Hill Musicians,4,1,,1
+rep299,2024-25,2024-11-11,Manx Car Store Snooker League 2024-25,Finch Hill Rockets,Finch Hill Mob,4,1,,1
+rep300,2024-25,2024-11-11,Manx Car Store Snooker League 2024-25,Cue Zone Blinders,The Wannabes,5,0,,1
+rep301,2024-25,2024-11-11,Manx Car Store Snooker League 2024-25,Port St Mary Legion,Malew,2,3,,1
+rep302,2024-25,2024-11-11,Manx Car Store Snooker League 2024-25,Finch Hill Flyers,The Miscues,2,3,,1
+rep303,2024-25,2024-11-11,Manx Car Store Snooker League 2024-25,The Hurricanes,Cue Zone Masters,4,1,,1
+rep304,2024-25,2024-11-17,Manx Car Store Snooker League 2024-25,Cue Zone Masters,Finch Hill Rockets,2,3,,1
+rep305,2024-25,2024-11-17,Manx Car Store Snooker League 2024-25,The Wannabes,Finch Hill Flyers,2,3,,1
+rep306,2024-25,2024-11-17,Manx Car Store Snooker League 2024-25,Finch Hill Mob,Finch Hill Musicians A,2,3,,1
+rep307,2024-25,2024-11-17,Manx Car Store Snooker League 2024-25,Finch Hill Musicians,Cue Zone Blinders,1,4,,1
+rep308,2024-25,2024-11-17,Manx Car Store Snooker League 2024-25,Malew,The Hurricanes,3,2,,1
+rep309,2024-25,2024-11-17,Manx Car Store Snooker League 2024-25,St Olaves,Port St Mary Legion,3,2,,1
+rep310,2024-25,2024-11-24,Manx Car Store Snooker League 2024-25,Cue Zone Blinders,Finch Hill Mob,2,3,,1
+rep311,2024-25,2024-11-24,Manx Car Store Snooker League 2024-25,Finch Hill Musicians A,Cue Zone Masters,4,1,,1
+rep312,2024-25,2024-11-24,Manx Car Store Snooker League 2024-25,Finch Hill Rockets,Malew,3,2,,1
+rep313,2024-25,2024-11-24,League,Finch Hill Flyers,Finch Hill Musicians,1,4,,1
+rep314,2024-25,2024-11-24,Manx Car Store Snooker League 2024-25,The Hurricanes,St Olaves,3,2,,1
+rep315,2024-25,2024-11-24,Manx Car Store Snooker League 2024-25,The Miscues,The Wannabes,5,0,,1
+rep316,2024-25,2024-12-02,Manx Car Store Snooker League 2024-25,Cue Zone Masters,Cue Zone Blinders,1,4,,1
+rep317,2024-25,2024-12-02,Manx Car Store Snooker League 2024-25,Finch Hill Mob,Finch Hill Flyers,4,1,,1
+rep318,2024-25,2024-12-02,Manx Car Store Snooker League 2024-25,Finch Hill Musicians,The Miscues,2,3,,1
+rep319,2024-25,2024-12-02,Manx Car Store Snooker League 2024-25,Malew,Finch Hill Musicians A,3,2,,1
+rep320,2024-25,2024-12-02,Manx Car Store Snooker League 2024-25,Port St Mary Legion,The Hurricanes,3,2,,1
+rep321,2024-25,2024-12-02,Manx Car Store Snooker League 2024-25,St Olaves,Finch Hill Rockets,0,5,,1
+rep322,2024-25,2024-12-07,Manx Car Store Snooker League 2024-25,Finch Hill Musicians A,St Olaves,4,1,,1
+rep323,2024-25,2024-12-07,Manx Car Store Snooker League 2024-25,Finch Hill Rockets,Port St Mary Legion,4,1,,1
+rep324,2024-25,2024-12-07,Manx Car Store Snooker League 2024-25,Finch Hill Flyers,Cue Zone Masters,3,2,,1
+rep325,2024-25,2024-12-07,Manx Car Store Snooker League 2024-25,Cue Zone Blinders,Malew,4,1,,1
+rep326,2024-25,2024-12-07,Manx Car Store Snooker League 2024-25,The Wannabes,Finch Hill Musicians,2,3,,1
+rep327,2024-25,2024-12-07,Manx Car Store Snooker League 2024-25,The Miscues,Finch Hill Mob,3,2,,1
+rep252,2024-25,2024-12-15,Manx Car Store Snooker League 2024-25,Cue Zone Masters,The Miscues,5,0,,1
+rep253,2024-25,2024-12-15,Manx Car Store Snooker League 2024-25,Finch Hill Mob,The Wannabes,4,1,,1
+rep254,2024-25,2024-12-15,Manx Car Store Snooker League 2024-25,Malew,Finch Hill Flyers,3,2,,1
+rep255,2024-25,2024-12-15,Manx Car Store Snooker League 2024-25,Port St Mary Legion,Finch Hill Musicians A,3,2,,1
+rep256,2024-25,2024-12-15,Manx Car Store Snooker League 2024-25,St Olaves,Cue Zone Blinders,5,0,,1
+rep257,2024-25,2024-12-15,Manx Car Store Snooker League 2024-25,The Hurricanes,Finch Hill Rockets,3,2,,1
+rep258,2024-25,2024-12-22,Manx Car Store Snooker League 2024-25,Cue Zone Blinders,Port St Mary Legion,2,3,,1
+rep259,2024-25,2024-12-22,Manx Car Store Snooker League 2024-25,The Wannabes,Cue Zone Masters,3,2,,1
+rep260,2024-25,2024-12-22,Manx Car Store Snooker League 2024-25,Finch Hill Musicians A,The Hurricanes,5,0,,1
+rep261,2024-25,2024-12-22,Manx Car Store Snooker League 2024-25,Finch Hill Musicians,Finch Hill Mob,4,1,,1
+rep262,2024-25,2024-12-22,Manx Car Store Snooker League 2024-25,Finch Hill Flyers,St Olaves,0,5,,1
+rep263,2024-25,2024-12-22,Manx Car Store Snooker League 2024-25,The Miscues,Malew,4,1,,1
+rep264,2024-25,2025-01-13,Manx Car Store Snooker League 2024-25,Finch Hill Rockets,Finch Hill Musicians A,1,4,,1
+rep265,2024-25,2025-01-13,Manx Car Store Snooker League 2024-25,The Hurricanes,Cue Zone Blinders,3,2,,1
+rep266,2024-25,2025-01-13,Manx Car Store Snooker League 2024-25,Cue Zone Masters,Finch Hill Musicians,4,1,,1
+rep267,2024-25,2025-01-13,Manx Car Store Snooker League 2024-25,Malew,The Wannabes,4,1,,1
+rep268,2024-25,2025-01-13,Manx Car Store Snooker League 2024-25,Port St Mary Legion,Finch Hill Flyers,3,2,,1
+rep269,2024-25,2025-01-13,Manx Car Store Snooker League 2024-25,St Olaves,The Miscues,5,0,,1
+rep270,2024-25,2025-01-21,Manx Car Store Snooker League 2024-25,Cue Zone Blinders,Finch Hill Rockets,2,3,,1
+rep271,2024-25,2025-01-21,Manx Car Store Snooker League 2024-25,The Wannabes,St Olaves,3,2,,1
+rep272,2024-25,2025-01-21,Manx Car Store Snooker League 2024-25,Finch Hill Musicians,Malew,4,1,,1
+rep273,2024-25,2025-01-21,Manx Car Store Snooker League 2024-25,Finch Hill Flyers,The Hurricanes,1,4,,1
+rep274,2024-25,2025-01-21,Manx Car Store Snooker League 2024-25,The Miscues,Port St Mary Legion,0,5,,1
+rep275,2024-25,2025-01-21,Manx Car Store Snooker League 2024-25,Finch Hill Mob,Cue Zone Masters,3,2,,1
+38842781,2024-25,2025-01-22,Manx Car Store Snooker League 2024-25,Finch Hill Mob,Malew,4,1,,0
+38842783,2024-25,2025-01-22,Manx Car Store Snooker League 2024-25,Finch Hill Flyers,Finch Hill Rockets,2,3,,0
+38842784,2024-25,2025-01-22,Manx Car Store Snooker League 2024-25,The Miscues,The Hurricanes,1,4,,0
+rep276,2024-25,2025-01-27,Manx Car Store Snooker League 2024-25,Cue Zone Blinders,Finch Hill Musicians A,5,0,,1
+rep277,2024-25,2025-01-27,Manx Car Store Snooker League 2024-25,The Wannabes,Port St Mary Legion,0,5,,1
+rep278,2024-25,2025-01-27,Manx Car Store Snooker League 2024-25,Finch Hill Musicians,St Olaves,3,2,,1
+38842785,2024-25,2025-01-29,Manx Car Store Snooker League 2024-25,Finch Hill Musicians A,Finch Hill Flyers,4,1,,0
+38842786,2024-25,2025-01-29,Manx Car Store Snooker League 2024-25,Finch Hill Rockets,The Miscues,5,0,,0
+38842787,2024-25,2025-01-29,Manx Car Store Snooker League 2024-25,Malew,Cue Zone Masters,1,4,,0
+38842789,2024-25,2025-01-29,Manx Car Store Snooker League 2024-25,St Olaves,Finch Hill Mob,2,3,,0
+38842790,2024-25,2025-01-29,Manx Car Store Snooker League 2024-25,The Hurricanes,The Wannabes,2,3,,0
+rep279,2024-25,2025-02-04,Manx Car Store Snooker League 2024-25,Port St Mary Legion,Finch Hill Musicians,2,3,,1
+38842791,2024-25,2025-02-05,Manx Car Store Snooker League 2024-25,Cue Zone Masters,St Olaves,4,1,,0
+38842792,2024-25,2025-02-05,Manx Car Store Snooker League 2024-25,The Wannabes,Finch Hill Rockets,1,4,,0
+38842793,2024-25,2025-02-05,Manx Car Store Snooker League 2024-25,Finch Hill Mob,Port St Mary Legion,3,2,,0
+38842794,2024-25,2025-02-05,Manx Car Store Snooker League 2024-25,Finch Hill Musicians,The Hurricanes,1,4,,0
+38842795,2024-25,2025-02-05,Manx Car Store Snooker League 2024-25,Finch Hill Flyers,Cue Zone Blinders,3,2,,0
+38842796,2024-25,2025-02-05,Manx Car Store Snooker League 2024-25,The Miscues,Finch Hill Musicians A,1,4,,0
+38842800,2024-25,2025-02-12,Manx Car Store Snooker League 2024-25,Cue Zone Blinders,The Miscues,4,1,,0
+38842801,2024-25,2025-02-12,Manx Car Store Snooker League 2024-25,Finch Hill Musicians A,The Wannabes,1,4,,0
+38842802,2024-25,2025-02-12,Manx Car Store Snooker League 2024-25,Finch Hill Rockets,Finch Hill Musicians,3,2,,0
+38842803,2024-25,2025-02-12,Manx Car Store Snooker League 2024-25,Port St Mary Legion,Cue Zone Masters,2,3,,0
+38842804,2024-25,2025-02-12,Manx Car Store Snooker League 2024-25,St Olaves,Malew,2,3,,0
+38842805,2024-25,2025-02-12,Manx Car Store Snooker League 2024-25,The Hurricanes,Finch Hill Mob,1,4,,0
+38842806,2024-25,2025-02-19,Manx Car Store Snooker League 2024-25,Cue Zone Masters,The Hurricanes,2,3,,0
+38842807,2024-25,2025-02-19,Manx Car Store Snooker League 2024-25,The Wannabes,Cue Zone Blinders,3,2,,0
+38842808,2024-25,2025-02-19,Manx Car Store Snooker League 2024-25,Finch Hill Mob,Finch Hill Rockets,3,2,,0
+38842809,2024-25,2025-02-19,Manx Car Store Snooker League 2024-25,Finch Hill Musicians,Finch Hill Musicians A,2,3,,0
+38842810,2024-25,2025-02-19,Manx Car Store Snooker League 2024-25,Malew,Port St Mary Legion,3,2,,0
+38842811,2024-25,2025-02-19,Manx Car Store Snooker League 2024-25,The Miscues,Finch Hill Flyers,3,2,,0
+38842812,2024-25,2025-02-26,Manx Car Store Snooker League 2024-25,Cue Zone Blinders,Finch Hill Musicians,3,2,,0
+38842813,2024-25,2025-02-26,Manx Car Store Snooker League 2024-25,Finch Hill Musicians A,Finch Hill Mob,1,4,,0
+38842814,2024-25,2025-02-26,Manx Car Store Snooker League 2024-25,Finch Hill Rockets,Cue Zone Masters,4,1,,0
+38842815,2024-25,2025-02-26,Manx Car Store Snooker League 2024-25,Port St Mary Legion,St Olaves,2,3,,0
+38842816,2024-25,2025-02-26,Manx Car Store Snooker League 2024-25,Finch Hill Flyers,The Wannabes,3,2,,0
+38842817,2024-25,2025-02-26,Manx Car Store Snooker League 2024-25,The Hurricanes,Malew,2,3,,0
+38842818,2024-25,2025-03-05,Manx Car Store Snooker League 2024-25,Cue Zone Masters,Finch Hill Musicians A,3,2,,0
+38842819,2024-25,2025-03-05,Manx Car Store Snooker League 2024-25,The Wannabes,The Miscues,3,2,,0
+38842820,2024-25,2025-03-05,Manx Car Store Snooker League 2024-25,Finch Hill Mob,Cue Zone Blinders,1,4,,0
+38842821,2024-25,2025-03-05,Manx Car Store Snooker League 2024-25,Finch Hill Musicians,Finch Hill Flyers,4,1,,0
+38842822,2024-25,2025-03-05,Manx Car Store Snooker League 2024-25,Malew,Finch Hill Rockets,3,2,,0
+38842823,2024-25,2025-03-05,Manx Car Store Snooker League 2024-25,St Olaves,The Hurricanes,4,1,,0
+38842824,2024-25,2025-03-12,Manx Car Store Snooker League 2024-25,Cue Zone Blinders,Cue Zone Masters,2,3,,0
+38842825,2024-25,2025-03-12,Manx Car Store Snooker League 2024-25,Finch Hill Musicians A,Malew,2,3,,0
+38842826,2024-25,2025-03-12,Manx Car Store Snooker League 2024-25,Finch Hill Rockets,St Olaves,3,2,,0
+38842827,2024-25,2025-03-12,Manx Car Store Snooker League 2024-25,Finch Hill Flyers,Finch Hill Mob,4,1,,0
+38842828,2024-25,2025-03-12,Manx Car Store Snooker League 2024-25,The Hurricanes,Port St Mary Legion,2,3,,0
+38842829,2024-25,2025-03-12,Manx Car Store Snooker League 2024-25,The Miscues,Finch Hill Musicians,2,3,,0
+38842830,2024-25,2025-03-19,Manx Car Store Snooker League 2024-25,Cue Zone Masters,Finch Hill Flyers,1,4,,0
+38842831,2024-25,2025-03-19,Manx Car Store Snooker League 2024-25,Finch Hill Mob,The Miscues,4,1,,0
+38842832,2024-25,2025-03-19,Manx Car Store Snooker League 2024-25,Finch Hill Musicians,The Wannabes,2,3,,0
+38842833,2024-25,2025-03-19,Manx Car Store Snooker League 2024-25,Malew,Cue Zone Blinders,2,3,,0
+38842834,2024-25,2025-03-19,Manx Car Store Snooker League 2024-25,Port St Mary Legion,Finch Hill Rockets,2,3,,0
+38842835,2024-25,2025-03-19,Manx Car Store Snooker League 2024-25,St Olaves,Finch Hill Musicians A,3,2,,0
+38842836,2024-25,2025-03-26,Manx Car Store Snooker League 2024-25,Cue Zone Blinders,St Olaves,1,4,,0
+38842837,2024-25,2025-03-26,Manx Car Store Snooker League 2024-25,The Wannabes,Finch Hill Mob,0,5,,0
+38842838,2024-25,2025-03-26,Manx Car Store Snooker League 2024-25,Finch Hill Musicians A,Port St Mary Legion,3,2,,0
+38842839,2024-25,2025-03-26,Manx Car Store Snooker League 2024-25,Finch Hill Rockets,The Hurricanes,4,1,,0
+38842840,2024-25,2025-03-26,Manx Car Store Snooker League 2024-25,Finch Hill Flyers,Malew,3,2,,0
+38842841,2024-25,2025-03-26,Manx Car Store Snooker League 2024-25,The Miscues,Cue Zone Masters,2,3,,0
+38842842,2024-25,2025-04-02,Manx Car Store Snooker League 2024-25,Cue Zone Masters,The Wannabes,5,0,,0
+38842843,2024-25,2025-04-02,Manx Car Store Snooker League 2024-25,Finch Hill Mob,Finch Hill Musicians,1,4,,0
+38842844,2024-25,2025-04-02,Manx Car Store Snooker League 2024-25,Malew,The Miscues,3,2,,0
+38842845,2024-25,2025-04-02,Manx Car Store Snooker League 2024-25,Port St Mary Legion,Cue Zone Blinders,3,2,,0
+38842846,2024-25,2025-04-02,Manx Car Store Snooker League 2024-25,St Olaves,Finch Hill Flyers,3,2,,0
+38842847,2024-25,2025-04-02,Manx Car Store Snooker League 2024-25,The Hurricanes,Finch Hill Musicians A,3,2,,0
+38842848,2024-25,2025-04-09,Manx Car Store Snooker League 2024-25,Cue Zone Blinders,The Hurricanes,3,2,,0
+38842849,2024-25,2025-04-09,Manx Car Store Snooker League 2024-25,The Wannabes,Malew,2,3,,0
+38842850,2024-25,2025-04-09,Manx Car Store Snooker League 2024-25,Finch Hill Musicians A,Finch Hill Rockets,3,2,,0
+38842851,2024-25,2025-04-09,Manx Car Store Snooker League 2024-25,Finch Hill Musicians,Cue Zone Masters,2,3,,0
+38842852,2024-25,2025-04-09,Manx Car Store Snooker League 2024-25,Finch Hill Flyers,Port St Mary Legion,2,3,,0
+38842853,2024-25,2025-04-09,Manx Car Store Snooker League 2024-25,The Miscues,St Olaves,3,2,,0
+38842854,2024-25,2025-04-16,Manx Car Store Snooker League 2024-25,Cue Zone Masters,Finch Hill Mob,1,4,,0
+38842855,2024-25,2025-04-16,Manx Car Store Snooker League 2024-25,Finch Hill Rockets,Cue Zone Blinders,2,3,,0
+38842856,2024-25,2025-04-16,Manx Car Store Snooker League 2024-25,Malew,Finch Hill Musicians,3,2,,0
+38842857,2024-25,2025-04-16,Manx Car Store Snooker League 2024-25,Port St Mary Legion,The Miscues,4,1,,0
+38842858,2024-25,2025-04-16,Manx Car Store Snooker League 2024-25,St Olaves,The Wannabes,1,4,,0
+38842859,2024-25,2025-04-16,Manx Car Store Snooker League 2024-25,The Hurricanes,Finch Hill Flyers,4,1,,0
+rep193,2025-26,2025-10-13,League 2025-26,Finch Hill Rockets,Cue Zone Blinders,2,3,,1
+rep194,2025-26,2025-10-13,League 2025-26,The Cue Ballers,Port St Mary Strollers,4,1,,1
+rep195,2025-26,2025-10-13,League 2025-26,Port St Mary Legion,The Miscues,3,2,,1
+rep196,2025-26,2025-10-13,League 2025-26,St Olaves,Finch Hill Mob,3,2,,1
+rep197,2025-26,2025-10-13,League 2025-26,The Hurricanes,The Wannabes,4,1,,1
+rep198,2025-26,2025-10-13,League 2025-26,Cue Zone Masters,Finch Hill Musicians,3,2,,1
+rep199,2025-26,2025-10-20,League 2025-26,Port St Mary Strollers,Port St Mary Legion,3,2,,1
+rep200,2025-26,2025-10-20,League 2025-26,The Wannabes,The Cue Ballers,2,3,,1
+rep201,2025-26,2025-10-20,League 2025-26,Cue Zone Blinders,The Hurricanes,3,2,,1
+rep202,2025-26,2025-10-20,League 2025-26,Finch Hill Musicians,Finch Hill Rockets,3,2,,1
+rep203,2025-26,2025-10-20,League 2025-26,Finch Hill Mob,Cue Zone Masters,4,1,,1
+rep204,2025-26,2025-10-20,League 2025-26,The Miscues,Malew,1,4,,1
+rep205,2025-26,2025-10-28,League 2025-26,Port St Mary Legion,The Wannabes,5,0,,1
+rep206,2025-26,2025-10-28,League 2025-26,Malew,Port St Mary Strollers,4,1,,1
+rep207,2025-26,2025-10-28,League 2025-26,St Olaves,The Miscues,2,3,,1
+rep208,2025-26,2025-10-28,League 2025-26,The Cue Ballers,Cue Zone Blinders,2,3,,1
+rep209,2025-26,2025-10-28,League 2025-26,The Hurricanes,Finch Hill Rockets,3,2,,1
+rep210,2025-26,2025-10-28,League 2025-26,Finch Hill Mob,Finch Hill Musicians,2,3,,1
+rep211,2025-26,2025-11-04,League 2025-26,Cue Zone Blinders,Port St Mary Legion,3,2,,1
+rep212,2025-26,2025-11-04,League 2025-26,The Wannabes,Malew,2,3,,1
+rep213,2025-26,2025-11-04,League 2025-26,Finch Hill Musicians,The Hurricanes,3,2,,1
+rep214,2025-26,2025-11-04,League 2025-26,Finch Hill Rockets,The Cue Ballers,4,1,,1
+rep215,2025-26,2025-11-04,League 2025-26,Port St Mary Strollers,St Olaves,1,4,,1
+rep216,2025-26,2025-11-04,League 2025-26,The Miscues,Cue Zone Masters,2,3,,1
+rep217,2025-26,2025-11-10,League 2025-26,St Olaves,The Wannabes,5,0,,1
+rep218,2025-26,2025-11-10,League 2025-26,The Cue Ballers,The Hurricanes,0,5,,1
+rep219,2025-26,2025-11-10,League 2025-26,Malew,Cue Zone Blinders,2,3,,1
+rep220,2025-26,2025-11-10,League 2025-26,Port St Mary Legion,Finch Hill Rockets,3,2,,1
+rep221,2025-26,2025-11-10,League 2025-26,Finch Hill Flyers,Finch Hill Musicians,4,1,,1
+rep222,2025-26,2025-11-10,League 2025-26,Cue Zone Masters,Port St Mary Strollers,4,1,,1
+rep223,2025-26,2025-11-10,League 2025-26,Finch Hill Mob,The Miscues,3,2,,1
+rep224,2025-26,2025-11-17,League 2025-26,Cue Zone Blinders,St Olaves,4,1,,1
+rep225,2025-26,2025-11-17,League 2025-26,The Hurricanes,Port St Mary Legion,2,3,,1
+rep226,2025-26,2025-11-17,League 2025-26,The Wannabes,Cue Zone Masters,3,2,,1
+rep227,2025-26,2025-11-17,League 2025-26,Finch Hill Rockets,Malew,3,2,,1
+rep228,2025-26,2025-11-17,League 2025-26,Finch Hill Musicians,The Cue Ballers,2,3,,1
+rep229,2025-26,2025-11-17,League 2025-26,Port St Mary Strollers,Finch Hill Mob,2,3,,1
+rep230,2025-26,2025-11-17,League 2025-26,The Miscues,Finch Hill Flyers,2,3,,1
+rep231,2025-26,2025-11-25,League 2025-26,Cue Zone Masters,Cue Zone Blinders,4,1,,1
+rep232,2025-26,2025-11-25,League 2025-26,Finch Hill Mob,The Wannabes,2,3,,1
+rep233,2025-26,2025-11-25,League 2025-26,Malew,The Hurricanes,3,2,,1
+rep234,2025-26,2025-11-25,League 2025-26,Port St Mary Legion,The Cue Ballers,4,1,,1
+rep235,2025-26,2025-11-25,League 2025-26,Finch Hill Flyers,Port St Mary Strollers,1,4,,1
+rep236,2025-26,2025-11-25,League 2025-26,St Olaves,Finch Hill Rockets,3,2,,1
+rep237,2025-26,2025-11-25,League 2025-26,The Miscues,Finch Hill Musicians,3,2,,1
+rep238,2025-26,2025-12-02,League 2025-26,Finch Hill Musicians,Port St Mary Legion,3,2,,1
+rep239,2025-26,2025-12-02,League 2025-26,Cue Zone Blinders,Finch Hill Mob,4,1,,1
+rep240,2025-26,2025-12-02,League 2025-26,The Hurricanes,St Olaves,4,1,,1
+rep241,2025-26,2025-12-02,League 2025-26,Finch Hill Rockets,Cue Zone Masters,3,2,,1
+rep242,2025-26,2025-12-02,League 2025-26,The Cue Ballers,Malew,2,3,,1
+rep243,2025-26,2025-12-02,League 2025-26,The Wannabes,Finch Hill Flyers,4,1,,1
+rep244,2025-26,2025-12-02,League 2025-26,Port St Mary Strollers,The Miscues,2,3,,1
+rep245,2025-26,2025-12-08,League 2025-26,Malew,Port St Mary Legion,2,3,,1
+rep246,2025-26,2025-12-08,League 2025-26,Cue Zone Masters,The Hurricanes,1,4,,1
+rep247,2025-26,2025-12-08,League 2025-26,Finch Hill Flyers,Cue Zone Blinders,1,4,,1
+rep248,2025-26,2025-12-08,League 2025-26,St Olaves,The Cue Ballers,2,3,,1
+rep249,2025-26,2025-12-08,League 2025-26,Port St Mary Strollers,Finch Hill Musicians,2,3,,1
+rep250,2025-26,2025-12-08,League 2025-26,Finch Hill Mob,Finch Hill Rockets,4,1,,1
+rep251,2025-26,2025-12-08,League 2025-26,The Miscues,The Wannabes,3,2,,1
+rep153,2025-26,2025-12-15,League 2025-26,The Hurricanes,Finch Hill Mob,2,3,,1
+rep154,2025-26,2025-12-15,League 2025-26,Cue Zone Blinders,The Miscues,3,2,,1
+rep155,2025-26,2025-12-15,League 2025-26,Port St Mary Legion,St Olaves,4,1,,1
+rep156,2025-26,2025-12-15,League 2025-26,Finch Hill Musicians,Malew,3,2,,1
+rep157,2025-26,2025-12-15,League 2025-26,The Cue Ballers,Cue Zone Masters,2,3,,1
+rep158,2025-26,2025-12-15,League 2025-26,Finch Hill Rockets,Finch Hill Flyers,4,1,,1
+rep159,2025-26,2025-12-15,League 2025-26,The Wannabes,Port St Mary Strollers,3,2,,1
+rep160,2025-26,2025-12-22,League 2025-26,Finch Hill Flyers,The Hurricanes,1,4,,1
+rep161,2025-26,2025-12-22,League 2025-26,Cue Zone Masters,Port St Mary Legion,4,1,,1
+rep162,2025-26,2025-12-22,League 2025-26,Port St Mary Strollers,Cue Zone Blinders,3,2,,1
+rep163,2025-26,2025-12-22,League 2025-26,St Olaves,Malew,2,3,,1
+rep164,2025-26,2025-12-22,League 2025-26,Finch Hill Mob,The Cue Ballers,4,1,,1
+rep165,2025-26,2025-12-22,League 2025-26,The Wannabes,Finch Hill Musicians,2,3,,1
+rep166,2025-26,2025-12-22,League 2025-26,The Miscues,Finch Hill Rockets,4,1,,1
+rep167,2025-26,2026-01-13,League 2025-26,The Hurricanes,The Miscues,4,1,,1
+rep168,2025-26,2026-01-13,League 2025-26,Cue Zone Blinders,The Wannabes,4,1,,1
+rep169,2025-26,2026-01-13,League 2025-26,Port St Mary Legion,Finch Hill Mob,1,4,,1
+rep170,2025-26,2026-01-13,League 2025-26,Malew,Cue Zone Masters,2,3,,1
+rep171,2025-26,2026-01-13,League 2025-26,Finch Hill Musicians,St Olaves,4,1,,1
+rep172,2025-26,2026-01-13,League 2025-26,Finch Hill Rockets,Port St Mary Strollers,2,3,,1
+rep173,2025-26,2026-01-13,League 2025-26,The Cue Ballers,Finch Hill Flyers,4,1,,1
+rep174,2025-26,2026-01-18,League 2025-26,Port St Mary Strollers,The Hurricanes,3,2,,1
+rep175,2025-26,2026-01-18,League 2025-26,Finch Hill Musicians,Cue Zone Blinders,3,2,,1
+rep176,2025-26,2026-01-18,League 2025-26,Finch Hill Mob,Malew,2,3,,1
+rep177,2025-26,2026-01-18,League 2025-26,Cue Zone Masters,St Olaves,4,1,,1
+rep178,2025-26,2026-01-18,League 2025-26,Finch Hill Flyers,Port St Mary Legion,3,2,,1
+rep179,2025-26,2026-01-18,League 2025-26,The Miscues,The Cue Ballers,3,2,,1
+rep180,2025-26,2026-01-18,League 2025-26,The Wannabes,Finch Hill Rockets,1,4,,1
+rep181,2025-26,2026-01-25,League 2025-26,The Wannabes,The Hurricanes,0,5,,1
+rep182,2025-26,2026-01-25,League 2025-26,Cue Zone Blinders,Finch Hill Rockets,3,2,,1
+rep183,2025-26,2026-01-25,League 2025-26,Finch Hill Musicians,Cue Zone Masters,3,2,,1
+rep184,2025-26,2026-01-25,League 2025-26,Finch Hill Mob,St Olaves,2,3,,1
+rep185,2025-26,2026-01-25,League 2025-26,The Miscues,Port St Mary Legion,1,4,,1
+rep186,2025-26,2026-01-25,League 2025-26,Finch Hill Flyers,Malew,3,2,,1
+rep187,2025-26,2026-01-25,League 2025-26,Port St Mary Strollers,The Cue Ballers,3,2,,1
+41965321,2025-26,2026-01-28,League 2025-26,Cue Zone Masters,Finch Hill Mob,2,3,,0
+41965323,2025-26,2026-01-28,League 2025-26,Malew,The Miscues,5,0,,0
+41965325,2025-26,2026-01-28,League 2025-26,St Olaves,Finch Hill Flyers,5,0,,0
+41965326,2025-26,2026-01-28,League 2025-26,The Cue Ballers,The Wannabes,1,4,,0
+rep188,2025-26,2026-02-03,League 2025-26,The Hurricanes,Cue Zone Blinders,2,3,,1
+rep189,2025-26,2026-02-03,League 2025-26,Finch Hill Rockets,Finch Hill Musicians,2,3,,1
+rep190,2025-26,2026-02-03,League 2025-26,Port St Mary Legion,Port St Mary Strollers,3,2,,1
+41965328,2025-26,2026-02-04,League 2025-26,Cue Zone Blinders,The Cue Ballers,4,1,,0
+41965330,2025-26,2026-02-04,League 2025-26,Finch Hill Musicians,Finch Hill Mob,1,4,,0
+41965332,2025-26,2026-02-04,League 2025-26,Port St Mary Strollers,Malew,3,2,,0
+41965333,2025-26,2026-02-04,League 2025-26,Finch Hill Flyers,Cue Zone Masters,1,4,,0
+41965334,2025-26,2026-02-04,League 2025-26,The Miscues,St Olaves,2,3,,0
+rep191,2025-26,2026-02-10,League 2025-26,Finch Hill Rockets,The Hurricanes,4,1,,1
+rep192,2025-26,2026-02-10,League 2025-26,The Wannabes,Port St Mary Legion,1,4,,1
+41965335,2025-26,2026-02-11,League 2025-26,Cue Zone Masters,The Miscues,1,4,,0
+41965336,2025-26,2026-02-11,League 2025-26,Finch Hill Mob,Finch Hill Flyers,2,3,,0
+41965337,2025-26,2026-02-11,League 2025-26,Malew,The Wannabes,2,3,,0
+41965338,2025-26,2026-02-11,League 2025-26,Port St Mary Legion,Cue Zone Blinders,3,2,,0
+41965339,2025-26,2026-02-11,League 2025-26,St Olaves,Port St Mary Strollers,2,3,,0
+41965340,2025-26,2026-02-11,League 2025-26,The Cue Ballers,Finch Hill Rockets,3,2,,0
+41965341,2025-26,2026-02-11,League 2025-26,The Hurricanes,Finch Hill Musicians,3,2,,0
+41965342,2025-26,2026-02-18,League 2025-26,Cue Zone Blinders,Malew,4,1,,0
+41965343,2025-26,2026-02-18,League 2025-26,The Wannabes,St Olaves,3,2,,0
+41965344,2025-26,2026-02-18,League 2025-26,Finch Hill Musicians,Finch Hill Flyers,3,2,,0
+41965345,2025-26,2026-02-18,League 2025-26,Finch Hill Rockets,Port St Mary Legion,1,4,,0
+41965346,2025-26,2026-02-18,League 2025-26,Port St Mary Strollers,Cue Zone Masters,4,1,,0
+41965347,2025-26,2026-02-18,League 2025-26,The Hurricanes,The Cue Ballers,3,2,,0
+41965348,2025-26,2026-02-18,League 2025-26,The Miscues,Finch Hill Mob,2,3,,0
+41965349,2025-26,2026-02-25,League 2025-26,Cue Zone Masters,The Wannabes,5,0,,0
+41965350,2025-26,2026-02-25,League 2025-26,Finch Hill Mob,Port St Mary Strollers,2,3,,0
+41965351,2025-26,2026-02-25,League 2025-26,Malew,Finch Hill Rockets,3,2,,0
+41965352,2025-26,2026-02-25,League 2025-26,Port St Mary Legion,The Hurricanes,4,1,,0
+41965353,2025-26,2026-02-25,League 2025-26,Finch Hill Flyers,The Miscues,1,4,,0
+41965354,2025-26,2026-02-25,League 2025-26,St Olaves,Cue Zone Blinders,3,2,,0
+41965355,2025-26,2026-02-25,League 2025-26,The Cue Ballers,Finch Hill Musicians,2,3,,0
+41965356,2025-26,2026-03-04,League 2025-26,Cue Zone Blinders,Cue Zone Masters,2,3,,0
+41965357,2025-26,2026-03-04,League 2025-26,The Wannabes,Finch Hill Mob,3,2,,0
+41965358,2025-26,2026-03-04,League 2025-26,Finch Hill Musicians,The Miscues,3,2,,0
+41965359,2025-26,2026-03-04,League 2025-26,Finch Hill Rockets,St Olaves,3,2,,0
+41965360,2025-26,2026-03-04,League 2025-26,Port St Mary Strollers,Finch Hill Flyers,4,1,,0
+41965361,2025-26,2026-03-04,League 2025-26,The Cue Ballers,Port St Mary Legion,2,3,,0
+41965362,2025-26,2026-03-04,League 2025-26,The Hurricanes,Malew,4,1,,0
+41965363,2025-26,2026-03-11,League 2025-26,Cue Zone Masters,Finch Hill Rockets,4,1,,0
+41965364,2025-26,2026-03-11,League 2025-26,Finch Hill Mob,Cue Zone Blinders,2,3,,0
+41965365,2025-26,2026-03-11,League 2025-26,Malew,The Cue Ballers,4,1,,0
+41965366,2025-26,2026-03-11,League 2025-26,Port St Mary Legion,Finch Hill Musicians,5,0,,0
+41965367,2025-26,2026-03-11,League 2025-26,Finch Hill Flyers,The Wannabes,1,4,,0
+41965368,2025-26,2026-03-11,League 2025-26,St Olaves,The Hurricanes,1,4,,0
+41965369,2025-26,2026-03-11,League 2025-26,The Miscues,Port St Mary Strollers,2,3,,0
+41965370,2025-26,2026-03-18,League 2025-26,Cue Zone Blinders,Finch Hill Flyers,4,1,,0
+41965371,2025-26,2026-03-18,League 2025-26,The Wannabes,The Miscues,3,2,,0
+41965372,2025-26,2026-03-18,League 2025-26,Finch Hill Musicians,Port St Mary Strollers,4,1,,0
+41965373,2025-26,2026-03-18,League 2025-26,Finch Hill Rockets,Finch Hill Mob,2,3,,0
+41965374,2025-26,2026-03-18,League 2025-26,Port St Mary Legion,Malew,3,2,,0
+41965375,2025-26,2026-03-18,League 2025-26,The Cue Ballers,St Olaves,3,2,,0
+41965376,2025-26,2026-03-18,League 2025-26,The Hurricanes,Cue Zone Masters,2,3,,0
+41965377,2025-26,2026-03-25,League 2025-26,Cue Zone Masters,The Cue Ballers,3,2,,0
+41965378,2025-26,2026-03-25,League 2025-26,Finch Hill Mob,The Hurricanes,0,5,,0
+41965379,2025-26,2026-03-25,League 2025-26,Malew,Finch Hill Musicians,4,1,,0
+41965380,2025-26,2026-03-25,League 2025-26,Port St Mary Strollers,The Wannabes,3,2,,0
+41965381,2025-26,2026-03-25,League 2025-26,Finch Hill Flyers,Finch Hill Rockets,2,3,,0
+41965382,2025-26,2026-03-25,League 2025-26,St Olaves,Port St Mary Legion,3,2,,0
+41965383,2025-26,2026-03-25,League 2025-26,The Miscues,Cue Zone Blinders,3,2,,0
+41965384,2025-26,2026-04-01,League 2025-26,Cue Zone Blinders,Port St Mary Strollers,3,2,,0
+41965385,2025-26,2026-04-01,League 2025-26,Finch Hill Musicians,The Wannabes,5,0,,0
+41965386,2025-26,2026-04-01,League 2025-26,Finch Hill Rockets,The Miscues,2,3,,0
+41965387,2025-26,2026-04-01,League 2025-26,Malew,St Olaves,3,2,,0
+41965388,2025-26,2026-04-01,League 2025-26,Port St Mary Legion,Cue Zone Masters,5,0,,0
+41965389,2025-26,2026-04-01,League 2025-26,The Cue Ballers,Finch Hill Mob,2,3,,0
+41965390,2025-26,2026-04-01,League 2025-26,The Hurricanes,Finch Hill Flyers,4,1,,0
+41965391,2025-26,2026-04-08,League 2025-26,Cue Zone Masters,Malew,3,2,,0
+41965392,2025-26,2026-04-08,League 2025-26,The Wannabes,Cue Zone Blinders,3,2,,0
+41965393,2025-26,2026-04-08,League 2025-26,Finch Hill Mob,Port St Mary Legion,3,2,,0
+41965394,2025-26,2026-04-08,League 2025-26,Port St Mary Strollers,Finch Hill Rockets,3,2,,0
+41965395,2025-26,2026-04-08,League 2025-26,Finch Hill Flyers,The Cue Ballers,4,1,,0
+41965396,2025-26,2026-04-08,League 2025-26,St Olaves,Finch Hill Musicians,2,3,,0
+41965397,2025-26,2026-04-08,League 2025-26,The Miscues,The Hurricanes,1,4,,0
+41965398,2025-26,2026-04-15,League 2025-26,Cue Zone Blinders,Finch Hill Musicians,3,2,,0
+41965399,2025-26,2026-04-15,League 2025-26,Finch Hill Rockets,The Wannabes,4,1,,0
+41965400,2025-26,2026-04-15,League 2025-26,Malew,Finch Hill Mob,3,2,,0
+41965401,2025-26,2026-04-15,League 2025-26,Port St Mary Legion,Finch Hill Flyers,2,3,,0
+41965402,2025-26,2026-04-15,League 2025-26,St Olaves,Cue Zone Masters,3,2,,0
+41965403,2025-26,2026-04-15,League 2025-26,The Cue Ballers,The Miscues,4,1,,0
+41965404,2025-26,2026-04-15,League 2025-26,The Hurricanes,Port St Mary Strollers,3,2,,0
+45407474,2026-27,2026-10-14,League 2026-27,Finch Hill Rockets,Port St Mary Strollers,3,2,,0
+45407475,2026-27,2026-10-14,League 2026-27,Finch Hill Flyers,Malew,3,2,,0
+45407476,2026-27,2026-10-14,League 2026-27,The Hurricanes,The Frame Hunters,2,3,,0
+45407477,2026-27,2026-10-14,League 2026-27,St Olaves,The Wannabes,3,2,,0
+45407478,2026-27,2026-10-14,League 2026-27,Port St Mary Legion,Finch Hill Musicians,1,4,,0
+45407479,2026-27,2026-10-21,League 2026-27,Port St Mary Strollers,Finch Hill Flyers,2,3,,0
+45407480,2026-27,2026-10-21,League 2026-27,Finch Hill Musicians,Finch Hill Mob,4,1,,0
+45407481,2026-27,2026-10-21,League 2026-27,The Wannabes,Port St Mary Legion,3,2,,0
+45407482,2026-27,2026-10-21,League 2026-27,The Frame Hunters,St Olaves,4,1,,0
+45407483,2026-27,2026-10-21,League 2026-27,Malew,The Hurricanes,4,1,,0
+45407484,2026-27,2026-10-28,League 2026-27,Finch Hill Flyers,Finch Hill Rockets,4,1,,0
+45407485,2026-27,2026-10-28,League 2026-27,The Hurricanes,Port St Mary Strollers,3,2,,0
+45407486,2026-27,2026-10-28,League 2026-27,St Olaves,Malew,5,0,,0
+45407487,2026-27,2026-10-28,League 2026-27,Port St Mary Legion,The Frame Hunters,1,4,,0
+45407488,2026-27,2026-10-28,League 2026-27,Finch Hill Mob,The Wannabes,5,0,,0
+45407489,2026-27,2026-11-04,League 2026-27,Port St Mary Strollers,St Olaves,2,3,,0
+45407490,2026-27,2026-11-04,League 2026-27,Finch Hill Rockets,The Hurricanes,4,1,,0
+45407491,2026-27,2026-11-04,League 2026-27,The Wannabes,Finch Hill Musicians,1,4,,0
+45407492,2026-27,2026-11-04,League 2026-27,The Frame Hunters,Finch Hill Mob,4,1,,0
+45407493,2026-27,2026-11-04,League 2026-27,Malew,Port St Mary Legion,5,0,,0
+45407494,2026-27,2026-11-11,League 2026-27,The Hurricanes,Finch Hill Flyers,1,4,,0
+45407495,2026-27,2026-11-11,League 2026-27,St Olaves,Finch Hill Rockets,2,3,,0
+45407496,2026-27,2026-11-11,League 2026-27,Port St Mary Legion,Port St Mary Strollers,4,1,,0
+45407497,2026-27,2026-11-11,League 2026-27,Finch Hill Mob,Malew,4,1,,0
+45407498,2026-27,2026-11-11,League 2026-27,Finch Hill Musicians,The Frame Hunters,3,2,,0
+45407499,2026-27,2026-11-18,League 2026-27,Port St Mary Strollers,Finch Hill Mob,2,3,,0
+45407500,2026-27,2026-11-18,League 2026-27,Finch Hill Rockets,Port St Mary Legion,4,1,,0
+45407501,2026-27,2026-11-18,League 2026-27,Finch Hill Flyers,St Olaves,4,1,,0
+45407502,2026-27,2026-11-18,League 2026-27,The Frame Hunters,The Wannabes,1,4,,0
+45407503,2026-27,2026-11-18,League 2026-27,Malew,Finch Hill Musicians,1,4,,0

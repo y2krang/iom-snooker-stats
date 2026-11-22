@@ -1,0 +1,165 @@
+season,competition,kind,pos,name,P,W,D,L,F,A,diff,pts
+2019-20,Macs Snooker League,teams,1,Newbys DSB,22,18,,4,71,39,32,
+2019-20,Macs Snooker League,teams,2,The Hurricanes,22,17,,5,66,44,22,
+2019-20,Macs Snooker League,teams,3,Peel Legion,22,15,,7,62,48,14,
+2019-20,Macs Snooker League,teams,4,St Olaves,22,13,,9,61,49,12,
+2019-20,Macs Snooker League,teams,5,Finch Hill Rockets,22,12,,10,59,51,8,
+2019-20,Macs Snooker League,teams,6,Finch Hill Mob,22,11,,11,55,55,0,
+2019-20,Macs Snooker League,teams,7,Finch Hill Musicians A,22,10,,12,55,55,0,
+2019-20,Macs Snooker League,teams,8,Malew,22,9,,13,54,56,-2,
+2019-20,Macs Snooker League,teams,9,Malew 1,22,9,,13,46,64,-18,
+2019-20,Macs Snooker League,teams,10,Port St Mary Legion,22,8,,14,49,61,-12,
+2019-20,Macs Snooker League,teams,11,Finch Hill Reprobates,22,6,,16,42,68,-26,
+2019-20,Macs Snooker League,teams,12,The Wannabes,22,4,,18,40,70,-30,
+2025-26,League 2025-26,teams,1,Cue Zone Blinders,26,18,,8,76,54,22,
+2025-26,League 2025-26,teams,2,Port St Mary Legion,26,17,,9,79,51,28,
+2025-26,League 2025-26,teams,3,Finch Hill Musicians,26,17,,9,68,62,6,
+2025-26,League 2025-26,teams,4,The Hurricanes,26,16,,10,81,49,32,
+2025-26,League 2025-26,teams,5,Cue Zone Masters,26,16,,10,71,59,12,
+2025-26,League 2025-26,teams,6,Finch Hill Mob,26,14,,12,68,62,6,
+2025-26,League 2025-26,teams,7,Port St Mary Strollers,26,14,,12,64,66,-2,
+2025-26,League 2025-26,teams,8,Malew,26,13,,13,69,61,8,
+2025-26,League 2025-26,teams,9,St Olaves,26,11,,15,62,68,-6,
+2025-26,League 2025-26,teams,10,The Wannabes,26,11,,15,50,79,-29,
+2025-26,League 2025-26,teams,11,The Miscues,26,10,,16,58,72,-14,
+2025-26,League 2025-26,teams,12,Finch Hill Rockets,26,9,,17,62,67,-5,
+2025-26,League 2025-26,teams,13,The Cue Ballers,26,8,,18,54,76,-22,
+2025-26,League 2025-26,teams,14,Finch Hill Flyers,26,8,,18,47,83,-36,
+2018-19,Macs Snooker League,teams,1,St Olaves,22,16,,6,65,45,20,
+2018-19,Macs Snooker League,teams,2,Finch Hill Mob,22,14,,8,65,45,20,
+2018-19,Macs Snooker League,teams,3,Finch Hill Musicians A,22,14,,8,63,47,16,
+2018-19,Macs Snooker League,teams,4,Port St Mary Legion,22,13,,9,53,57,-4,
+2018-19,Macs Snooker League,teams,5,Finch Hill Reprobates,22,11,,11,59,51,8,
+2018-19,Macs Snooker League,teams,6,The Hurricanes,22,11,,11,54,56,-2,
+2018-19,Macs Snooker League,teams,7,Peel Legion,22,10,,12,55,55,0,
+2018-19,Macs Snooker League,teams,8,Malew 1,22,10,,12,52,58,-6,
+2018-19,Macs Snooker League,teams,9,Finch Hill Rockets,22,9,,13,54,56,-2,
+2018-19,Macs Snooker League,teams,10,Newbys DSB,22,9,,13,47,63,-16,
+2018-19,Macs Snooker League,teams,11,Malew,22,8,,14,54,56,-2,
+2018-19,Macs Snooker League,teams,12,The Wannabes,22,7,,15,39,71,-32,
+2021-22,IOMBSA Newfield Premier League,players,1,John Kennish,5,3,2,0,22,8,14,11
+2021-22,IOMBSA Newfield Premier League,players,2,Darryl Hill,5,3,1,1,18,12,6,10
+2021-22,IOMBSA Newfield Premier League,players,3,Peter Kirkham,5,2,2,1,16,14,2,8
+2021-22,IOMBSA Newfield Premier League,players,4,Tom Miller,5,2,1,2,11,19,-8,7
+2021-22,IOMBSA Newfield Premier League,players,5,Peter Crellin,5,0,3,2,13,17,-4,3
+2021-22,IOMBSA Newfield Premier League,players,6,Calum Gardner,5,0,1,4,10,20,-10,1
+2023-24,Manx Car Store Premier League 2024,players,1,Darryl Hill,6,5,1,0,21,3,18,16
+2023-24,Manx Car Store Premier League 2024,players,2,Michael Curphey,6,5,0,1,21,3,18,15
+2023-24,Manx Car Store Premier League 2024,players,3,Tom Miller,6,4,1,1,17,7,10,13
+2023-24,Manx Car Store Premier League 2024,players,4,Chris Dagnall,6,3,0,3,10,14,-4,9
+2023-24,Manx Car Store Premier League 2024,players,5,Paul Smyth,6,2,0,4,8,16,-8,6
+2023-24,Manx Car Store Premier League 2024,players,6,Conor Mahon,6,0,1,5,4,20,-16,1
+2023-24,Manx Car Store Premier League 2024,players,7,Marek Kenny,6,0,1,5,3,21,-18,1
+2024-25,Manx Car Store Snooker League 2024-25,teams,1,Finch Hill Rockets,24,16,,8,73,47,26,
+2024-25,Manx Car Store Snooker League 2024-25,teams,2,Malew,24,15,,9,60,60,0,
+2024-25,Manx Car Store Snooker League 2024-25,teams,3,Finch Hill Mob,24,14,,10,64,56,8,
+2024-25,Manx Car Store Snooker League 2024-25,teams,4,Cue Zone Blinders,24,13,,11,70,50,20,
+2024-25,Manx Car Store Snooker League 2024-25,teams,5,Finch Hill Musicians A,24,13,,11,64,56,8,
+2024-25,Manx Car Store Snooker League 2024-25,teams,6,The Hurricanes,24,13,,11,60,60,0,
+2024-25,Manx Car Store Snooker League 2024-25,teams,7,Port St Mary Legion,24,12,,12,65,55,10,
+2024-25,Manx Car Store Snooker League 2024-25,teams,8,Finch Hill Musicians,24,12,,12,63,57,6,
+2024-25,Manx Car Store Snooker League 2024-25,teams,9,St Olaves,24,11,,13,62,58,4,
+2024-25,Manx Car Store Snooker League 2024-25,teams,10,Cue Zone Masters,24,11,,13,60,60,0,
+2024-25,Manx Car Store Snooker League 2024-25,teams,11,The Wannabes,24,10,,14,46,74,-28,
+2024-25,Manx Car Store Snooker League 2024-25,teams,12,Finch Hill Flyers,24,8,,16,48,72,-24,
+2024-25,Manx Car Store Snooker League 2024-25,teams,13,The Miscues,24,8,,16,45,75,-30,
+2026-27,League 2026-27,teams,1,Finch Hill Musicians,5,5,,0,19,6,13,19
+2026-27,League 2026-27,teams,2,Finch Hill Flyers,5,5,,0,18,7,11,18
+2026-27,League 2026-27,teams,3,The Frame Hunters,6,4,,2,18,12,6,18
+2026-27,League 2026-27,teams,4,Finch Hill Rockets,5,4,,1,15,10,5,15
+2026-27,League 2026-27,teams,5,St Olaves,6,3,,3,15,15,0,15
+2026-27,League 2026-27,teams,6,Finch Hill Mob,5,3,,2,14,11,3,14
+2026-27,League 2026-27,teams,7,Malew,6,2,,4,13,17,-4,13
+2026-27,League 2026-27,teams,8,Port St Mary Strollers,6,0,,6,11,19,-8,11
+2026-27,League 2026-27,teams,9,The Wannabes,5,2,,3,10,15,-5,10
+2026-27,League 2026-27,teams,10,Port St Mary Legion,6,1,,5,9,21,-12,9
+2026-27,League 2026-27,teams,11,The Hurricanes,5,1,,4,8,17,-9,8
+2023-24,Mac's Builders Snooker League 2023-24,teams,1,Cue Zone Blinders,24,15,,9,71,49,22,
+2023-24,Mac's Builders Snooker League 2023-24,teams,2,St Olaves,24,15,,9,69,51,18,
+2023-24,Mac's Builders Snooker League 2023-24,teams,3,Finch Hill Rockets,24,15,,9,68,52,16,
+2023-24,Mac's Builders Snooker League 2023-24,teams,4,Peel Legion,24,15,,9,64,56,8,
+2023-24,Mac's Builders Snooker League 2023-24,teams,5,Finch Hill Musicians,24,15,,9,60,60,0,
+2023-24,Mac's Builders Snooker League 2023-24,teams,6,The Cue Ballers,24,13,,11,66,54,12,
+2023-24,Mac's Builders Snooker League 2023-24,teams,7,Port St Mary Legion,24,13,,11,63,57,6,
+2023-24,Mac's Builders Snooker League 2023-24,teams,8,Cue Zone Masters,24,11,,13,56,64,-8,
+2023-24,Mac's Builders Snooker League 2023-24,teams,9,Finch Hill Mob,24,11,,13,56,64,-8,
+2023-24,Mac's Builders Snooker League 2023-24,teams,10,The Hurricanes,24,10,,14,59,61,-2,
+2023-24,Mac's Builders Snooker League 2023-24,teams,11,Finch Hill Musicians A,24,9,,15,55,65,-10,
+2023-24,Mac's Builders Snooker League 2023-24,teams,12,Malew,24,9,,15,50,70,-20,
+2023-24,Mac's Builders Snooker League 2023-24,teams,13,The Wannabes,24,5,,19,43,77,-34,
+2022-23,Mac's Builders Snooker League 2022-23,teams,1,Finch Hill Musicians A,24,15,,9,61,59,2,
+2022-23,Mac's Builders Snooker League 2022-23,teams,2,Cue Zone Blinders,24,14,,10,71,49,22,
+2022-23,Mac's Builders Snooker League 2022-23,teams,3,The Hurricanes,24,14,,10,68,52,16,
+2022-23,Mac's Builders Snooker League 2022-23,teams,4,Finch Hill Mob,24,13,,11,68,52,16,
+2022-23,Mac's Builders Snooker League 2022-23,teams,5,The Cue Ballers,24,13,,11,64,56,8,
+2022-23,Mac's Builders Snooker League 2022-23,teams,6,Finch Hill Reprobates,24,13,,11,63,57,6,
+2022-23,Mac's Builders Snooker League 2022-23,teams,7,Malew,24,12,,12,59,61,-2,
+2022-23,Mac's Builders Snooker League 2022-23,teams,8,Finch Hill Rockets,24,12,,12,57,63,-6,
+2022-23,Mac's Builders Snooker League 2022-23,teams,9,St Olaves,24,12,,12,54,66,-12,
+2022-23,Mac's Builders Snooker League 2022-23,teams,10,Port St Mary Legion,24,10,,14,54,66,-12,
+2022-23,Mac's Builders Snooker League 2022-23,teams,11,The Wannabes,24,10,,14,50,70,-20,
+2022-23,Mac's Builders Snooker League 2022-23,teams,12,Cue Zone Masters,24,9,,15,56,64,-8,
+2022-23,Mac's Builders Snooker League 2022-23,teams,13,Peel Legion,24,9,,15,55,65,-10,
+2020-21,IOMBSA Castle Cabs Premier League,players,1,Darryl Hill,6,6,0,0,29,7,22,18
+2020-21,IOMBSA Castle Cabs Premier League,players,2,John Kennish,6,4,1,1,23,13,10,13
+2020-21,IOMBSA Castle Cabs Premier League,players,3,Tom Miller,6,4,0,2,20,16,4,12
+2020-21,IOMBSA Castle Cabs Premier League,players,4,Peter Kirkham,6,2,1,3,16,20,-4,7
+2020-21,IOMBSA Castle Cabs Premier League,players,5,Sean Corkish,6,1,3,2,16,20,-4,6
+2020-21,IOMBSA Castle Cabs Premier League,players,6,Peter Crellin,6,1,1,4,14,22,-8,4
+2020-21,IOMBSA Castle Cabs Premier League,players,7,Paul Smith,6,0,0,6,8,28,-20,0
+2020-21,IOMBSA Mac's Builders Snooker League,teams,1,Finch Hill Rockets,24,19,,5,72,48,24,
+2020-21,IOMBSA Mac's Builders Snooker League,teams,2,St Olaves,24,16,,8,72,48,24,
+2020-21,IOMBSA Mac's Builders Snooker League,teams,3,The Hurricanes,24,15,,9,69,51,18,
+2020-21,IOMBSA Mac's Builders Snooker League,teams,4,Finch Hill Mob,24,13,,11,64,56,8,
+2020-21,IOMBSA Mac's Builders Snooker League,teams,5,Finch Hill Musicians A,24,12,,12,64,56,8,
+2020-21,IOMBSA Mac's Builders Snooker League,teams,6,Cue Zone Blinders,24,12,,12,60,60,0,
+2020-21,IOMBSA Mac's Builders Snooker League,teams,7,The Cue Ballers,24,12,,12,58,62,-4,
+2020-21,IOMBSA Mac's Builders Snooker League,teams,8,Port St Mary Legion,24,12,,12,55,65,-10,
+2020-21,IOMBSA Mac's Builders Snooker League,teams,9,Finch Hill Reprobates,24,11,,13,56,64,-8,
+2020-21,IOMBSA Mac's Builders Snooker League,teams,10,Newbys DSB,24,10,,14,56,64,-8,
+2020-21,IOMBSA Mac's Builders Snooker League,teams,11,Malew,24,9,,15,56,64,-8,
+2020-21,IOMBSA Mac's Builders Snooker League,teams,12,Peel Legion,24,8,,16,53,67,-14,
+2020-21,IOMBSA Mac's Builders Snooker League,teams,13,The Wannabes,24,7,,17,45,75,-30,
+2021-22,Mac's Builders Snooker League 2021-22,teams,1,Finch Hill Reprobates,24,17,,7,68,52,16,
+2021-22,Mac's Builders Snooker League 2021-22,teams,2,Finch Hill Musicians A,24,16,,8,68,52,16,
+2021-22,Mac's Builders Snooker League 2021-22,teams,3,Finch Hill Mob,24,16,,8,67,53,14,
+2021-22,Mac's Builders Snooker League 2021-22,teams,4,Finch Hill Rockets,24,14,,10,69,51,18,
+2021-22,Mac's Builders Snooker League 2021-22,teams,5,St Olaves,24,14,,10,66,54,12,
+2021-22,Mac's Builders Snooker League 2021-22,teams,6,Cue Zone Blinders,24,14,,10,60,60,0,
+2021-22,Mac's Builders Snooker League 2021-22,teams,7,Peel Legion,24,12,,12,65,55,10,
+2021-22,Mac's Builders Snooker League 2021-22,teams,8,The Hurricanes,24,11,,13,56,64,-8,
+2021-22,Mac's Builders Snooker League 2021-22,teams,9,Port St Mary Legion,24,10,,14,57,63,-6,
+2021-22,Mac's Builders Snooker League 2021-22,teams,10,Newbys DSB,24,10,,14,53,67,-14,
+2021-22,Mac's Builders Snooker League 2021-22,teams,11,The Cue Ballers,24,9,,15,54,66,-12,
+2021-22,Mac's Builders Snooker League 2021-22,teams,12,Malew,24,8,,16,50,70,-20,
+2021-22,Mac's Builders Snooker League 2021-22,teams,13,The Wannabes,24,5,,19,47,73,-26,
+2022-23,Newfield Premier League 2023,players,1,John Kennish,5,4,1,0,23,7,16,13
+2022-23,Newfield Premier League 2023,players,2,Darryl Hill,5,4,0,1,22,8,14,12
+2022-23,Newfield Premier League 2023,players,3,Tom Miller,5,2,2,1,18,12,6,8
+2022-23,Newfield Premier League 2023,players,4,Calum Gardner,5,2,1,2,13,17,-4,7
+2022-23,Newfield Premier League 2023,players,5,Chris Dagnall,5,0,1,4,8,22,-14,1
+2022-23,Newfield Premier League 2023,players,6,Dollin Mercer,5,0,1,4,6,24,-18,1
+2016-17,Macs Snooker League,teams,1,St Olaves,22,16,,6,65,45,20,
+2016-17,Macs Snooker League,teams,2,St Olaves Old Skool,22,15,,7,67,43,24,
+2016-17,Macs Snooker League,teams,3,Finch Hill Mob,22,14,,8,68,42,26,
+2016-17,Macs Snooker League,teams,4,Malew,22,11,,11,57,53,4,
+2016-17,Macs Snooker League,teams,5,The Hurricanes,22,11,,11,57,53,4,
+2016-17,Macs Snooker League,teams,6,Port St Mary Legion,22,11,,11,57,53,4,
+2016-17,Macs Snooker League,teams,7,Finch Hill Rockets,22,10,,12,51,59,-8,
+2016-17,Macs Snooker League,teams,8,Peel Legion,22,10,,12,51,59,-8,
+2016-17,Macs Snooker League,teams,9,Finch Hill Musicians A,22,9,,13,53,57,-4,
+2016-17,Macs Snooker League,teams,10,DSC Bandits,22,8,,13,47,62,-15,
+2016-17,Macs Snooker League,teams,11,Malew 1,22,8,,14,47,63,-16,
+2016-17,Macs Snooker League,teams,12,The Wannabes,22,8,,13,39,70,-31,
+2017-18,Macs Snooker League,teams,1,Finch Hill Musicians A,22,18,,4,63,47,16,
+2017-18,Macs Snooker League,teams,2,St Olaves Old Skool,22,16,,6,75,35,40,
+2017-18,Macs Snooker League,teams,3,The Hurricanes,22,13,,9,59,51,8,
+2017-18,Macs Snooker League,teams,4,Finch Hill Mob,22,11,,11,62,48,14,
+2017-18,Macs Snooker League,teams,5,Port St Mary Legion,22,11,,11,51,59,-8,
+2017-18,Macs Snooker League,teams,6,Finch Hill Rockets,22,10,,12,54,56,-2,
+2017-18,Macs Snooker League,teams,7,DSC Bandits,22,10,,12,54,56,-2,
+2017-18,Macs Snooker League,teams,8,Peel Legion,22,10,,12,54,56,-2,
+2017-18,Macs Snooker League,teams,9,St Olaves,22,9,,13,56,54,2,
+2017-18,Macs Snooker League,teams,10,The Wannabes,22,9,,13,47,63,-16,
+2017-18,Macs Snooker League,teams,11,Malew,22,8,,14,44,66,-22,
+2017-18,Macs Snooker League,teams,12,Malew 1,22,7,,15,41,69,-28,
